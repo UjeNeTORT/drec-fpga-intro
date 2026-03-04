@@ -10,7 +10,7 @@ reg [3:0] i_op = 4'b0000;
 wire [WIDTH-1:0] res;
 
 always begin
-  $display("[%t] i_1=%b, i_2=%b", $realtime);
+  $display("[%t] i_1=%b, i_2=%b", $realtime, i_1, i_2);
   i_op = 4'b0000;
   #1 if (i_1 + i_2 == res)
       $display("[%t] s1=%b + s2=%b dst=%b OK",   $realtime, i_1, i_2, res);
