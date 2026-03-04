@@ -7,6 +7,7 @@ reg [2:0]  cnd;
 wire res;
 
 always begin
+  #1;
   $display("[%t] rs1=%b rs2=%b", $realtime, rs1, rs2);
   cnd = 3'b000;
   #1 $display("[%t] beq  res=%b %s", $realtime, res, res == (rs1 == rs2) ? "OK" : "FAIL");
