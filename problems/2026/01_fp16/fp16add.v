@@ -55,7 +55,7 @@ always @(i_a, i_b) begin
   // find leading one
   flo_found = 0;
   m_shift = 0;
-  for (integer i = 0; i < 14; i++) begin
+  for (integer i = 0; i < 13; i++) begin
     // mw_sum_abs[14] == 0 because the number is positive
     if (mw_sum_abs[13 - i] == 1 && !flo_found) begin
       flo_found = 1;
@@ -67,7 +67,7 @@ always @(i_a, i_b) begin
   //   +---------+
   mw_sum_abs_norm = mw_sum_abs << m_shift;
   m_res_norm = mw_sum_abs_norm[12:3]; // round towards zero
-  exp_res = exp_1 - m_shift;
+  exp_res = exp_1 + 1 - m_shift; // + 1 to handle 1.0 + 1.1 = 11.1 case (msb)
 
   o_res = {sgn_res, exp_res, m_res_norm};
 end
