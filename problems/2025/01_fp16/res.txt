@@ -1,0 +1,4096 @@
+[   0] 3ea5 aabf -> 3a6f z=3e6f ok=0
+[   1] 48b0 5488 -> 511e z=551e ok=0
+[   2] c1d3 d828 -> d43f z=d83f ok=0
+[   3] be61 4430 -> 3d2f z=4130 ok=0
+[   4] b73c b503 -> b61f z=ba20 ok=0
+[   5] c48e c718 -> c5d3 z=c9d3 ok=0
+[   6] b82e 1ea8 -> b420 z=b821 ok=0
+[   7] d35b a65f -> cf5b z=d35c ok=0
+[   8] d7bf b416 -> d3c3 z=d7c3 ok=0
+[   9] 34c3 4fea -> 4bfd z=4ffd ok=0
+[  10] 4d30 302f -> 4938 z=4d38 ok=0
+[  11] 3d67 2129 -> 3971 z=3d71 ok=0
+[  12] 400f b489 -> 3afc z=3efc ok=0
+[  13] 5537 2c57 -> 5138 z=5538 ok=0
+[  14] 21ec a114 -> 12c0 z=16c0 ok=0
+[  15] 2302 b599 -> b161 z=b561 ok=0
+[  16] 9efd b2d4 -> af0b z=b30c ok=0
+[  17] cfef 49b0 -> c917 z=cd17 ok=0
+[  18] cc82 a176 -> c882 z=cc83 ok=0
+[  19] 51dc 348d -> 4de5 z=51e5 ok=0
+[  20] 5888 b238 -> 5486 z=5886 ok=0
+[  21] 4d99 449b -> 4abf z=4ec0 ok=0
+[  22] b95c 5310 -> 4efa z=52fb ok=0
+[  23] cc9e a641 -> c89f z=cca0 ok=0
+[  24] a4d6 4eb1 -> 4ab0 z=4eb0 ok=0
+[  25] c448 4243 -> b89a z=bc9a ok=0
+[  26] a645 9fa9 -> a417 z=a818 ok=0
+[  27] 565b cc03 -> 515a z=555a ok=0
+[  28] bd05 3deb -> 2f30 z=3330 ok=0
+[  29] 3696 cda8 -> c98d z=cd8e ok=0
+[  30] ad89 3634 -> 30d1 z=34d2 ok=0
+[  31] 4c54 4597 -> 49b9 z=4dba ok=0
+[  32] b912 2995 -> b4b8 z=b8b9 ok=0
+[  33] c013 a934 -> bc27 z=c028 ok=0
+[  34] 1ee0 b214 -> addd z=b1dd ok=0
+[  35] 42cc 3ce5 -> 409f z=449f ok=0
+[  36] c26a c8c0 -> c65a z=ca5a ok=0
+[  37] c2bf c5aa -> c484 z=c885 ok=0
+[  38] d64e cf10 -> d409 z=d809 ok=0
+[  39] c69e b771 -> c315 z=c715 ok=0
+[  40] 336d d48e -> d08a z=d48a ok=0
+[  41] b828 2466 -> b405 z=b805 ok=0
+[  42] 47cf a8f4 -> 43c5 z=47c5 ok=0
+[  43] 214d 46c1 -> 42c3 z=46c4 ok=0
+[  44] 45aa acf3 -> 4196 z=4596 ok=0
+[  45] c5e6 27d4 -> c1de z=c5de ok=0
+[  46] 2a4e 52f3 -> 4ef4 z=52f5 ok=0
+[  47] a567 21c0 -> 9d0e z=a10e ok=0
+[  48] 30b1 592c -> 552d z=592d ok=0
+[  49] b3c4 d16b -> cd72 z=d173 ok=0
+[  50] 4026 d1c0 -> cd7d z=d17e ok=0
+[  51] b83a 439f -> 3e90 z=4290 ok=0
+[  52] 5902 ab51 -> 5501 z=5902 ok=0
+[  53] a416 4d8d -> 498c z=4d8c ok=0
+[  54] 2a34 20f1 -> 2770 z=2b70 ok=0
+[  55] a794 40b2 -> 3ca3 z=40a3 ok=0
+[  56] 44ea b840 -> 4062 z=4462 ok=0
+[  57] 2cec 4ac4 -> 46cd z=4ace ok=0
+[  58] 39a3 9f3d -> 3594 z=3995 ok=0
+[  59] ac7d b4ee -> b20d z=b60d ok=0
+[  60] 2760 ba4e -> b613 z=ba13 ok=0
+[  61] 2475 26e5 -> 25ad z=29ad ok=0
+[  62] 4515 3698 -> 417e z=457e ok=0
+[  63] a5f5 d475 -> d075 z=d475 ok=0
+[  64] 2976 b9c6 -> b56e z=b96f ok=0
+[  65] b416 acd9 -> b14c z=b54c ok=0
+[  66] cf0b bd9a -> cb64 z=cf65 ok=0
+[  67] a3c4 a151 -> a28a z=a68a ok=0
+[  68] d033 af8a -> cc36 z=d037 ok=0
+[  69] 23ae 4cc5 -> 48c5 z=4cc6 ok=0
+[  70] d86f 4460 -> d44c z=d84c ok=0
+[  71] b9c6 1f42 -> b5b7 z=b9b7 ok=0
+[  72] d872 c023 -> d482 z=d883 ok=0
+[  73] c1f4 aac4 -> be0f z=c20f ok=0
+[  74] ca05 d866 -> d4c6 z=d8c6 ok=0
+[  75] a042 ccc5 -> c8c5 z=ccc6 ok=0
+[  76] aeb1 a558 -> ac03 z=b004 ok=0
+[  77] a4ed b4de -> b12c z=b52d ok=0
+[  78] 2fae 3b35 -> 3815 z=3c15 ok=0
+[  79] 24dc a8b5 -> a08e z=a48e ok=0
+[  80] b0d2 c82d -> c440 z=c840 ok=0
+[  81] 3690 d05a -> cc4d z=d04d ok=0
+[  82] 2185 1dec -> 203d z=243e ok=0
+[  83] c765 25a8 -> c35f z=c75f ok=0
+[  84] 3fff aebc -> 3b93 z=3f93 ok=0
+[  85] 2d95 58cc -> 54cc z=58cd ok=0
+[  86] 3d18 b5ee -> 3739 z=3b39 ok=0
+[  87] 2384 2825 -> 2606 z=2a06 ok=0
+[  88] c067 24f8 -> bc5d z=c05d ok=0
+[  89] d56b 540e -> c974 z=cd74 ok=0
+[  90] b0db 4e4e -> 4a44 z=4e44 ok=0
+[  91] 45b2 c2eb -> 3c79 z=4079 ok=0
+[  92] 2591 be0b -> b9f4 z=bdf5 ok=0
+[  93] 48bd cc75 -> c42d z=c82d ok=0
+[  94] 2f2b b0d4 -> a4fa z=a8fa ok=0
+[  95] a8be 4448 -> 403e z=443f ok=0
+[  96] 40ea c9de -> c4a3 z=c8a4 ok=0
+[  97] 1ef8 4064 -> 3c67 z=4067 ok=0
+[  98] cfa4 2816 -> cba2 z=cfa2 ok=0
+[  99] 9df0 58e3 -> 54e3 z=58e3 ok=0
+[ 100] c65b ce5b -> cbf1 z=cff2 ok=0
+[ 101] 2ddc 3b42 -> 37fd z=3bfe ok=0
+[ 102] 49c6 c2f7 -> 4408 z=4808 ok=0
+[ 103] 57a4 cb77 -> 52b5 z=56b5 ok=0
+[ 104] acb3 b934 -> b5ca z=b9ca ok=0
+[ 105] 406a ca03 -> c4e8 z=c8e8 ok=0
+[ 106] 4135 4c45 -> 48eb z=4cec ok=0
+[ 107] 403d 3939 -> 3d8b z=418b ok=0
+[ 108] ab33 a8fb -> aa17 z=ae17 ok=0
+[ 109] 56e9 4187 -> 5315 z=5715 ok=0
+[ 110] 389e bf09 -> b8ba z=bcba ok=0
+[ 111] d094 bc05 -> ccb4 z=d0b4 ok=0
+[ 112] 47f5 2134 -> 43f7 z=47f8 ok=0
+[ 113] 2fcc 4c7b -> 4882 z=4c83 ok=0
+[ 114] 4e88 3dfb -> 4ae7 z=4ee8 ok=0
+[ 115] b574 b7c8 -> b69e z=ba9e ok=0
+[ 116] 5291 ce9a -> 4a88 z=4e88 ok=0
+[ 117] c0a8 a97a -> bcbd z=c0be ok=0
+[ 118] 529e 2df7 -> 4ea0 z=52a1 ok=0
+[ 119] 4765 c446 -> 3e3e z=423e ok=0
+[ 120] c934 351b -> c50b z=c90b ok=0
+[ 121] bc0e b022 -> b892 z=bc92 ok=0
+[ 122] 5729 acff -> 5328 z=5728 ok=0
+[ 123] 4478 3ae6 -> 4154 z=4555 ok=0
+[ 124] 373f cc63 -> c846 z=cc46 ok=0
+[ 125] c20b cdfd -> cabe z=cebe ok=0
+[ 126] 1ee9 cd22 -> c921 z=cd22 ok=0
+[ 127] b012 d2e5 -> cee9 z=d2e9 ok=0
+[ 128] c549 a0cc -> c14b z=c54b ok=0
+[ 129] 2f38 58b5 -> 54b5 z=58b6 ok=0
+[ 130] c2d3 3772 -> bde4 z=c1e5 ok=0
+[ 131] 37a1 a942 -> 32f8 z=36f9 ok=0
+[ 132] a5c8 d825 -> d425 z=d825 ok=0
+[ 133] 2fdc 4f5b -> 4b62 z=4f63 ok=0
+[ 134] c023 5572 -> 5151 z=5551 ok=0
+[ 135] c125 3d17 -> b933 z=bd33 ok=0
+[ 136] c055 ca93 -> c7a8 z=cba8 ok=0
+[ 137] c4ec bce6 -> c225 z=c626 ok=0
+[ 138] c4dc 3e07 -> beb4 z=c2b4 ok=0
+[ 139] b7d7 d6d2 -> d2d9 z=d6da ok=0
+[ 140] 53b4 49f7 -> 5098 z=5499 ok=0
+[ 141] b40a 4001 -> 3aff z=3f00 ok=0
+[ 142] 381b 353f -> 36ba z=3aba ok=0
+[ 143] d35b 27cf -> cf5a z=d35a ok=0
+[ 144] ce09 a4b5 -> ca0a z=ce0a ok=0
+[ 145] c82a affa -> c439 z=c83a ok=0
+[ 146] 2403 476a -> 436e z=476e ok=0
+[ 147] d4e7 a930 -> d0e7 z=d4e8 ok=0
+[ 148] 48a3 a589 -> 44a0 z=48a0 ok=0
+[ 149] 5995 2257 -> 5595 z=5995 ok=0
+[ 150] 26b1 5091 -> 4c91 z=5092 ok=0
+[ 151] d1c0 ac57 -> cdc2 z=d1c2 ok=0
+[ 152] 27a9 a9b8 -> 9f8e z=a38e ok=0
+[ 153] c2a6 b525 -> bf4a z=c34b ok=0
+[ 154] a51e c3b0 -> bfba z=c3ba ok=0
+[ 155] 50a8 c0e7 -> 4c59 z=505a ok=0
+[ 156] ce1a 551e -> 4f2f z=532f ok=0
+[ 157] 401a 46a3 -> 4458 z=4858 ok=0
+[ 158] 3618 bf9f -> ba19 z=be19 ok=0
+[ 159] a1cc c883 -> c484 z=c884 ok=0
+[ 160] 47c9 c57c -> 3c9a z=409a ok=0
+[ 161] b8f0 cc0b -> c832 z=cc32 ok=0
+[ 162] 4907 c040 -> 43ee z=47ee ok=0
+[ 163] d1a4 4e1a -> c92e z=cd2e ok=0
+[ 164] d863 5403 -> d0c3 z=d4c3 ok=0
+[ 165] 510c 47b6 -> 4e02 z=5203 ok=0
+[ 166] 1e64 3349 -> 2f7c z=337c ok=0
+[ 167] b377 2e81 -> ac36 z=b036 ok=0
+[ 168] 4976 442a -> 478b z=4b8b ok=0
+[ 169] a836 43d8 -> 3fc7 z=43c7 ok=0
+[ 170] bcfa 9f42 -> b901 z=bd01 ok=0
+[ 171] 20fb 4a88 -> 4689 z=4a89 ok=0
+[ 172] a9a8 ab1a -> aa61 z=ae61 ok=0
+[ 173] 9edb a0fb -> a034 z=a434 ok=0
+[ 174] cd4d a6f8 -> c94e z=cd4f ok=0
+[ 175] 2b42 451b -> 4129 z=452a ok=0
+[ 176] b268 bd15 -> b9e2 z=bde2 ok=0
+[ 177] 5558 509b -> 53a5 z=57a6 ok=0
+[ 178] c830 2445 -> c42e z=c82e ok=0
+[ 179] 9fdf cfb4 -> cbb4 z=cfb4 ok=0
+[ 180] 27da c4cd -> c0c5 z=c4c5 ok=0
+[ 181] c313 2a9a -> bef8 z=c2f9 ok=0
+[ 182] c077 c9e0 -> c6fd z=cafe ok=0
+[ 183] ac30 4a25 -> 461c z=4a1d ok=0
+[ 184] 55b8 2457 -> 51b8 z=55b8 ok=0
+[ 185] 428a 2da6 -> 3eb7 z=42b7 ok=0
+[ 186] bdcb 443d -> 3d94 z=4194 ok=0
+[ 187] c118 b49f -> bdab z=c1ac ok=0
+[ 188] 4978 cbdf -> c0ce z=c4ce ok=0
+[ 189] 3086 bdd1 -> b940 z=bd40 ok=0
+[ 190] 358d d11e -> cd13 z=d113 ok=0
+[ 191] aa45 a47e -> a842 z=ac42 ok=0
+[ 192] a8e7 c9ae -> c5b2 z=c9b3 ok=0
+[ 193] d657 b98a -> d262 z=d662 ok=0
+[ 194] 4a07 bce5 -> 456a z=496a ok=0
+[ 195] 3b3e 2ec8 -> 380b z=3c0c ok=0
+[ 196] 2b84 2dcc -> 2cc7 z=30c7 ok=0
+[ 197] 2cfb a914 -> 24e2 z=28e2 ok=0
+[ 198] 212c b449 -> b01f z=b420 ok=0
+[ 199] 380b ac3f -> 3306 z=3706 ok=0
+[ 200] 3085 a914 -> 2a80 z=2e80 ok=0
+[ 201] c7b4 d79f -> d40d z=d80d ok=0
+[ 202] b47d b8a2 -> b6e0 z=bae0 ok=0
+[ 203] a894 c65f -> c268 z=c668 ok=0
+[ 204] 1f51 b453 -> b035 z=b436 ok=0
+[ 205] 21b0 4022 -> 3c27 z=4028 ok=0
+[ 206] 4676 3bef -> 4373 z=4774 ok=0
+[ 207] b8f2 4274 -> 3d37 z=4138 ok=0
+[ 208] 3dda c912 -> c456 z=c857 ok=0
+[ 209] d3b9 4580 -> cf09 z=d309 ok=0
+[ 210] d91b 4ba4 -> d4a0 z=d8a1 ok=0
+[ 211] aaba 267a -> a2fa z=a6fa ok=0
+[ 212] 4572 2384 -> 4175 z=4576 ok=0
+[ 213] ad76 b1fd -> b05c z=b45c ok=0
+[ 214] 9f06 3a9f -> 3691 z=3a91 ok=0
+[ 215] 4b56 ab4c -> 474e z=4b4f ok=0
+[ 216] 30ed cc48 -> c83e z=cc3e ok=0
+[ 217] b4c3 48e8 -> 44c2 z=48c2 ok=0
+[ 218] c103 d49b -> d0c3 z=d4c3 ok=0
+[ 219] 4fcf 4969 -> 4d41 z=5142 ok=0
+[ 220] 43a7 2451 -> 3faf z=43b0 ok=0
+[ 221] d205 c591 -> ceb7 z=d2b7 ok=0
+[ 222] ae14 3669 -> 30e4 z=34e4 ok=0
+[ 223] 4d8d 2d42 -> 4992 z=4d92 ok=0
+[ 224] 28dc c1c6 -> bdb2 z=c1b3 ok=0
+[ 225] 56ee 3018 -> 52f0 z=56f0 ok=0
+[ 226] 4706 3d83 -> 4433 z=4833 ok=0
+[ 227] aaa8 4068 -> 3c4d z=404d ok=0
+[ 228] d68c bd69 -> d2a1 z=d6a2 ok=0
+[ 229] 4983 9e52 -> 4582 z=4982 ok=0
+[ 230] acf4 b2a3 -> b08e z=b48e ok=0
+[ 231] 2a7f cd22 -> c91f z=cd1f ok=0
+[ 232] bcd5 3283 -> b804 z=bc05 ok=0
+[ 233] 9f60 3c69 -> 3861 z=3c62 ok=0
+[ 234] 2a1e 327f -> 3003 z=3403 ok=0
+[ 235] 3750 299c -> 3401 z=3802 ok=0
+[ 236] 3453 a9a4 -> 2f3d z=333d ok=0
+[ 237] b97a 4aa8 -> 4650 z=4a50 ok=0
+[ 238] 2e57 4390 -> 3fc2 z=43c3 ok=0
+[ 239] 40ee d595 -> d16d z=d56e ok=0
+[ 240] d17e 370a -> cd70 z=d170 ok=0
+[ 241] a4cc 4423 -> 401e z=441e ok=0
+[ 242] bccb b9c5 -> bbad z=bfae ok=0
+[ 243] a595 ba1a -> b646 z=ba47 ok=0
+[ 244] c8c5 d0f4 -> ce25 z=d225 ok=0
+[ 245] 356e b8fa -> b086 z=b486 ok=0
+[ 246] 3fe6 555c -> 517b z=557c ok=0
+[ 247] 28c2 c300 -> beed z=c2ed ok=0
+[ 248] a65f 22e0 -> 9dde z=a1de ok=0
+[ 249] 3b11 a1bc -> 36fa z=3afa ok=0
+[ 250] b321 d8b5 -> d4b6 z=d8b7 ok=0
+[ 251] d616 359e -> d210 z=d610 ok=0
+[ 252] cbe4 40f7 -> c6a6 z=caa6 ok=0
+[ 253] caa3 37db -> c664 z=ca64 ok=0
+[ 254] 542a a760 -> 5029 z=542a ok=0
+[ 255] a2bf 2537 -> 1b5e z=1f5e ok=0
+[ 256] 3ee2 2a76 -> 3b15 z=3f16 ok=0
+[ 257] 40d1 41fb -> 4166 z=4566 ok=0
+[ 258] 579f be7d -> 5385 z=5785 ok=0
+[ 259] af5e b163 -> b089 z=b489 ok=0
+[ 260] ac52 a07b -> a8e1 z=ace1 ok=0
+[ 261] 2403 b122 -> aca1 z=b0a2 ok=0
+[ 262] 1eb5 b58f -> b174 z=b574 ok=0
+[ 263] d56f 4b30 -> d089 z=d489 ok=0
+[ 264] 45da c9e6 -> c1f2 z=c5f2 ok=0
+[ 265] ccd9 ab10 -> c8dc z=ccdd ok=0
+[ 266] 2e9e 2b8f -> 2d32 z=3133 ok=0
+[ 267] 40ea c390 -> b94c z=bd4c ok=0
+[ 268] a181 44d7 -> 40d4 z=44d4 ok=0
+[ 269] bae4 bf8d -> bd7f z=c180 ok=0
+[ 270] 587b a488 -> 547b z=587b ok=0
+[ 271] d245 aee7 -> ce48 z=d248 ok=0
+[ 272] b1f3 1fdf -> adb4 z=b1b4 ok=0
+[ 273] 5799 4b94 -> 5445 z=5846 ok=0
+[ 274] 2bdf 4e0e -> 4a11 z=4e12 ok=0
+[ 275] d6ac 54f1 -> caec z=ceec ok=0
+[ 276] d627 2310 -> d227 z=d627 ok=0
+[ 277] 4d9c 5445 -> 51ac z=55ac ok=0
+[ 278] c3c4 d4d9 -> d117 z=d517 ok=0
+[ 279] d21e 5989 -> 5401 z=5802 ok=0
+[ 280] 2f70 4c7e -> 4885 z=4c85 ok=0
+[ 281] 50b5 2d6f -> 4cb7 z=50b8 ok=0
+[ 282] c2cf ad89 -> befb z=c2fb ok=0
+[ 283] 9e7f c715 -> c316 z=c717 ok=0
+[ 284] 328a c67a -> c245 z=c646 ok=0
+[ 285] 269a 454b -> 4151 z=4552 ok=0
+[ 286] d8b1 b2f3 -> d4b2 z=d8b3 ok=0
+[ 287] ba64 3cea -> 32e0 z=36e0 ok=0
+[ 288] bbc9 b011 -> b866 z=bc67 ok=0
+[ 289] c445 4179 -> ba22 z=be22 ok=0
+[ 290] 3414 4c3f -> 484f z=4c4f ok=0
+[ 291] a5e0 c7e4 -> c3e9 z=c7ea ok=0
+[ 292] cf1f 37ee -> caff z=ceff ok=0
+[ 293] 2917 bd2c -> b903 z=bd03 ok=0
+[ 294] 3c80 4c3f -> 4887 z=4c87 ok=0
+[ 295] 2b4c 2bf5 -> 2ba0 z=2fa0 ok=0
+[ 296] 23d4 2b0b -> 2880 z=2c80 ok=0
+[ 297] 5167 3ad8 -> 4d82 z=5182 ok=0
+[ 298] d845 3b87 -> d43d z=d83d ok=0
+[ 299] 578a 1f38 -> 538a z=578a ok=0
+[ 300] 5448 c0b1 -> 5022 z=5422 ok=0
+[ 301] cc51 36cd -> c836 z=cc36 ok=0
+[ 302] b1a4 c06d -> bcc7 z=c0c7 ok=0
+[ 303] 2291 54ab -> 50ab z=54ab ok=0
+[ 304] b619 31a4 -> ae8e z=b28e ok=0
+[ 305] abea a457 -> a90a z=ad0b ok=0
+[ 306] 259c aa0e -> a280 z=a680 ok=0
+[ 307] 20ed 3048 -> 2c96 z=3097 ok=0
+[ 308] 4937 517a -> 4ec7 z=52c8 ok=0
+[ 309] 1e5f 3eaa -> 3ab0 z=3eb0 ok=0
+[ 310] cc2a d960 -> d5e5 z=d9e5 ok=0
+[ 311] 2683 aed9 -> a938 z=ad38 ok=0
+[ 312] a27a 21c8 -> 9190 z=9590 ok=0
+[ 313] a32e 300d -> 2b34 z=2f34 ok=0
+[ 314] 45fb 593e -> 556d z=596e ok=0
+[ 315] ac88 ca43 -> c64c z=ca4c ok=0
+[ 316] 3700 54ae -> 50b5 z=54b5 ok=0
+[ 317] bf43 415d -> 36ee z=3aee ok=0
+[ 318] 5151 ae32 -> 4d4e z=514e ok=0
+[ 319] c94d d70b -> d3b4 z=d7b5 ok=0
+[ 320] 2de2 2ba9 -> 2cdb z=30db ok=0
+[ 321] 258d 357d -> 31d5 z=35d6 ok=0
+[ 322] a109 af77 -> ac0c z=b00c ok=0
+[ 323] 3012 c472 -> c051 z=c451 ok=0
+[ 324] 2d65 b6d3 -> b179 z=b57a ok=0
+[ 325] b912 d73d -> d347 z=d747 ok=0
+[ 326] c6b8 d808 -> d43d z=d83e ok=0
+[ 327] c7a7 a3bf -> c3aa z=c7ab ok=0
+[ 328] aebf d55c -> d15d z=d55e ok=0
+[ 329] b498 cd8d -> c99f z=cd9f ok=0
+[ 330] 28a8 488b -> 448f z=4890 ok=0
+[ 331] cd06 33ae -> c8f6 z=ccf7 ok=0
+[ 332] 211b c678 -> c275 z=c675 ok=0
+[ 333] 47c1 ce4e -> c85d z=cc5e ok=0
+[ 334] cc8b 4fbf -> 4668 z=4a68 ok=0
+[ 335] 4c78 4e01 -> 4d3c z=513c ok=0
+[ 336] 2d3e b0ed -> a89c z=ac9c ok=0
+[ 337] 344e 28d9 -> 30e9 z=34e9 ok=0
+[ 338] 40f9 3e4e -> 4010 z=4410 ok=0
+[ 339] 2e07 acf9 -> 2038 z=2438 ok=0
+[ 340] b42d ccd6 -> c8e6 z=cce7 ok=0
+[ 341] 297e 2082 -> 269e z=2a9e ok=0
+[ 342] 3945 375e -> 387a z=3c7a ok=0
+[ 343] a082 4c88 -> 4887 z=4c87 ok=0
+[ 344] 4da4 a288 -> 49a3 z=4da3 ok=0
+[ 345] 2249 46fd -> 4300 z=4700 ok=0
+[ 346] 3cdd 2bcf -> 391b z=3d1b ok=0
+[ 347] b04b 2551 -> ab42 z=af42 ok=0
+[ 348] c07b b057 -> bcc0 z=c0c0 ok=0
+[ 349] d76a 9ee9 -> d36a z=d76a ok=0
+[ 350] 448b 43bb -> 4434 z=4834 ok=0
+[ 351] 2016 b1a2 -> ad60 z=b161 ok=0
+[ 352] b7c3 d94d -> d550 z=d951 ok=0
+[ 353] bc70 23d4 -> b860 z=bc60 ok=0
+[ 354] 3dd3 d394 -> cf65 z=d365 ok=0
+[ 355] 4698 bbd5 -> 419d z=459d ok=0
+[ 356] 2e57 24cf -> 2b8a z=2f8b ok=0
+[ 357] 2567 5114 -> 4d14 z=5115 ok=0
+[ 358] 353e 247e -> 3185 z=3586 ok=0
+[ 359] 572e c48e -> 52e5 z=56e5 ok=0
+[ 360] a8f1 2c85 -> 2419 z=2819 ok=0
+[ 361] d42d b8b7 -> d036 z=d436 ok=0
+[ 362] 3e4e c045 -> b478 z=b878 ok=0
+[ 363] b91c d4ea -> d0f4 z=d4f4 ok=0
+[ 364] 52a3 aecf -> 4e9f z=52a0 ok=0
+[ 365] b934 b4fa -> b7b1 z=bbb1 ok=0
+[ 366] c923 a9a4 -> c528 z=c929 ok=0
+[ 367] 359a 324c -> 3460 z=3860 ok=0
+[ 368] 542d a53b -> 502c z=542d ok=0
+[ 369] 4738 be99 -> 4191 z=4592 ok=0
+[ 370] 47f8 3f68 -> 44e9 z=48e9 ok=0
+[ 371] 3156 c337 -> bee1 z=c2e2 ok=0
+[ 372] 4b38 2bc4 -> 473f z=4b40 ok=0
+[ 373] 441e b7eb -> 3f3f z=433f ok=0
+[ 374] 2c49 205a -> 28d4 z=2cd4 ok=0
+[ 375] a784 204e -> a15d z=a55d ok=0
+[ 376] cd72 306a -> c969 z=cd69 ok=0
+[ 377] 5765 3b25 -> 5373 z=5773 ok=0
+[ 378] 392d c770 -> c2ca z=c6ca ok=0
+[ 379] c127 cb60 -> c854 z=cc55 ok=0
+[ 380] d125 35c4 -> cd19 z=d119 ok=0
+[ 381] 3921 cb21 -> c6cf z=cacf ok=0
+[ 382] d6db c954 -> d385 z=d786 ok=0
+[ 383] 4065 c3ed -> bb10 z=bf10 ok=0
+[ 384] 4f06 262b -> 4b07 z=4f08 ok=0
+[ 385] 5463 af02 -> 5061 z=5461 ok=0
+[ 386] 4ea3 bdb1 -> 4a48 z=4e48 ok=0
+[ 387] a76a ce8c -> ca8d z=ce8e ok=0
+[ 388] 43a4 b5db -> 3ee8 z=42e9 ok=0
+[ 389] 3591 d803 -> d400 z=d800 ok=0
+[ 390] a16f c595 -> c197 z=c598 ok=0
+[ 391] 3743 b096 -> 30f8 z=34f8 ok=0
+[ 392] ad35 3f93 -> 3b3f z=3f40 ok=0
+[ 393] 50b8 345d -> 4cc0 z=50c1 ok=0
+[ 394] 2000 5488 -> 5088 z=5488 ok=0
+[ 395] d760 a0ae -> d360 z=d760 ok=0
+[ 396] b31c aba4 -> b082 z=b482 ok=0
+[ 397] 3335 23b9 -> 2fb0 z=33b1 ok=0
+[ 398] 9eb5 4e01 -> 4a00 z=4e01 ok=0
+[ 399] 28dc a929 -> 94d0 z=98d0 ok=0
+[ 400] b5bb ca3f -> c66c z=ca6d ok=0
+[ 401] 556b 3f97 -> 5189 z=5589 ok=0
+[ 402] 23f5 4fbf -> 4bbf z=4fc0 ok=0
+[ 403] 5668 d95c -> d050 z=d450 ok=0
+[ 404] d1d0 a706 -> cdd0 z=d1d1 ok=0
+[ 405] b8f8 a6c4 -> b52e z=b92e ok=0
+[ 406] 3148 441f -> 4049 z=4449 ok=0
+[ 407] 2bef 2022 -> 287b z=2c7c ok=0
+[ 408] 4293 cec8 -> c9f5 z=cdf6 ok=0
+[ 409] 1ffa b470 -> b050 z=b450 ok=0
+[ 410] 9ea8 3599 -> 317e z=357e ok=0
+[ 411] 37a1 403a -> 3d2e z=412e ok=0
+[ 412] 21c0 b232 -> add6 z=b1d6 ok=0
+[ 413] 2cdb 3003 -> 2e70 z=3270 ok=0
+[ 414] 2b0b 29f9 -> 2a82 z=2e82 ok=0
+[ 415] acea c8de -> c4e7 z=c8e8 ok=0
+[ 416] 2585 cc14 -> c812 z=cc13 ok=0
+[ 417] 1e68 c227 -> be24 z=c224 ok=0
+[ 418] 24b1 2c1e -> 294a z=2d4a ok=0
+[ 419] 42db c791 -> c023 z=c424 ok=0
+[ 420] 5857 a751 -> 5457 z=5857 ok=0
+[ 421] 591b d25f -> 5306 z=5706 ok=0
+[ 422] b637 3894 -> 2de2 z=31e2 ok=0
+[ 423] a7ae 3a39 -> 35fb z=39fc ok=0
+[ 424] c43c a9e8 -> c047 z=c448 ok=0
+[ 425] 3b3c 42a6 -> 403a z=443a ok=0
+[ 426] d914 d8d9 -> d8f6 z=dcf6 ok=0
+[ 427] 2191 c10d -> bd07 z=c107 ok=0
+[ 428] 4cc2 44e0 -> 49fa z=4dfa ok=0
+[ 429] af18 2f18 -> 2c00 z=0000 ok=0
+[ 430] ac5a b13b -> af68 z=b368 ok=0
+[ 431] 456b 2972 -> 4175 z=4576 ok=0
+[ 432] ac91 bca8 -> b8f1 z=bcf1 ok=0
+[ 433] c59c 2695 -> c195 z=c595 ok=0
+[ 434] 3cca 42db -> 40a0 z=44a0 ok=0
+[ 435] 3744 b994 -> afc8 z=b3c8 ok=0
+[ 436] 3f10 4349 -> 4168 z=4568 ok=0
+[ 437] aeff 21e8 -> aa42 z=ae42 ok=0
+[ 438] c848 52c8 -> 4db6 z=51b6 ok=0
+[ 439] b69a b487 -> b590 z=b990 ok=0
+[ 440] 3382 aa16 -> 2dfc z=31fc ok=0
+[ 441] 4f9f 3c08 -> 4bdf z=4fe0 ok=0
+[ 442] d530 5576 -> 4060 z=4460 ok=0
+[ 443] a08e c78a -> c38c z=c78c ok=0
+[ 444] abef b212 -> b006 z=b407 ok=0
+[ 445] b2a1 3029 -> a8f0 z=acf0 ok=0
+[ 446] 4e9a 4558 -> 4bf0 z=4ff0 ok=0
+[ 447] d8e0 a31f -> d4e0 z=d8e0 ok=0
+[ 448] d819 33e4 -> d417 z=d817 ok=0
+[ 449] 5436 3a69 -> 5042 z=5443 ok=0
+[ 450] 2fb6 4b82 -> 4791 z=4b91 ok=0
+[ 451] d934 3137 -> d532 z=d933 ok=0
+[ 452] acbb cd37 -> c93b z=cd3c ok=0
+[ 453] 2442 ccbb -> c8ba z=ccba ok=0
+[ 454] d6cd 9eee -> d2cd z=d6cd ok=0
+[ 455] ac00 a91e -> aa8f z=ae8f ok=0
+[ 456] 4733 44ed -> 4610 z=4a10 ok=0
+[ 457] 2130 bbad -> b798 z=bb98 ok=0
+[ 458] c981 9f8a -> c581 z=c982 ok=0
+[ 459] d29e 3370 -> ce96 z=d297 ok=0
+[ 460] 2e01 c364 -> bf34 z=c334 ok=0
+[ 461] b48d 5930 -> 552d z=592e ok=0
+[ 462] 3454 aa12 -> 2f23 z=3324 ok=0
+[ 463] 4aa5 a6ee -> 46a1 z=4aa2 ok=0
+[ 464] ac30 b3cf -> b0f3 z=b4f4 ok=0
+[ 465] 2839 becb -> baa9 z=bea9 ok=0
+[ 466] b8b9 4589 -> 40f2 z=44f2 ok=0
+[ 467] b030 b387 -> b1db z=b5dc ok=0
+[ 468] 503f 2b9f -> 4c40 z=5041 ok=0
+[ 469] ac30 9df9 -> a88f z=ac90 ok=0
+[ 470] bc1a 28c2 -> b7e8 z=bbe8 ok=0
+[ 471] 563c 2400 -> 523c z=563c ok=0
+[ 472] c407 ac63 -> c018 z=c419 ok=0
+[ 473] 51b0 b110 -> 4dab z=51ab ok=0
+[ 474] 5612 a26d -> 5212 z=5612 ok=0
+[ 475] cac8 3602 -> c698 z=ca98 ok=0
+[ 476] 47f8 280b -> 4400 z=4800 ok=0
+[ 477] d80e c0a9 -> d420 z=d821 ok=0
+[ 478] 5954 b47e -> 5552 z=5952 ok=0
+[ 479] 38d9 c445 -> bf54 z=c354 ok=0
+[ 480] a1e8 cc69 -> c869 z=cc6a ok=0
+[ 481] af6d a2d2 -> ac23 z=b024 ok=0
+[ 482] 26e5 34b7 -> 3125 z=3525 ok=0
+[ 483] b6c8 d87e -> d481 z=d881 ok=0
+[ 484] a589 9dc8 -> a2fb z=a6fb ok=0
+[ 485] c1e7 3938 -> bc99 z=c099 ok=0
+[ 486] 34bb b9ca -> b2d9 z=b6d9 ok=0
+[ 487] 53a4 4f3d -> 51a1 z=55a1 ok=0
+[ 488] 580b af3a -> 540a z=580a ok=0
+[ 489] be83 cc69 -> c8d1 z=ccd1 ok=0
+[ 490] 2e27 1dc8 -> 2a83 z=2e84 ok=0
+[ 491] 4138 3b44 -> 3f09 z=4309 ok=0
+[ 492] 53b9 30e3 -> 4fbd z=53be ok=0
+[ 493] b612 ce27 -> ca3f z=ce3f ok=0
+[ 494] bee0 b5d5 -> bc2a z=c02b ok=0
+[ 495] adf5 21d8 -> a93a z=ad3a ok=0
+[ 496] b909 485d -> 440c z=480c ok=0
+[ 497] 35c3 9e7f -> 31a9 z=35a9 ok=0
+[ 498] 2cb0 31ba -> 3009 z=3409 ok=0
+[ 499] bc40 3bdd -> a918 z=ad18 ok=0
+[ 500] 3075 4a2b -> 463c z=4a3d ok=0
+[ 501] 3446 3096 -> 3291 z=3691 ok=0
+[ 502] bd30 242a -> b91f z=bd1f ok=0
+[ 503] 4ac4 4f5b -> 4d5e z=515e ok=0
+[ 504] 31aa 9e45 -> 2d78 z=3178 ok=0
+[ 505] d522 d209 -> d413 z=d813 ok=0
+[ 506] 5167 2448 -> 4d67 z=5168 ok=0
+[ 507] 20b1 a53b -> 9dc5 z=a1c5 ok=0
+[ 508] 2cf1 a7f5 -> 25e7 z=29e8 ok=0
+[ 509] b892 a69e -> b4c6 z=b8c7 ok=0
+[ 510] 2433 cd5c -> c95b z=cd5b ok=0
+[ 511] b2a1 4e57 -> 4a49 z=4e4a ok=0
+[ 512] 4a12 a81f -> 460e z=4a0e ok=0
+[ 513] c68a 248e -> c285 z=c685 ok=0
+[ 514] 4324 4040 -> 41b2 z=45b2 ok=0
+[ 515] c877 c7fa -> c83a z=cc3a ok=0
+[ 516] 29f5 bf64 -> bb34 z=bf34 ok=0
+[ 517] b22b 1f8a -> adee z=b1ef ok=0
+[ 518] 4641 cbf5 -> c4d4 z=c8d4 ok=0
+[ 519] 5271 48a3 -> 4f99 z=539a ok=0
+[ 520] be4d c8ca -> c593 z=c994 ok=0
+[ 521] aeaf 2a1a -> a744 z=ab44 ok=0
+[ 522] 9fbf 21e0 -> 1801 z=1c01 ok=0
+[ 523] 4874 5981 -> 55c8 z=59c8 ok=0
+[ 524] 9e23 ba5a -> b666 z=ba66 ok=0
+[ 525] 3442 c940 -> c51e z=c91e ok=0
+[ 526] 3d7f 23b4 -> 398e z=3d8e ok=0
+[ 527] 5509 bc36 -> 50f8 z=54f8 ok=0
+[ 528] a32e 3c2d -> 381e z=3c1f ok=0
+[ 529] 3604 a514 -> 31b2 z=35b3 ok=0
+[ 530] 1f4c b2d6 -> ae9b z=b29c ok=0
+[ 531] 323c d351 -> cf4b z=d34b ok=0
+[ 532] c321 473a -> 3f53 z=4353 ok=0
+[ 533] 2e6f 498f -> 459b z=499c ok=0
+[ 534] aa41 525f -> 4e5d z=525d ok=0
+[ 535] a4b5 b074 -> ad0a z=b10b ok=0
+[ 536] 4076 cd1b -> c88c z=cc8c ok=0
+[ 537] c79f 23b4 -> c39b z=c79b ok=0
+[ 538] c5fb c07b -> c41c z=c81c ok=0
+[ 539] 56a8 bdb4 -> 5291 z=5691 ok=0
+[ 540] 9dd0 b7d3 -> b3ea z=b7ea ok=0
+[ 541] c4a0 2a38 -> c093 z=c494 ok=0
+[ 542] 41ae 3788 -> 3e9f z=429f ok=0
+[ 543] 4108 d07b -> cc2a z=d02a ok=0
+[ 544] d7b4 c981 -> d432 z=d832 ok=0
+[ 545] 9ebf 3851 -> 3443 z=3844 ok=0
+[ 546] 47b6 d808 -> d395 z=d795 ok=0
+[ 547] 4e88 ccdc -> 42b0 z=46b0 ok=0
+[ 548] 3c6e a07b -> 3865 z=3c65 ok=0
+[ 549] 31b2 cac8 -> c6b1 z=cab1 ok=0
+[ 550] cd25 48d9 -> c571 z=c971 ok=0
+[ 551] 23c4 20b8 -> 223e z=263e ok=0
+[ 552] b861 d546 -> d14e z=d54f ok=0
+[ 553] bcec b9ae -> bbc3 z=bfc3 ok=0
+[ 554] c784 ac3f -> c394 z=c795 ok=0
+[ 555] a347 38ab -> 348e z=388e ok=0
+[ 556] 2b8f d006 -> cc04 z=d004 ok=0
+[ 557] b64c acc8 -> b37e z=b77e ok=0
+[ 558] c335 54a1 -> 5067 z=5467 ok=0
+[ 559] d2fd a189 -> cefd z=d2fd ok=0
+[ 560] c2e1 a329 -> bee8 z=c2e8 ok=0
+[ 561] 25ac c19d -> bd91 z=c192 ok=0
+[ 562] d89e bc6e -> d4a6 z=d8a7 ok=0
+[ 563] d1f9 45f3 -> cd3a z=d13b ok=0
+[ 564] bc1d 2072 -> b814 z=bc14 ok=0
+[ 565] d50c ad4b -> d10d z=d50d ok=0
+[ 566] be26 4822 -> 42ba z=46ba ok=0
+[ 567] 551b b259 -> 5118 z=5518 ok=0
+[ 568] 4fb9 3033 -> 4bc1 z=4fc1 ok=0
+[ 569] d811 cef3 -> d4ef z=d8ef ok=0
+[ 570] 54ea cd6f -> 4f1c z=531c ok=0
+[ 571] a01f 4a64 -> 4663 z=4a63 ok=0
+[ 572] 285a 438b -> 3f9c z=439c ok=0
+[ 573] b50e d70b -> d310 z=d710 ok=0
+[ 574] d6e0 9f0b -> d2e0 z=d6e0 ok=0
+[ 575] b000 26e9 -> aa46 z=ae46 ok=0
+[ 576] a77f b946 -> b581 z=b982 ok=0
+[ 577] d2ee ae8a -> cef1 z=d2f1 ok=0
+[ 578] b895 2f77 -> b34c z=b74c ok=0
+[ 579] d45a 589b -> 50dc z=54dc ok=0
+[ 580] a77a 207b -> a13c z=a53c ok=0
+[ 581] c558 9f65 -> c159 z=c55a ok=0
+[ 582] 384d 55c4 -> 51cc z=55cd ok=0
+[ 583] 2241 a77a -> a059 z=a45a ok=0
+[ 584] 47b4 206c -> 43b6 z=47b6 ok=0
+[ 585] 2ca0 b933 -> b49f z=b89f ok=0
+[ 586] a045 d29e -> ce9e z=d29e ok=0
+[ 587] 2149 b042 -> abdb z=afdb ok=0
+[ 588] a154 d599 -> d199 z=d599 ok=0
+[ 589] 5457 5191 -> 531f z=5720 ok=0
+[ 590] 4a0e ae85 -> 4601 z=4a01 ok=0
+[ 591] d3d4 3816 -> cfc3 z=d3c4 ok=0
+[ 592] 4605 d522 -> d0c1 z=d4c2 ok=0
+[ 593] 3d67 a517 -> 3952 z=3d53 ok=0
+[ 594] b030 2163 -> abb4 z=afb4 ok=0
+[ 595] 5989 a909 -> 5588 z=5989 ok=0
+[ 596] 33a4 ab60 -> 2dcc z=31cc ok=0
+[ 597] 39e5 a891 -> 359c z=399c ok=0
+[ 598] 3483 1fdf -> 30a2 z=34a2 ok=0
+[ 599] d891 48cf -> d444 z=d844 ok=0
+[ 600] 2857 279f -> 2813 z=2c13 ok=0
+[ 601] 315a 3908 -> 365e z=3a5e ok=0
+[ 602] 4685 24f1 -> 4289 z=468a ok=0
+[ 603] 2176 b3e7 -> af8f z=b390 ok=0
+[ 604] 4219 3582 -> 3ec9 z=42c9 ok=0
+[ 605] 3a57 d494 -> d087 z=d487 ok=0
+[ 606] 2ec8 c83a -> c42c z=c82c ok=0
+[ 607] 2c39 5445 -> 5046 z=5446 ok=0
+[ 608] 3ca7 3b24 -> 3c1c z=401c ok=0
+[ 609] b40d a81f -> b090 z=b491 ok=0
+[ 610] b917 3641 -> afda z=b3da ok=0
+[ 611] 31e8 c14c -> bced z=c0ee ok=0
+[ 612] 582a 3e25 -> 5436 z=5836 ok=0
+[ 613] 25ac d3b4 -> cfb3 z=d3b3 ok=0
+[ 614] a3bf 413a -> 3d32 z=4132 ok=0
+[ 615] 3247 2d19 -> 3069 z=346a ok=0
+[ 616] c127 d6e9 -> d312 z=d712 ok=0
+[ 617] 453b 2851 -> 4143 z=4544 ok=0
+[ 618] 3580 ba43 -> b306 z=b706 ok=0
+[ 619] 599c d30b -> 53b2 z=57b2 ok=0
+[ 620] b2dd c86f -> c48a z=c88a ok=0
+[ 621] c900 3dc7 -> c447 z=c847 ok=0
+[ 622] c42f c70e -> c59e z=c99e ok=0
+[ 623] 4e7a 3831 -> 4a9b z=4e9c ok=0
+[ 624] 586c b579 -> 5469 z=5869 ok=0
+[ 625] 5333 c38d -> 4eba z=52ba ok=0
+[ 626] 4bd4 49e2 -> 4adb z=4edb ok=0
+[ 627] 47da 55e8 -> 5265 z=5666 ok=0
+[ 628] b1c8 d022 -> cc27 z=d028 ok=0
+[ 629] a691 d784 -> d384 z=d784 ok=0
+[ 630] a16f a4b8 -> a36f z=a770 ok=0
+[ 631] ac60 d914 -> d514 z=d915 ok=0
+[ 632] 37e9 29ac -> 344f z=384f ok=0
+[ 633] 3d07 a28c -> 38fa z=3cfa ok=0
+[ 634] cc48 451c -> c602 z=ca02 ok=0
+[ 635] 5760 4612 -> 53c1 z=57c1 ok=0
+[ 636] 24cc d851 -> d451 z=d851 ok=0
+[ 637] 244e cc30 -> c82f z=cc2f ok=0
+[ 638] c115 353e -> bc6d z=c06d ok=0
+[ 639] ca68 c1aa -> c7d2 z=cbd2 ok=0
+[ 640] d0ab c23e -> cd0e z=d10f ok=0
+[ 641] 55cc 4be4 -> 52c8 z=56c8 ok=0
+[ 642] 58c2 c0a6 -> 54af z=58af ok=0
+[ 643] b5a5 b4e9 -> b547 z=b947 ok=0
+[ 644] b49c c69a -> c2e3 z=c6e4 ok=0
+[ 645] 2691 2c49 -> 29ed z=2ded ok=0
+[ 646] c6d6 b2b3 -> c30b z=c70c ok=0
+[ 647] 451b a1f5 -> 4118 z=4518 ok=0
+[ 648] d163 4eb1 -> c815 z=cc15 ok=0
+[ 649] a3c4 a1ec -> a2d8 z=a6d8 ok=0
+[ 650] 3bd1 2fe7 -> 3866 z=3c67 ok=0
+[ 651] c0a5 d537 -> d15c z=d55c ok=0
+[ 652] 2c5a 3f6b -> 3bb0 z=3fb1 ok=0
+[ 653] a819 aacd -> a973 z=ad73 ok=0
+[ 654] d142 d942 -> d692 z=da92 ok=0
+[ 655] 2134 528c -> 4e8c z=528c ok=0
+[ 656] b9e5 a1c0 -> b5fc z=b9fc ok=0
+[ 657] 24b5 abbf -> a564 z=a964 ok=0
+[ 658] 391f c463 -> bf7e z=c37e ok=0
+[ 659] 5898 a995 -> 5497 z=5898 ok=0
+[ 660] b73d 3de3 -> 3813 z=3c14 ok=0
+[ 661] 5122 a7ef -> 4d21 z=5121 ok=0
+[ 662] 24cc 4607 -> 420b z=460c ok=0
+[ 663] adee 3d89 -> 392a z=3d2a ok=0
+[ 664] b5e2 d81f -> d421 z=d822 ok=0
+[ 665] b5a6 a5b0 -> b201 z=b601 ok=0
+[ 666] c5f0 3d81 -> c08f z=c490 ok=0
+[ 667] b25f b085 -> b172 z=b572 ok=0
+[ 668] 489e 4274 -> 463b z=4a3b ok=0
+[ 669] c440 a9dc -> c04b z=c44c ok=0
+[ 670] b59b 5534 -> 512e z=552e ok=0
+[ 671] b7df b832 -> b810 z=bc11 ok=0
+[ 672] 4294 37df -> 3f8f z=4390 ok=0
+[ 673] 21dc ccea -> c8e9 z=cce9 ok=0
+[ 674] cf24 5454 -> 4d16 z=5116 ok=0
+[ 675] 44ed bb84 -> 3ff9 z=43f9 ok=0
+[ 676] c942 4c33 -> 4248 z=4648 ok=0
+[ 677] 3ddf a652 -> 39c5 z=3dc6 ok=0
+[ 678] 2478 ace1 -> a786 z=ab86 ok=0
+[ 679] b5f6 4770 -> 4310 z=4711 ok=0
+[ 680] 35fc 5549 -> 514e z=554f ok=0
+[ 681] 30fb a4c8 -> 2c62 z=3062 ok=0
+[ 682] 1fb9 a5b8 -> 9f93 z=a394 ok=0
+[ 683] c9e4 5860 -> 5401 z=5802 ok=0
+[ 684] a46f 2351 -> 9634 z=9a34 ok=0
+[ 685] c20a 206c -> be05 z=c206 ok=0
+[ 686] 4823 3d91 -> 44d5 z=48d5 ok=0
+[ 687] 440f 2b4c -> 401d z=441e ok=0
+[ 688] 5765 2fcf -> 5366 z=5767 ok=0
+[ 689] 2425 42d0 -> 3ed8 z=42d8 ok=0
+[ 690] d1b0 b2cf -> cdb6 z=d1b7 ok=0
+[ 691] 9fa9 d967 -> d567 z=d967 ok=0
+[ 692] 3dc0 ab99 -> 3983 z=3d83 ok=0
+[ 693] b5e9 d191 -> cd9c z=d19d ok=0
+[ 694] 3d25 5230 -> 4e59 z=5259 ok=0
+[ 695] b3df b82e -> b625 z=ba26 ok=0
+[ 696] a922 5981 -> 5580 z=5981 ok=0
+[ 697] 9ee5 aeb1 -> ab1f z=af1f ok=0
+[ 698] bcd5 a34c -> b8e3 z=bce4 ok=0
+[ 699] 5069 4006 -> 4ca9 z=50a9 ok=0
+[ 700] b448 1e1e -> b02f z=b430 ok=0
+[ 701] ab2e 3a1e -> 35ab z=39ab ok=0
+[ 702] 2288 5028 -> 4c28 z=5028 ok=0
+[ 703] 22db b6f1 -> b2ba z=b6ba ok=0
+[ 704] 2b10 a9e8 -> 1ca0 z=20a0 ok=0
+[ 705] 2400 2d0b -> 2a0b z=2e0b ok=0
+[ 706] ad8f 549e -> 509c z=549d ok=0
+[ 707] a1a0 c567 -> c169 z=c56a ok=0
+[ 708] a199 a794 -> a530 z=a930 ok=0
+[ 709] 5114 b975 -> 4cfe z=50fe ok=0
+[ 710] a79f 4296 -> 3e87 z=4287 ok=0
+[ 711] bf71 bc38 -> bdd4 z=c1d4 ok=0
+[ 712] cc4b ccd9 -> cc92 z=d092 ok=0
+[ 713] 3916 9e09 -> 350a z=390a ok=0
+[ 714] 26f8 2e91 -> 2c27 z=3028 ok=0
+[ 715] a9a4 c058 -> bc6e z=c06f ok=0
+[ 716] b7f9 3dfe -> 37ff z=3c00 ok=0
+[ 717] bd5d 242a -> b94c z=bd4c ok=0
+[ 718] b2b1 2860 -> ad99 z=b199 ok=0
+[ 719] ccab caee -> cc11 z=d011 ok=0
+[ 720] 4acd bdbe -> 4615 z=4a15 ok=0
+[ 721] 5551 c449 -> 510c z=550c ok=0
+[ 722] 1fa9 ceba -> cab9 z=ceba ok=0
+[ 723] 53a9 c0c8 -> 4f5c z=535c ok=0
+[ 724] 353d b0a0 -> 2dda z=31da ok=0
+[ 725] d264 3d18 -> ce3b z=d23b ok=0
+[ 726] c744 a57e -> c349 z=c749 ok=0
+[ 727] d8f4 adfd -> d4f4 z=d8f5 ok=0
+[ 728] 4b68 c506 -> 44e5 z=48e5 ok=0
+[ 729] 33d1 a057 -> 2f8b z=338c ok=0
+[ 730] bc0b 9db4 -> b810 z=bc11 ok=0
+[ 731] b46d d2fd -> cf05 z=d306 ok=0
+[ 732] 33da d7cf -> d3cb z=d7cb ok=0
+[ 733] ad53 543c -> 503a z=543b ok=0
+[ 734] 3bac 2aa8 -> 380b z=3c0b ok=0
+[ 735] 469e cb10 -> c382 z=c782 ok=0
+[ 736] 2e52 b917 -> b44c z=b84d ok=0
+[ 737] bd27 a1ec -> b932 z=bd33 ok=0
+[ 738] 24cc 4d5c -> 495d z=4d5d ok=0
+[ 739] 2775 4e27 -> 4a28 z=4e29 ok=0
+[ 740] 209b c906 -> c505 z=c905 ok=0
+[ 741] 582d d976 -> cd24 z=d124 ok=0
+[ 742] 1de4 d937 -> d537 z=d937 ok=0
+[ 743] a885 a891 -> a88b z=ac8b ok=0
+[ 744] c277 4d63 -> 4894 z=4c94 ok=0
+[ 745] a295 4544 -> 4140 z=4541 ok=0
+[ 746] d29e 4944 -> cd4d z=d14d ok=0
+[ 747] c8e8 5925 -> 54d6 z=58d6 ok=0
+[ 748] d7fa 5025 -> d1e7 z=d5e8 ok=0
+[ 749] bc55 b52e -> b9a0 z=bda0 ok=0
+[ 750] 3004 d5e8 -> d1e6 z=d5e6 ok=0
+[ 751] 3eb1 5230 -> 4e65 z=5266 ok=0
+[ 752] d585 c843 -> d20d z=d60d ok=0
+[ 753] bcf7 55e0 -> 51cc z=55cc ok=0
+[ 754] 2db0 3967 -> 361d z=3a1d ok=0
+[ 755] 5252 c898 -> 4d2c z=512c ok=0
+[ 756] 343a 1de8 -> 3051 z=3452 ok=0
+[ 757] 1dc0 c015 -> bc12 z=c012 ok=0
+[ 758] 2ca6 c91e -> c514 z=c915 ok=0
+[ 759] 30d6 b4be -> aca6 z=b0a6 ok=0
+[ 760] d137 51bc -> 4028 z=4428 ok=0
+[ 761] 3932 3ad9 -> 3a05 z=3e06 ok=0
+[ 762] b87f 2eac -> b353 z=b753 ok=0
+[ 763] b1d2 3eb0 -> 39f5 z=3df6 ok=0
+[ 764] d28c 543c -> 47b0 z=4bb0 ok=0
+[ 765] 5664 46ac -> 52ce z=56cf ok=0
+[ 766] d934 d6bf -> d849 z=dc4a ok=0
+[ 767] 3471 b8a4 -> b0d7 z=b4d7 ok=0
+[ 768] d7f5 4532 -> d3a2 z=d7a2 ok=0
+[ 769] cd34 c399 -> ca27 z=ce27 ok=0
+[ 770] c636 ac3f -> c246 z=c647 ok=0
+[ 771] ac83 4a5d -> 4654 z=4a54 ok=0
+[ 772] 2aba a1bc -> 254b z=294b ok=0
+[ 773] 27f5 c05e -> bc4e z=c04e ok=0
+[ 774] d514 a87e -> d114 z=d515 ok=0
+[ 775] af84 a902 -> ad02 z=b102 ok=0
+[ 776] 38ea 5894 -> 5498 z=5899 ok=0
+[ 777] bb83 34d1 -> b51a z=b91a ok=0
+[ 778] 4c82 bce8 -> 4833 z=4c34 ok=0
+[ 779] 507b 4591 -> 4d2d z=512d ok=0
+[ 780] 2601 bbdc -> b7ac z=bbac ok=0
+[ 781] b77b 493b -> 44ff z=48ff ok=0
+[ 782] d069 1f6a -> cc69 z=d069 ok=0
+[ 783] 4ed6 c649 -> 4943 z=4d44 ok=0
+[ 784] 2419 b127 -> aca4 z=b0a4 ok=0
+[ 785] 2733 d276 -> ce75 z=d275 ok=0
+[ 786] 302d a645 -> 2ac9 z=2ec9 ok=0
+[ 787] a234 9fc9 -> a10c z=a50c ok=0
+[ 788] b750 a154 -> b37a z=b77b ok=0
+[ 789] 2454 bd0a -> b8f8 z=bcf9 ok=0
+[ 790] 4011 aaa3 -> 3bed z=3fed ok=0
+[ 791] ac98 4af3 -> 46ea z=4aea ok=0
+[ 792] c173 2109 -> bd6e z=c16e ok=0
+[ 793] 24cc ac11 -> a5bc z=a9bc ok=0
+[ 794] d866 cfbf -> d55d z=d95e ok=0
+[ 795] 559c 208b -> 519c z=559c ok=0
+[ 796] 3532 ccf8 -> c8e3 z=cce3 ok=0
+[ 797] ac63 2485 -> a683 z=aa84 ok=0
+[ 798] acc7 5069 -> 4c66 z=5067 ok=0
+[ 799] 3abb ccc8 -> c892 z=cc92 ok=0
+[ 800] a04b 2ae0 -> 25cd z=29cd ok=0
+[ 801] 4445 b5c6 -> 3fd1 z=43d1 ok=0
+[ 802] b62b 392b -> 302b z=342b ok=0
+[ 803] 3479 354e -> 34e3 z=38e4 ok=0
+[ 804] 4e3c 2a57 -> 4a3f z=4e3f ok=0
+[ 805] c864 ab6a -> c46b z=c86b ok=0
+[ 806] d70b 4742 -> d297 z=d697 ok=0
+[ 807] 32dd a6d6 -> 2e02 z=3202 ok=0
+[ 808] 53c9 2ea3 -> 4fcc z=53cc ok=0
+[ 809] cc25 a172 -> c825 z=cc26 ok=0
+[ 810] b344 2ad2 -> ad8f z=b190 ok=0
+[ 811] 4315 a030 -> 3f11 z=4311 ok=0
+[ 812] af1a 47dc -> 43bf z=47c0 ok=0
+[ 813] d223 35ec -> ce17 z=d217 ok=0
+[ 814] a48e 347c -> 3033 z=3433 ok=0
+[ 815] 2a71 3ae4 -> 374b z=3b4b ok=0
+[ 816] 28be ad5a -> a5f6 z=a9f6 ok=0
+[ 817] b5d6 337f -> ac2d z=b02d ok=0
+[ 818] 4a66 4126 -> 47af z=4bb0 ok=0
+[ 819] bd4b ab4c -> b985 z=bd85 ok=0
+[ 820] 3b0a b963 -> 2e9c z=329c ok=0
+[ 821] 9db0 405c -> 3c59 z=4059 ok=0
+[ 822] b75e a5f5 -> b3bd z=b7bd ok=0
+[ 823] a17a 304e -> 2bed z=2fed ok=0
+[ 824] aa2b 3ee2 -> 3ab0 z=3eb1 ok=0
+[ 825] 5599 b5bb -> 5193 z=5593 ok=0
+[ 826] 2aa3 c8b8 -> c4b1 z=c8b1 ok=0
+[ 827] 5130 2bd4 -> 4d31 z=5132 ok=0
+[ 828] 4dd4 39e6 -> 4a03 z=4e03 ok=0
+[ 829] a765 cf0b -> cb0c z=cf0d ok=0
+[ 830] c201 263c -> bdf4 z=c1f5 ok=0
+[ 831] a4b5 d399 -> cf99 z=d39a ok=0
+[ 832] c958 b89f -> c5a1 z=c9a2 ok=0
+[ 833] 442d ba7d -> 3ebb z=42bb ok=0
+[ 834] 4e68 c41b -> 4961 z=4d61 ok=0
+[ 835] ba75 be2e -> bcb4 z=c0b4 ok=0
+[ 836] 54ab 4f33 -> 5277 z=5678 ok=0
+[ 837] 20b8 a8ea -> a378 z=a778 ok=0
+[ 838] 2f6d 2576 -> 2c65 z=3065 ok=0
+[ 839] 48ae 2d78 -> 44b8 z=48b9 ok=0
+[ 840] b6d4 5989 -> 5585 z=5986 ok=0
+[ 841] a845 23ea -> a095 z=a495 ok=0
+[ 842] a451 3d7d -> 396b z=3d6c ok=0
+[ 843] cec8 cc4b -> cd89 z=d18a ok=0
+[ 844] 3a0d cfef -> cbbe z=cfbf ok=0
+[ 845] d2a8 d747 -> d54d z=d94e ok=0
+[ 846] c9a8 d960 -> d5ba z=d9ba ok=0
+[ 847] b642 bee3 -> bc39 z=c03a ok=0
+[ 848] b44c ac52 -> b160 z=b560 ok=0
+[ 849] 3cb5 3ceb -> 3cd0 z=40d0 ok=0
+[ 850] 5324 c9d2 -> 4daf z=51b0 ok=0
+[ 851] 49e4 3a47 -> 4648 z=4a48 ok=0
+[ 852] 1df9 2e01 -> 2a60 z=2e61 ok=0
+[ 853] 478a 4f1f -> 4c80 z=5081 ok=0
+[ 854] d4e7 cfa9 -> d2d1 z=d6d1 ok=0
+[ 855] 4875 3ec6 -> 454d z=494e ok=0
+[ 856] 2875 41c0 -> 3dd1 z=41d2 ok=0
+[ 857] 3abe 3c9b -> 3bfa z=3ffa ok=0
+[ 858] 2616 ccb5 -> c8b3 z=ccb3 ok=0
+[ 859] b363 52fd -> 4ef5 z=52f6 ok=0
+[ 860] d5e0 1dc8 -> d1e0 z=d5e0 ok=0
+[ 861] 551b d84e -> cf02 z=d302 ok=0
+[ 862] aeb1 3254 -> 29f7 z=2df7 ok=0
+[ 863] b209 359a -> 2d2b z=312b ok=0
+[ 864] 41ab 340b -> 3e2c z=422c ok=0
+[ 865] 57b4 507e -> 54f9 z=58fa ok=0
+[ 866] a691 c9de -> c5e1 z=c9e1 ok=0
+[ 867] ad1c a88b -> ab61 z=af62 ok=0
+[ 868] d212 3627 -> ce05 z=d206 ok=0
+[ 869] 3b5a 1dd0 -> 3765 z=3b66 ok=0
+[ 870] 53ea 4dd8 -> 516b z=556b ok=0
+[ 871] a8dc ac20 -> aa8e z=ae8e ok=0
+[ 872] 3d9e a2b5 -> 3990 z=3d91 ok=0
+[ 873] b142 4553 -> 4129 z=4529 ok=0
+[ 874] 30c0 aae5 -> 2a0d z=2e0e ok=0
+[ 875] 389b bea9 -> b85b z=bc5c ok=0
+[ 876] b7fa a78f -> b439 z=b839 ok=0
+[ 877] b342 cd1b -> c929 z=cd2a ok=0
+[ 878] d4ae d8b1 -> d708 z=db08 ok=0
+[ 879] c98f 2451 -> c58d z=c98d ok=0
+[ 880] c954 d05a -> cdaf z=d1af ok=0
+[ 881] af35 bb32 -> b80c z=bc0c ok=0
+[ 882] c07c a0d6 -> bc80 z=c081 ok=0
+[ 883] 4c8e 3cfe -> 48dd z=4cde ok=0
+[ 884] 4d67 3aa1 -> 499c z=4d9c ok=0
+[ 885] 325b 5351 -> 4f57 z=5357 ok=0
+[ 886] cc2d 3216 -> c821 z=cc21 ok=0
+[ 887] c9ce cb47 -> ca8a z=ce8a ok=0
+[ 888] a62b a599 -> a5e2 z=a9e2 ok=0
+[ 889] 519c 3505 -> 4da6 z=51a6 ok=0
+[ 890] 3859 be06 -> b7b3 z=bbb3 ok=0
+[ 891] baf2 28ae -> b6a7 z=baa7 ok=0
+[ 892] b8ad a985 -> b505 z=b905 ok=0
+[ 893] c00d ac88 -> bc31 z=c031 ok=0
+[ 894] c30c 4a3f -> 447c z=487c ok=0
+[ 895] 3bda d649 -> d239 z=d639 ok=0
+[ 896] 51a8 254d -> 4da8 z=51a9 ok=0
+[ 897] c38b be96 -> c16b z=c56b ok=0
+[ 898] 35be a688 -> 3155 z=3556 ok=0
+[ 899] 36ba 20f8 -> 32e1 z=36e2 ok=0
+[ 900] ce52 2045 -> ca51 z=ce51 ok=0
+[ 901] 329a 37a4 -> 3578 z=3978 ok=0
+[ 902] aa5f 375b -> 328f z=368f ok=0
+[ 903] 213e c583 -> c180 z=c580 ok=0
+[ 904] 523c 3519 -> 4e46 z=5246 ok=0
+[ 905] d4d9 abb4 -> d0d9 z=d4da ok=0
+[ 906] a4ed 23ae -> 9858 z=9c58 ok=0
+[ 907] 31ba c031 -> bbab z=bfab ok=0
+[ 908] 2860 2ac4 -> 2992 z=2d92 ok=0
+[ 909] 24b8 b476 -> b02a z=b42a ok=0
+[ 910] 5400 1ecd -> 5000 z=5400 ok=0
+[ 911] 211b acb5 -> a811 z=ac12 ok=0
+[ 912] d89e 44cf -> d477 z=d878 ok=0
+[ 913] 23b4 a514 -> 98e8 z=9ce8 ok=0
+[ 914] d17a c55a -> ce25 z=d225 ok=0
+[ 915] bffd 514d -> 4d0d z=510d ok=0
+[ 916] 340d d1d0 -> cdc8 z=d1c8 ok=0
+[ 917] 3236 2747 -> 2f1e z=331f ok=0
+[ 918] cb42 b9b2 -> c79d z=cb9d ok=0
+[ 919] b0a8 538f -> 4f8a z=538a ok=0
+[ 920] 4522 c976 -> c1ca z=c5ca ok=0
+[ 921] bcca 51a4 -> 4d7d z=517e ok=0
+[ 922] 3ad8 34f0 -> 38a8 z=3ca8 ok=0
+[ 923] d40b 3beb -> cff6 z=d3f6 ok=0
+[ 924] 3f10 5399 -> 4fd1 z=53d2 ok=0
+[ 925] 4f7a b7a7 -> 4b5b z=4f5b ok=0
+[ 926] c937 45de -> c090 z=c490 ok=0
+[ 927] 2039 b74d -> b32b z=b72b ok=0
+[ 928] 4c48 485a -> 4a75 z=4e75 ok=0
+[ 929] aaba c27d -> be97 z=c298 ok=0
+[ 930] 5422 b85c -> 5019 z=5419 ok=0
+[ 931] a06c bea9 -> bab1 z=beb2 ok=0
+[ 932] 31a4 418d -> 3de7 z=41e7 ok=0
+[ 933] 23fa d271 -> ce70 z=d271 ok=0
+[ 934] 3a35 c649 -> c182 z=c582 ok=0
+[ 935] 4ef8 489e -> 4ca3 z=50a4 ok=0
+[ 936] 2fda d825 -> d424 z=d824 ok=0
+[ 937] a6c8 a1b8 -> a4d2 z=a8d2 ok=0
+[ 938] 317c 28f8 -> 2eba z=32ba ok=0
+[ 939] ce8c 30d4 -> ca82 z=ce82 ok=0
+[ 940] a616 d676 -> d276 z=d676 ok=0
+[ 941] ab84 ab9f -> ab91 z=af92 ok=0
+[ 942] a1c8 bfe0 -> bbeb z=bfec ok=0
+[ 943] c83f 24cf -> c43c z=c83d ok=0
+[ 944] 3562 ade4 -> 2fd2 z=33d2 ok=0
+[ 945] 307a ae3f -> 256a z=296a ok=0
+[ 946] c8db c85e -> c89c z=cc9c ok=0
+[ 947] b1d0 a463 -> ae5c z=b25c ok=0
+[ 948] 4956 4b3d -> 4a49 z=4e4a ok=0
+[ 949] 4e9e 3028 -> 4aa6 z=4ea6 ok=0
+[ 950] 2acd c9aa -> c5a3 z=c9a3 ok=0
+[ 951] d851 b3fd -> d452 z=d853 ok=0
+[ 952] 27a4 b771 -> b2f6 z=b6f7 ok=0
+[ 953] af47 a53b -> ac4a z=b04b ok=0
+[ 954] a894 a44e -> a6bb z=aabb ok=0
+[ 955] 326a be2e -> b960 z=bd61 ok=0
+[ 956] 3a81 4429 -> 40f9 z=44f9 ok=0
+[ 957] bd09 a35b -> b917 z=bd18 ok=0
+[ 958] 50f1 2605 -> 4cf1 z=50f2 ok=0
+[ 959] d329 1fef -> cf29 z=d329 ok=0
+[ 960] 2afd a7a4 -> 2256 z=2656 ok=0
+[ 961] 432d 2b29 -> 3f49 z=434a ok=0
+[ 962] 2482 c742 -> c33d z=c73d ok=0
+[ 963] 3939 a191 -> 3522 z=3923 ok=0
+[ 964] 310c c704 -> c2db z=c6dc ok=0
+[ 965] 30c0 b5fd -> af3a z=b33a ok=0
+[ 966] 3aad 2641 -> 36df z=3adf ok=0
+[ 967] c974 d8b5 -> d50c z=d90c ok=0
+[ 968] 21cc 3c2e -> 3839 z=3c3a ok=0
+[ 969] d271 2f87 -> ce6d z=d26d ok=0
+[ 970] 49c0 2109 -> 45c1 z=49c1 ok=0
+[ 971] 286f 30a4 -> 2dbf z=31c0 ok=0
+[ 972] d605 4270 -> d1d1 z=d5d2 ok=0
+[ 973] bc45 ac8e -> b88d z=bc8e ok=0
+[ 974] 59a4 c01b -> 5593 z=5994 ok=0
+[ 975] a981 ae64 -> ac92 z=b092 ok=0
+[ 976] bdc0 207e -> b9b7 z=bdb7 ok=0
+[ 977] af3a 367c -> 30ad z=34ae ok=0
+[ 978] b02d 3333 -> 2a0c z=2e0c ok=0
+[ 979] 4128 ac8e -> 3d03 z=4104 ok=0
+[ 980] 5502 bd68 -> 50ec z=54ec ok=0
+[ 981] 4df9 3514 -> 4a0d z=4e0d ok=0
+[ 982] 4922 d6ba -> d215 z=d616 ok=0
+[ 983] 3f67 c30e -> bab5 z=beb5 ok=0
+[ 984] d50c 3353 -> d108 z=d508 ok=0
+[ 985] bb64 2a91 -> b6fb z=bafb ok=0
+[ 986] 5216 c591 -> 4d64 z=5164 ok=0
+[ 987] 5006 54ed -> 52f0 z=56f0 ok=0
+[ 988] 2a88 c37f -> bf65 z=c365 ok=0
+[ 989] cc33 4fae -> 46f6 z=4af6 ok=0
+[ 990] 1e6d 46cb -> 42cc z=46cd ok=0
+[ 991] b114 d68c -> d28e z=d68f ok=0
+[ 992] abae 3619 -> 3123 z=3523 ok=0
+[ 993] bc4c cc42 -> c886 z=cc87 ok=0
+[ 994] c9de 3c67 -> c551 z=c951 ok=0
+[ 995] a3cf 20bb -> 9a28 z=9e28 ok=0
+[ 996] 3cac 9e7f -> 38a5 z=3ca6 ok=0
+[ 997] d5f9 b759 -> d200 z=d600 ok=0
+[ 998] 2b9f 4548 -> 4157 z=4557 ok=0
+[ 999] c64e d176 -> ce3f z=d240 ok=0
+[1000] 4141 1ff5 -> 3d44 z=4145 ok=0
+[1001] 9e45 5630 -> 5230 z=5630 ok=0
+[1002] ba39 52d6 -> 4ebd z=52bd ok=0
+[1003] c861 d212 -> cf2a z=d32a ok=0
+[1004] a078 c469 -> c06b z=c46b ok=0
+[1005] d27a 39a8 -> ce63 z=d263 ok=0
+[1006] bcee 4de4 -> 4995 z=4d95 ok=0
+[1007] 9fc9 aa05 -> a6fe z=aafe ok=0
+[1008] 2b4c 2f60 -> 2d83 z=3183 ok=0
+[1009] 56fd a842 -> 52fc z=56fc ok=0
+[1010] 40b5 d989 -> d576 z=d976 ok=0
+[1011] a451 a937 -> a75f z=ab60 ok=0
+[1012] 2f09 c808 -> c3f4 z=c7f4 ok=0
+[1013] b91a b965 -> b93f z=bd40 ok=0
+[1014] 1f0b a000 -> 8fa8 z=93a8 ok=0
+[1015] b662 2295 -> b22d z=b62d ok=0
+[1016] bb2b 556f -> 5160 z=5561 ok=0
+[1017] ac74 ca5b -> c663 z=ca64 ok=0
+[1018] 4106 3e74 -> 4020 z=4420 ok=0
+[1019] caf3 aa3c -> c6f9 z=caf9 ok=0
+[1020] ac1b 1e09 -> a775 z=ab75 ok=0
+[1021] c300 cc42 -> c922 z=cd22 ok=0
+[1022] 4445 b08b -> 4020 z=4421 ok=0
+[1023] 569e 2a8c -> 529e z=569f ok=0
+[1024] 4c85 283f -> 4887 z=4c87 ok=0
+[1025] d0ae ce34 -> cfc8 z=d3c8 ok=0
+[1026] bb3e 4302 -> 3d32 z=4132 ok=0
+[1027] a8dc 445a -> 4050 z=4450 ok=0
+[1028] d96b d537 -> d803 z=dc03 ok=0
+[1029] a56f d35b -> cf5b z=d35c ok=0
+[1030] 39f2 c688 -> c1c9 z=c5ca ok=0
+[1031] a1c0 578a -> 538a z=578a ok=0
+[1032] d64e aba4 -> d24e z=d64f ok=0
+[1033] 57da 9eee -> 53da z=57da ok=0
+[1034] 48e5 d502 -> d065 z=d465 ok=0
+[1035] b2ba 2d85 -> abef z=afef ok=0
+[1036] acfb d848 -> d448 z=d849 ok=0
+[1037] ad93 2b47 -> a3be z=a7be ok=0
+[1038] 254d ae64 -> a910 z=ad11 ok=0
+[1039] 3d3b d469 -> d054 z=d454 ok=0
+[1040] 2630 4e76 -> 4a77 z=4e78 ok=0
+[1041] 30c3 23c9 -> 2d3f z=3140 ok=0
+[1042] c377 c063 -> c1ed z=c5ed ok=0
+[1043] 4954 274c -> 4557 z=4958 ok=0
+[1044] 1f47 a1f9 -> 98ab z=9cab ok=0
+[1045] b7bd 426f -> 3d77 z=4177 ok=0
+[1046] 44dc 225f -> 40df z=44df ok=0
+[1047] 50ed b9f9 -> 4cd5 z=50d5 ok=0
+[1048] ba31 4294 -> 3d07 z=4108 ok=0
+[1049] d81c 5605 -> cc66 z=d066 ok=0
+[1050] ad99 54ff -> 50fd z=54fe ok=0
+[1051] 1e83 421d -> 3e20 z=4220 ok=0
+[1052] 3ac2 bc1d -> ade0 z=b1e0 ok=0
+[1053] 2d12 44c7 -> 40db z=44db ok=0
+[1054] cf3d 5530 -> 4ec1 z=52c2 ok=0
+[1055] 2bef 5925 -> 5525 z=5925 ok=0
+[1056] b078 2000 -> ac38 z=b038 ok=0
+[1057] cd29 d81f -> d4c4 z=d8c4 ok=0
+[1058] 48ae cdd8 -> c702 z=cb02 ok=0
+[1059] 3f50 222b -> 3b5c z=3f5c ok=0
+[1060] 4836 4da8 -> 4bc3 z=4fc3 ok=0
+[1061] b6dd 456d -> 40ff z=44ff ok=0
+[1062] 1dfd 543f -> 503f z=543f ok=0
+[1063] 1e5f 3928 -> 3534 z=3935 ok=0
+[1064] bc7f bc24 -> bc51 z=c052 ok=0
+[1065] a2ba 502d -> 4c2c z=502d ok=0
+[1066] a0cf bac2 -> b6d5 z=bad5 ok=0
+[1067] 57ea bd43 -> 53d5 z=57d5 ok=0
+[1068] d137 2c7d -> cd35 z=d135 ok=0
+[1069] 26e0 b17e -> aca2 z=b0a2 ok=0
+[1070] 9db4 2f09 -> 2aad z=2eae ok=0
+[1071] d62b 208b -> d22b z=d62b ok=0
+[1072] ae64 40be -> 3c8b z=408b ok=0
+[1073] 28e0 d069 -> cc68 z=d068 ok=0
+[1074] c753 cc28 -> c9fc z=cdfd ok=0
+[1075] 2463 2c98 -> 29b0 z=2db1 ok=0
+[1076] 2d89 c0e8 -> bcbb z=c0bc ok=0
+[1077] 585d bb3e -> 5456 z=5856 ok=0
+[1078] c443 4eba -> 49a9 z=4da9 ok=0
+[1079] 3cf6 32fa -> 39d5 z=3dd5 ok=0
+[1080] b589 a025 -> b1aa z=b5aa ok=0
+[1081] cc57 d302 -> d096 z=d497 ok=0
+[1082] 261e c5e0 -> c1da z=c5da ok=0
+[1083] d806 28ae -> d405 z=d806 ok=0
+[1084] 5158 aa01 -> 4d56 z=5156 ok=0
+[1085] 42cd b58d -> 3e1b z=421b ok=0
+[1086] a06c ba42 -> b653 z=ba54 ok=0
+[1087] c808 b17c -> c41d z=c81e ok=0
+[1088] d498 3cb5 -> d085 z=d485 ok=0
+[1089] bd2a d365 -> cf8e z=d38e ok=0
+[1090] b309 c3bb -> c015 z=c416 ok=0
+[1091] 24f1 b41f -> afa0 z=b3a0 ok=0
+[1092] 4b15 514d -> 4f12 z=5312 ok=0
+[1093] d2d6 c7a7 -> cfca z=d3cb ok=0
+[1094] 2403 414d -> 3d55 z=4155 ok=0
+[1095] 4b63 3cc0 -> 47fb z=4bfb ok=0
+[1096] 9ec4 2310 -> 1b5c z=1f5c ok=0
+[1097] 5803 4142 -> 5418 z=5818 ok=0
+[1098] 429d b58e -> 3deb z=41eb ok=0
+[1099] 3ee6 bec0 -> 24c0 z=28c0 ok=0
+[1100] 2fa9 2522 -> 2c78 z=3079 ok=0
+[1101] 556b cce7 -> 5031 z=5431 ok=0
+[1102] 2d9c 3c88 -> 38e1 z=3ce2 ok=0
+[1103] 4f94 4fc9 -> 4fae z=53ae ok=0
+[1104] 58d9 aa12 -> 54d8 z=58d9 ok=0
+[1105] 4cc2 55f0 -> 5320 z=5720 ok=0
+[1106] 3ce0 c082 -> b824 z=bc24 ok=0
+[1107] 21a0 a238 -> 90c0 z=94c0 ok=0
+[1108] 3a01 b09c -> 34da z=38da ok=0
+[1109] b836 d8b8 -> d4bc z=d8bc ok=0
+[1110] a9d4 c280 -> be97 z=c297 ok=0
+[1111] b73a b6f2 -> b716 z=bb16 ok=0
+[1112] 334c d4b8 -> d0b4 z=d4b4 ok=0
+[1113] 27bf b391 -> ae99 z=b299 ok=0
+[1114] b859 4a88 -> 4642 z=4a42 ok=0
+[1115] 2d6f a67a -> 27a1 z=2ba1 ok=0
+[1116] 3d08 c7c4 -> c282 z=c682 ok=0
+[1117] a014 3b52 -> 3741 z=3b42 ok=0
+[1118] 5445 b74e -> 503d z=543e ok=0
+[1119] 4eb5 abdf -> 4ab1 z=4eb1 ok=0
+[1120] 3ee9 58f8 -> 5505 z=5906 ok=0
+[1121] 50d9 251b -> 4cd9 z=50da ok=0
+[1122] 57a9 a9e0 -> 53a8 z=57a8 ok=0
+[1123] a478 347a -> 3032 z=3432 ok=0
+[1124] 43cc a585 -> 3fc1 z=43c1 ok=0
+[1125] 5989 d5c8 -> 514a z=554a ok=0
+[1126] 58fb d475 -> 5181 z=5581 ok=0
+[1127] 41db b835 -> 3ccd z=40ce ok=0
+[1128] 2558 3b64 -> 378e z=3b8f ok=0
+[1129] 40c0 a163 -> 3cba z=40bb ok=0
+[1130] 1dc8 5042 -> 4c42 z=5042 ok=0
+[1131] a999 cc9e -> c8a0 z=cca1 ok=0
+[1132] 5729 3547 -> 532e z=572e ok=0
+[1133] b17e 3a4e -> 34ee z=38ee ok=0
+[1134] c438 453d -> 3814 z=3c14 ok=0
+[1135] ae8e b998 -> b669 z=ba6a ok=0
+[1136] d691 ae0e -> d292 z=d693 ok=0
+[1137] c961 afcc -> c570 z=c971 ok=0
+[1138] 3172 bcca -> b81b z=bc1c ok=0
+[1139] 4d30 5958 -> 55fe z=59fe ok=0
+[1140] a45a bb34 -> b756 z=bb57 ok=0
+[1141] 3539 2110 -> 3161 z=3562 ok=0
+[1142] ab0b d5fd -> d1fd z=d5fe ok=0
+[1143] c6c1 b042 -> c2e3 z=c6e3 ok=0
+[1144] a41c a048 -> a240 z=a640 ok=0
+[1145] 357c a201 -> 314c z=354c ok=0
+[1146] 2e45 2830 -> 2c2e z=302e ok=0
+[1147] bc46 c408 -> c119 z=c51a ok=0
+[1148] b2b8 b40f -> b36b z=b76b ok=0
+[1149] 4846 54c8 -> 5150 z=5551 ok=0
+[1150] 9f51 cd46 -> c946 z=cd46 ok=0
+[1151] c407 30f8 -> bfbe z=c3be ok=0
+[1152] abc4 d8e7 -> d4e7 z=d8e7 ok=0
+[1153] adc6 45a6 -> 418f z=458f ok=0
+[1154] 4dac 9ec8 -> 49ab z=4dac ok=0
+[1155] d71f b973 -> d329 z=d72a ok=0
+[1156] 30c0 d475 -> d072 z=d473 ok=0
+[1157] cf7a 2fac -> cb72 z=cf72 ok=0
+[1158] 242a d549 -> d148 z=d549 ok=0
+[1159] c407 c2a3 -> c358 z=c758 ok=0
+[1160] 4acd 40be -> 47fc z=4bfc ok=0
+[1161] a729 b3ef -> b06a z=b46a ok=0
+[1162] b76a d73d -> d344 z=d744 ok=0
+[1163] d36a b7c7 -> cf79 z=d37a ok=0
+[1164] 2428 440b -> 400f z=440f ok=0
+[1165] 9ed2 c429 -> c02a z=c42b ok=0
+[1166] 4121 c472 -> bb86 z=bf86 ok=0
+[1167] b818 3042 -> b20f z=b60f ok=0
+[1168] 4d95 518d -> 502b z=542c ok=0
+[1169] 551b c14b -> 50f0 z=54f1 ok=0
+[1170] 2fef 3504 -> 32ff z=3700 ok=0
+[1171] b504 310b -> acfd z=b0fd ok=0
+[1172] 3af0 a49e -> 36cb z=3acb ok=0
+[1173] c100 c24b -> c1a5 z=c5a6 ok=0
+[1174] 58c8 4cbb -> 555f z=595f ok=0
+[1175] c7c9 b725 -> c41d z=c81e ok=0
+[1176] 3513 d4b8 -> d0b3 z=d4b3 ok=0
+[1177] 2d7e 2537 -> 2acb z=2ecc ok=0
+[1178] 565b bb0e -> 524d z=564d ok=0
+[1179] 25c8 4466 -> 406b z=446c ok=0
+[1180] c8ef c020 -> c5f7 z=c9f7 ok=0
+[1181] 5534 5329 -> 5464 z=5864 ok=0
+[1182] c58b c6c8 -> c629 z=ca2a ok=0
+[1183] 3730 cf56 -> cb39 z=cf39 ok=0
+[1184] a999 4565 -> 415a z=455a ok=0
+[1185] b408 b257 -> b333 z=b734 ok=0
+[1186] c84c 2e03 -> c440 z=c840 ok=0
+[1187] 44bb b2ba -> 4085 z=4485 ok=0
+[1188] 5558 b629 -> 5152 z=5552 ok=0
+[1189] d1ac 4f7a -> c7bc z=cbbc ok=0
+[1190] 4eb1 487b -> 4c77 z=5077 ok=0
+[1191] d482 4f7a -> cd47 z=d147 ok=0
+[1192] ae41 5530 -> 512e z=552e ok=0
+[1193] 341f 4e95 -> 4aa5 z=4ea5 ok=0
+[1194] 3497 57a4 -> 53a8 z=57a9 ok=0
+[1195] bf80 d6ba -> d2d8 z=d6d8 ok=0
+[1196] c5c0 b0f9 -> c1e7 z=c5e8 ok=0
+[1197] 2ef8 3539 -> 32f7 z=36f7 ok=0
+[1198] 1eee c05f -> bc5b z=c05c ok=0
+[1199] b59c 473f -> 42e5 z=46e5 ok=0
+[1200] b05e 398b -> 3473 z=3874 ok=0
+[1201] 5634 ccfb -> 50f5 z=54f5 ok=0
+[1202] 5315 43e3 -> 4f93 z=5393 ok=0
+[1203] 514d 416c -> 4da3 z=51a4 ok=0
+[1204] c4e8 a66d -> c0ee z=c4ee ok=0
+[1205] b257 a833 -> af63 z=b364 ok=0
+[1206] bea6 b098 -> bb39 z=bf39 ok=0
+[1207] 4e9e 57a9 -> 54a8 z=58a8 ok=0
+[1208] a3e4 223c -> 96a0 z=9aa0 ok=0
+[1209] 4db8 577a -> 5474 z=5874 ok=0
+[1210] 2057 3a4e -> 365f z=3a5f ok=0
+[1211] 4eb5 381c -> 4ad5 z=4ed6 ok=0
+[1212] 4e1e d09b -> c630 z=ca30 ok=0
+[1213] a0cf cfda -> cbda z=cfdb ok=0
+[1214] c382 25b4 -> bf76 z=c377 ok=0
+[1215] bc1a ce64 -> caa5 z=cea6 ok=0
+[1216] a822 bc79 -> b89a z=bc9a ok=0
+[1217] 269e 3117 -> 2dea z=31eb ok=0
+[1218] 4c48 245d -> 4849 z=4c49 ok=0
+[1219] c00b 4138 -> 34b4 z=38b4 ok=0
+[1220] d8bb 4c9b -> d427 z=d828 ok=0
+[1221] d8b5 52e5 -> d1f7 z=d5f8 ok=0
+[1222] d93e 5836 -> cc20 z=d020 ok=0
+[1223] a4dc a517 -> a4f9 z=a8fa ok=0
+[1224] 55f5 b579 -> 51ef z=55f0 ok=0
+[1225] 2c80 20b1 -> 2916 z=2d16 ok=0
+[1226] 392f c419 -> bee6 z=c2e6 ok=0
+[1227] 4b42 530b -> 506d z=546e ok=0
+[1228] a9e0 c702 -> c30d z=c70e ok=0
+[1229] bff8 3508 -> bab6 z=beb6 ok=0
+[1230] a8e0 cb77 -> c77b z=cb7c ok=0
+[1231] 2433 5976 -> 5576 z=5976 ok=0
+[1232] a4be 9dbc -> a22d z=a62d ok=0
+[1233] b349 4f94 -> 4b85 z=4f85 ok=0
+[1234] 1df0 b142 -> ad12 z=b112 ok=0
+[1235] 3753 4a88 -> 46c2 z=4ac3 ok=0
+[1236] c583 ac29 -> c193 z=c594 ok=0
+[1237] 35c2 a9c4 -> 3109 z=350a ok=0
+[1238] 22e5 ce41 -> ca40 z=ce40 ok=0
+[1239] a16f cc08 -> c808 z=cc09 ok=0
+[1240] ae5f 4e5b -> 4a54 z=4e55 ok=0
+[1241] 281f cb42 -> c73e z=cb3e ok=0
+[1242] 57df 23a9 -> 53df z=57df ok=0
+[1243] a6cd d2b1 -> ceb1 z=d2b2 ok=0
+[1244] 4dfd 347b -> 4a0e z=4e0f ok=0
+[1245] c0e6 2af3 -> bcca z=c0ca ok=0
+[1246] 401c 400a -> 4013 z=4413 ok=0
+[1247] bc89 b271 -> b957 z=bd57 ok=0
+[1248] d836 486f -> d3de z=d7de ok=0
+[1249] 33c7 478f -> 43cd z=47cd ok=0
+[1250] ccfb 50c2 -> 4889 z=4c89 ok=0
+[1251] bf1c 594d -> 553f z=593f ok=0
+[1252] b568 4da0 -> 498a z=4d8a ok=0
+[1253] 571f a62b -> 531e z=571f ok=0
+[1254] c18f cbae -> c888 z=cc89 ok=0
+[1255] 24e0 c003 -> bbf2 z=bff2 ok=0
+[1256] b6c9 bfb7 -> bcb4 z=c0b5 ok=0
+[1257] 4cab b1e4 -> 489f z=4c9f ok=0
+[1258] c77f 2784 -> c377 z=c777 ok=0
+[1259] 54bb a848 -> 50ba z=54ba ok=0
+[1260] 2d3e 2125 -> 29e2 z=2de3 ok=0
+[1261] cb56 4dfd -> 44a4 z=48a4 ok=0
+[1262] b945 ca50 -> c6a4 z=caa4 ok=0
+[1263] 404d d11b -> ccd6 z=d0d6 ok=0
+[1264] 571a c82d -> 5294 z=5694 ok=0
+[1265] 588e 280b -> 548e z=588e ok=0
+[1266] 515c c9d0 -> 4bd0 z=4fd0 ok=0
+[1267] 3365 3f4d -> 3c1c z=401d ok=0
+[1268] d30b 2460 -> cf0a z=d30a ok=0
+[1269] 4439 d436 -> cfe5 z=d3e5 ok=0
+[1270] b7bb d419 -> d020 z=d421 ok=0
+[1271] a019 438d -> 3f89 z=4389 ok=0
+[1272] cc25 36ef -> c809 z=cc09 ok=0
+[1273] 3c17 2c33 -> 385a z=3c5a ok=0
+[1274] 4ce7 a3cf -> 48e6 z=4ce6 ok=0
+[1275] 4a98 4e05 -> 4ca8 z=50a8 ok=0
+[1276] 4d49 5800 -> 54a9 z=58a9 ok=0
+[1277] 3007 9e8c -> 2ba5 z=2fa5 ok=0
+[1278] cdb4 ba74 -> c9e7 z=cde8 ok=0
+[1279] 3ea6 a442 -> 3a95 z=3e95 ok=0
+[1280] 3a10 36db -> 38be z=3cbf ok=0
+[1281] c62d 40a0 -> bfba z=c3ba ok=0
+[1282] 1f10 37a8 -> 33c4 z=37c4 ok=0
+[1283] 2419 9ec8 -> 1cce z=20ce ok=0
+[1284] 2f60 58fb -> 54fb z=58fc ok=0
+[1285] d8bb d53b -> d758 z=db58 ok=0
+[1286] a609 4c3f -> 483d z=4c3d ok=0
+[1287] 3180 35b3 -> 3439 z=383a ok=0
+[1288] 20cf 472b -> 432d z=472d ok=0
+[1289] 3189 486d -> 4483 z=4883 ok=0
+[1290] 30f1 3214 -> 3182 z=3582 ok=0
+[1291] d683 a048 -> d283 z=d683 ok=0
+[1292] 5088 4323 -> 4cfa z=50fa ok=0
+[1293] b4ba 5695 -> 5290 z=5690 ok=0
+[1294] 9f51 4a93 -> 4692 z=4a92 ok=0
+[1295] cfcf 2b94 -> cbcb z=cfcb ok=0
+[1296] c54f bf26 -> c318 z=c718 ok=0
+[1297] a6e5 351b -> 30ac z=34ad ok=0
+[1298] 596f 3e7d -> 557b z=597c ok=0
+[1299] a403 c922 -> c524 z=c924 ok=0
+[1300] d1b0 baf8 -> cdcb z=d1cc ok=0
+[1301] af8a 548b -> 5089 z=5489 ok=0
+[1302] 3816 4760 -> 43e2 z=47e3 ok=0
+[1303] 4d63 b2e5 -> 4955 z=4d55 ok=0
+[1304] c654 c26e -> c4c5 z=c8c6 ok=0
+[1305] d5ec b908 -> d1f6 z=d5f6 ok=0
+[1306] c30c cd34 -> ca15 z=ce16 ok=0
+[1307] a3d4 1e1e -> 9cc5 z=a0c5 ok=0
+[1308] 52cd c0de -> 4e7f z=527f ok=0
+[1309] 4c19 1f38 -> 4819 z=4c19 ok=0
+[1310] c888 588e -> 5445 z=5846 ok=0
+[1311] 20f1 bc53 -> b849 z=bc49 ok=0
+[1312] b570 2e6a -> afab z=b3ab ok=0
+[1313] a808 2478 -> 9f30 z=a330 ok=0
+[1314] cf1f 322b -> cb12 z=cf13 ok=0
+[1315] 4806 c407 -> 4005 z=4405 ok=0
+[1316] 52b5 5845 -> 55f2 z=59f2 ok=0
+[1317] d800 a38f -> d400 z=d800 ok=0
+[1318] 4c5a 2a49 -> 485d z=4c5d ok=0
+[1319] 5954 2e4c -> 5554 z=5955 ok=0
+[1320] 4298 cbf5 -> c64f z=ca4f ok=0
+[1321] 2028 226d -> 214a z=254a ok=0
+[1322] 9e8c 538a -> 4f8a z=538a ok=0
+[1323] 3234 2ae5 -> 2fed z=33ed ok=0
+[1324] cf38 48d2 -> c8cf z=cccf ok=0
+[1325] d1a0 cb82 -> cf80 z=d380 ok=0
+[1326] d784 5370 -> cf98 z=d398 ok=0
+[1327] a191 aa1e -> a782 z=ab82 ok=0
+[1328] a082 c919 -> c51a z=c91a ok=0
+[1329] 5498 32f1 -> 509b z=549b ok=0
+[1330] b038 3502 -> 2dcc z=31cc ok=0
+[1331] bf4f 3c5c -> b5e6 z=b9e6 ok=0
+[1332] d8b5 2585 -> d4b5 z=d8b5 ok=0
+[1333] 35af 335e -> 34af z=38af ok=0
+[1334] c59c 5616 -> 51bc z=55bc ok=0
+[1335] b5b6 28a1 -> b122 z=b522 ok=0
+[1336] 4c11 b0b0 -> 4807 z=4c08 ok=0
+[1337] bd56 4e1a -> 49c4 z=4dc5 ok=0
+[1338] ac2d acc2 -> ac77 z=b078 ok=0
+[1339] adf0 a7da -> abe6 z=afe6 ok=0
+[1340] 2d2c 291e -> 2bbb z=2fbb ok=0
+[1341] 3d99 58e0 -> 54eb z=58eb ok=0
+[1342] c823 b680 -> c457 z=c857 ok=0
+[1343] d6ac 356d -> d2a6 z=d6a7 ok=0
+[1344] 4787 4b3d -> 4980 z=4d80 ok=0
+[1345] 4ca8 a16f -> 48a7 z=4ca7 ok=0
+[1346] a819 a81f -> a81c z=ac1c ok=0
+[1347] b451 c8ea -> c50c z=c90d ok=0
+[1348] 3686 b0e8 -> 3012 z=3412 ok=0
+[1349] c6f3 c812 -> c78b z=cb8c ok=0
+[1350] 2fa9 1f2e -> 2c0d z=300e ok=0
+[1351] 3025 c11e -> bcdb z=c0dc ok=0
+[1352] 3326 be56 -> b971 z=bd71 ok=0
+[1353] ce4e 265f -> ca4c z=ce4c ok=0
+[1354] 407b 24dc -> 3c84 z=4085 ok=0
+[1355] a230 d55c -> d15c z=d55c ok=0
+[1356] a25f 3c37 -> 382a z=3c2a ok=0
+[1357] 3433 20be -> 3058 z=3459 ok=0
+[1358] 4c00 269e -> 4801 z=4c02 ok=0
+[1359] 471c c605 -> 385c z=3c5c ok=0
+[1360] 485a 3a48 -> 44be z=48be ok=0
+[1361] cc06 c185 -> c8b6 z=ccb7 ok=0
+[1362] 2eff 392f -> 360e z=3a0f ok=0
+[1363] 3e9b 5537 -> 5151 z=5551 ok=0
+[1364] be47 cf5b -> cbbf z=cfbf ok=0
+[1365] ca09 589b -> 543a z=583a ok=0
+[1366] 5738 d605 -> 48cc z=4ccc ok=0
+[1367] 2e5d 4963 -> 456f z=4970 ok=0
+[1368] 4d46 20e3 -> 4946 z=4d47 ok=0
+[1369] 4546 5999 -> 55c3 z=59c3 ok=0
+[1370] 409c 3a10 -> 3e20 z=4220 ok=0
+[1371] cc5d a154 -> c85d z=cc5e ok=0
+[1372] 5652 592c -> 582a z=5c2a ok=0
+[1373] a025 c028 -> bc2c z=c02c ok=0
+[1374] 268c b939 -> b504 z=b905 ok=0
+[1375] cb30 9ef3 -> c730 z=cb31 ok=0
+[1376] 22c4 3799 -> 33cf z=37cf ok=0
+[1377] bcbb 28c2 -> b895 z=bc95 ok=0
+[1378] 2af8 c8e0 -> c4d9 z=c8d9 ok=0
+[1379] 2e21 9e23 -> 29bf z=2dbf ok=0
+[1380] 4814 bda4 -> 42bf z=46bf ok=0
+[1381] 9fbf 2075 -> 10ac z=14ac ok=0
+[1382] 520e 48ab -> 4f38 z=5339 ok=0
+[1383] 387e d6f3 -> d2ea z=d6ea ok=0
+[1384] bc1a a06f -> b822 z=bc23 ok=0
+[1385] 3e11 2422 -> 3a21 z=3e22 ok=0
+[1386] c48b bcb4 -> c1b8 z=c5b8 ok=0
+[1387] 325f 58b5 -> 54b6 z=58b7 ok=0
+[1388] a40b b65f -> b29f z=b6a0 ok=0
+[1389] 30d7 c2a8 -> be5a z=c25b ok=0
+[1390] a811 4b99 -> 4795 z=4b95 ok=0
+[1391] 3f2b 5558 -> 5174 z=5575 ok=0
+[1392] 30d2 2875 -> 2def z=31ef ok=0
+[1393] 5751 d482 -> 4d9e z=519e ok=0
+[1394] d7ef c372 -> d415 z=d815 ok=0
+[1395] 42f9 4e01 -> 4ae0 z=4ee0 ok=0
+[1396] 42c9 afa4 -> 3e8c z=428c ok=0
+[1397] d8dc 3c01 -> d4d4 z=d8d4 ok=0
+[1398] 5302 2a34 -> 4f03 z=5304 ok=0
+[1399] 4bdf 50fb -> 4ef2 z=52f3 ok=0
+[1400] 309b a9f0 -> 2a3e z=2e3e ok=0
+[1401] b3e7 3e9d -> 39a0 z=3da0 ok=0
+[1402] a9b8 b6d0 -> b387 z=b787 ok=0
+[1403] bb00 20bb -> b6ed z=baed ok=0
+[1404] 591e 366c -> 5521 z=5921 ok=0
+[1405] 5488 cccf -> 4ea8 z=52a8 ok=0
+[1406] 24d9 3d67 -> 397a z=3d7a ok=0
+[1407] 1f5b 3035 -> 2c6f z=3070 ok=0
+[1408] d3e4 b889 -> cff6 z=d3f6 ok=0
+[1409] bde3 cc54 -> c8b2 z=ccb2 ok=0
+[1410] a9ac c5c0 -> c1cb z=c5cb ok=0
+[1411] 4616 a47b -> 4211 z=4612 ok=0
+[1412] c47a bd89 -> c1dc z=c5dc ok=0
+[1413] 2509 a995 -> a221 z=a621 ok=0
+[1414] ad42 5888 -> 5487 z=5887 ok=0
+[1415] 2149 c9fb -> c5f9 z=c9fa ok=0
+[1416] aa45 a291 -> a7e9 z=abe9 ok=0
+[1417] 2599 2cad -> 2a13 z=2e13 ok=0
+[1418] 2946 a25f -> 235c z=275c ok=0
+[1419] 46e0 b425 -> 429d z=469e ok=0
+[1420] a0bb 4f29 -> 4b28 z=4f28 ok=0
+[1421] a414 21a8 -> 9900 z=9d00 ok=0
+[1422] 25b8 a7e4 -> 9c58 z=a058 ok=0
+[1423] 30c0 adb4 -> 2798 z=2b98 ok=0
+[1424] 2fe4 c344 -> bf05 z=c305 ok=0
+[1425] ad02 d857 -> d457 z=d858 ok=0
+[1426] cac4 4f29 -> 478e z=4b8e ok=0
+[1427] 5989 29b8 -> 5589 z=5989 ok=0
+[1428] 3db1 4871 -> 4527 z=4927 ok=0
+[1429] d652 3f30 -> d235 z=d635 ok=0
+[1430] b576 bb55 -> b908 z=bd08 ok=0
+[1431] 244b 545d -> 505d z=545d ok=0
+[1432] 3632 4100 -> 3dc6 z=41c6 ok=0
+[1433] afae a5e4 -> ac93 z=b094 ok=0
+[1434] 3b78 a7df -> 3739 z=3b39 ok=0
+[1435] c520 5506 -> 50b4 z=54b4 ok=0
+[1436] 3956 a283 -> 353c z=393c ok=0
+[1437] 55c4 25f0 -> 51c4 z=55c4 ok=0
+[1438] d2d6 44ea -> ce38 z=d239 ok=0
+[1439] c816 2b4c -> c40e z=c80f ok=0
+[1440] 3b30 cf6a -> cb30 z=cf30 ok=0
+[1441] a58d b6af -> b307 z=b708 ok=0
+[1442] b57c baaa -> b8b4 z=bcb4 ok=0
+[1443] c82f 2563 -> c42c z=c82c ok=0
+[1444] 2ed6 9f94 -> 2a5c z=2e5d ok=0
+[1445] a42a cb68 -> c76a z=cb6a ok=0
+[1446] 545a a21a -> 505a z=545a ok=0
+[1447] 4866 444b -> 468b z=4a8c ok=0
+[1448] 42a2 3de9 -> 40cb z=44cb ok=0
+[1449] 4d3b bcd9 -> 48ed z=4ced ok=0
+[1450] d019 2ffa -> cc15 z=d015 ok=0
+[1451] babc 4b2b -> 46bf z=4abf ok=0
+[1452] 5291 b5b2 -> 4e85 z=5286 ok=0
+[1453] d4be 26d2 -> d0bd z=d4be ok=0
+[1454] adf5 2114 -> a952 z=ad52 ok=0
+[1455] 421e 323a -> 3e81 z=4282 ok=0
+[1456] bd46 c226 -> c064 z=c464 ok=0
+[1457] bdef 2afd -> b9b7 z=bdb7 ok=0
+[1458] d5ec 4a34 -> d125 z=d526 ok=0
+[1459] b039 a460 -> acc5 z=b0c5 ok=0
+[1460] d8c2 b9fa -> d4c7 z=d8c8 ok=0
+[1461] d416 bddc -> d02d z=d42d ok=0
+[1462] b935 4f0b -> 4ae1 z=4ee1 ok=0
+[1463] 4ec8 a4d2 -> 4ac7 z=4ec7 ok=0
+[1464] cc19 9dc4 -> c819 z=cc19 ok=0
+[1465] c65b bdae -> c3c6 z=c7c6 ok=0
+[1466] b0ea a6c4 -> adc2 z=b1c2 ok=0
+[1467] a976 4038 -> 3c22 z=4022 ok=0
+[1468] c5f3 9ffa -> c1f4 z=c5f5 ok=0
+[1469] d06c 3b43 -> cc4f z=d04f ok=0
+[1470] 1eb5 3523 -> 313d z=353e ok=0
+[1471] c46a 272e -> c063 z=c463 ok=0
+[1472] 386b 39ba -> 3912 z=3d12 ok=0
+[1473] d3da ba4f -> cff3 z=d3f3 ok=0
+[1474] b100 a1bc -> ad5b z=b15c ok=0
+[1475] 3a1e 4649 -> 430c z=470d ok=0
+[1476] bcaa d49e -> d0b0 z=d4b1 ok=0
+[1477] a616 4282 -> 3e76 z=4276 ok=0
+[1478] c893 c382 -> c673 z=ca74 ok=0
+[1479] cfc4 ca9e -> cd89 z=d18a ok=0
+[1480] 2129 55d0 -> 51d0 z=55d0 ok=0
+[1481] 2f51 58b5 -> 54b5 z=58b6 ok=0
+[1482] a033 3b6a -> 3759 z=3b59 ok=0
+[1483] 5733 d664 -> 4678 z=4a78 ok=0
+[1484] 45ae 3368 -> 41e9 z=45e9 ok=0
+[1485] d7c9 c954 -> d439 z=d83a ok=0
+[1486] 3d8d d5dc -> d1c6 z=d5c6 ok=0
+[1487] cdc8 9eb1 -> c9c8 z=cdc8 ok=0
+[1488] b456 54f4 -> 50ef z=54f0 ok=0
+[1489] 32ff d2d6 -> cecf z=d2cf ok=0
+[1490] b484 a9fd -> b143 z=b544 ok=0
+[1491] c529 3642 -> c0c5 z=c4c5 ok=0
+[1492] 336d a514 -> 2eca z=32ca ok=0
+[1493] d406 4a88 -> ce6a z=d26a ok=0
+[1494] d8be 4c78 -> d42f z=d82f ok=0
+[1495] 1fc4 528c -> 4e8c z=528c ok=0
+[1496] 2949 b85a -> b405 z=b805 ok=0
+[1497] a48b 43bb -> 3fb2 z=43b2 ok=0
+[1498] 2066 5075 -> 4c75 z=5075 ok=0
+[1499] 2b8f 2375 -> 28b6 z=2cb6 ok=0
+[1500] 389a a4e3 -> 3473 z=3873 ok=0
+[1501] d028 4ed2 -> c1f8 z=c5f8 ok=0
+[1502] ab1a 3860 -> 33dd z=37dd ok=0
+[1503] 3b83 cdd4 -> c998 z=cd98 ok=0
+[1504] 5572 9dac -> 5172 z=5572 ok=0
+[1505] c5b0 a4ae -> c1b4 z=c5b5 ok=0
+[1506] 4d8d b411 -> 497c z=4d7d ok=0
+[1507] becc b585 -> bc16 z=c017 ok=0
+[1508] 589e d006 -> 5339 z=5739 ok=0
+[1509] c107 3c6e -> b9a0 z=bda0 ok=0
+[1510] 2088 d4d2 -> d0d2 z=d4d2 ok=0
+[1511] a989 b750 -> b400 z=b801 ok=0
+[1512] b5f3 a1ac -> b220 z=b620 ok=0
+[1513] c1bb 392b -> bc70 z=c070 ok=0
+[1514] 4c39 b658 -> 481f z=4c20 ok=0
+[1515] 367b beb1 -> b912 z=bd12 ok=0
+[1516] 4871 4446 -> 4694 z=4a94 ok=0
+[1517] 4d17 2137 -> 4917 z=4d18 ok=0
+[1518] 30ca 42cb -> 3f17 z=4318 ok=0
+[1519] d88e a599 -> d48e z=d88e ok=0
+[1520] c4bd b7e0 -> c13b z=c53b ok=0
+[1521] 5291 5365 -> 52fb z=56fb ok=0
+[1522] bf28 25b0 -> bb11 z=bf11 ok=0
+[1523] 4a29 aa34 -> 4623 z=4a23 ok=0
+[1524] 4c2a b730 -> 480d z=4c0d ok=0
+[1525] d45d a14d -> d05d z=d45d ok=0
+[1526] a6c4 2eee -> 293d z=2d3d ok=0
+[1527] bf55 2252 -> bb48 z=bf48 ok=0
+[1528] 3799 3a4d -> 390c z=3d0d ok=0
+[1529] 5517 c04a -> 50f4 z=54f5 ok=0
+[1530] 2436 4aac -> 46ae z=4aae ok=0
+[1531] 58b8 d51b -> 5055 z=5455 ok=0
+[1532] 5234 382f -> 4e44 z=5245 ok=0
+[1533] a216 438d -> 3f87 z=4387 ok=0
+[1534] 3b48 2149 -> 375d z=3b5d ok=0
+[1535] 48cd 3a30 -> 4530 z=4930 ok=0
+[1536] 49f3 d1dc -> cc5f z=d05f ok=0
+[1537] d448 c139 -> d071 z=d472 ok=0
+[1538] cda4 345e -> c992 z=cd93 ok=0
+[1539] 307b 2329 -> 2ced z=30ee ok=0
+[1540] bbdf bbe2 -> bbe0 z=bfe0 ok=0
+[1541] c814 54dc -> 5059 z=545a ok=0
+[1542] 25f9 221a -> 2483 z=2883 ok=0
+[1543] 2951 3d84 -> 39ae z=3daf ok=0
+[1544] 3a92 3770 -> 3925 z=3d25 ok=0
+[1545] afda cb6d -> c77c z=cb7d ok=0
+[1546] d16b a6cd -> cd6b z=d16c ok=0
+[1547] c0e8 2830 -> bcd7 z=c0d7 ok=0
+[1548] b2a3 c8ba -> c4d4 z=c8d5 ok=0
+[1549] d0b5 467f -> cbca z=cfca ok=0
+[1550] cdf5 bccf -> ca41 z=ce42 ok=0
+[1551] 598d 9df0 -> 558d z=598d ok=0
+[1552] 50a1 510c -> 50d6 z=54d6 ok=0
+[1553] b693 d8f4 -> d4f7 z=d8f7 ok=0
+[1554] 2551 c5b4 -> c1ae z=c5af ok=0
+[1555] 5051 55a8 -> 53d0 z=57d0 ok=0
+[1556] 2146 4b4c -> 474d z=4b4d ok=0
+[1557] 32bf c6cb -> c295 z=c695 ok=0
+[1558] d4ea b2d2 -> d0ed z=d4ed ok=0
+[1559] 5784 a27a -> 5384 z=5784 ok=0
+[1560] 4451 1fea -> 4052 z=4453 ok=0
+[1561] 471a 38c9 -> 43b3 z=47b3 ok=0
+[1562] a066 b941 -> b552 z=b953 ok=0
+[1563] bca6 34e7 -> b6d8 z=bad8 ok=0
+[1564] 3e83 9fb9 -> 3a7b z=3e7b ok=0
+[1565] 3212 a9a0 -> 2caa z=30aa ok=0
+[1566] 21c4 25d8 -> 245d z=285d ok=0
+[1567] 2ba4 1e76 -> 2839 z=2c39 ok=0
+[1568] 3351 42e7 -> 3f5c z=435c ok=0
+[1569] 3813 a3ea -> 33e7 z=37e7 ok=0
+[1570] c126 269e -> bd19 z=c119 ok=0
+[1571] 490c 23ef -> 450d z=490e ok=0
+[1572] b0cd cbd4 -> c7e7 z=cbe7 ok=0
+[1573] 3169 d2ba -> ceb4 z=d2b5 ok=0
+[1574] 1ef3 24e0 -> 229c z=269d ok=0
+[1575] 2054 c2a9 -> bea4 z=c2a5 ok=0
+[1576] 2d29 42f1 -> 3f1a z=431a ok=0
+[1577] ca14 2e98 -> c607 z=ca07 ok=0
+[1578] 4398 4105 -> 424e z=464e ok=0
+[1579] cc22 b7ff -> c841 z=cc42 ok=0
+[1580] cc16 2454 -> c815 z=cc15 ok=0
+[1581] 511b 5756 -> 54f1 z=58f2 ok=0
+[1582] c8f1 c668 -> c812 z=cc12 ok=0
+[1583] d88b d702 -> d806 z=dc06 ok=0
+[1584] d3ea a6cd -> cfea z=d3eb ok=0
+[1585] c0ed 4d54 -> 48b6 z=4cb6 ok=0
+[1586] 4100 3703 -> 3de0 z=41e0 ok=0
+[1587] a008 d572 -> d172 z=d572 ok=0
+[1588] 5991 c6fd -> 5559 z=5959 ok=0
+[1589] 258d a688 -> 97d8 z=9bd8 ok=0
+[1590] ca16 9fef -> c616 z=ca17 ok=0
+[1591] cf0b a53b -> cb0c z=cf0c ok=0
+[1592] b446 4890 -> 446e z=486e ok=0
+[1593] 297a 9e4e -> 24b0 z=28b0 ok=0
+[1594] a3ea ba62 -> b681 z=ba82 ok=0
+[1595] 4aa3 3ef1 -> 4781 z=4b81 ok=0
+[1596] 38e4 ce6d -> ca46 z=ce46 ok=0
+[1597] 489e 3897 -> 44e7 z=48e7 ok=0
+[1598] 54b5 1dfd -> 50b5 z=54b5 ok=0
+[1599] a67a 2ae0 -> 2346 z=2746 ok=0
+[1600] 54e3 a0a4 -> 50e3 z=54e3 ok=0
+[1601] 3662 d8a4 -> d4a1 z=d8a1 ok=0
+[1602] 303a 4438 -> 4059 z=445a ok=0
+[1603] d645 1dc8 -> d245 z=d645 ok=0
+[1604] d922 a039 -> d522 z=d922 ok=0
+[1605] 2999 ab60 -> 9f1c z=a31c ok=0
+[1606] 451c cc8b -> c688 z=ca88 ok=0
+[1607] 2448 b59a -> b155 z=b556 ok=0
+[1608] 44cd 3c3b -> 41db z=45dc ok=0
+[1609] 4f84 d205 -> c886 z=cc86 ok=0
+[1610] 46cf d351 -> ce77 z=d277 ok=0
+[1611] b6c7 b78f -> b72b z=bb2b ok=0
+[1612] b4be cb7d -> c7a2 z=cba3 ok=0
+[1613] 3544 ac08 -> 3042 z=3442 ok=0
+[1614] 4115 a860 -> 3d03 z=4104 ok=0
+[1615] d29a d86c -> d612 z=da12 ok=0
+[1616] 5567 4435 -> 51aa z=55aa ok=0
+[1617] 20ed c522 -> c11f z=c520 ok=0
+[1618] 28ae d25b -> ce5a z=d25a ok=0
+[1619] 248b 1f7f -> 226a z=266b ok=0
+[1620] 2946 2ee9 -> 2cc6 z=30c6 ok=0
+[1621] 327f c8e1 -> c4c7 z=c8c7 ok=0
+[1622] bc48 b8fe -> bac7 z=bec7 ok=0
+[1623] 43b0 5641 -> 527e z=567e ok=0
+[1624] 4997 b8c9 -> 454a z=494a ok=0
+[1625] d338 a54d -> cf38 z=d339 ok=0
+[1626] 590c 5451 -> 5734 z=5b34 ok=0
+[1627] c570 9df9 -> c171 z=c571 ok=0
+[1628] d08b cb60 -> ce63 z=d263 ok=0
+[1629] 4c82 1e2b -> 4882 z=4c82 ok=0
+[1630] 3054 3975 -> 368a z=3a8a ok=0
+[1631] 5238 29fd -> 4e39 z=5239 ok=0
+[1632] a069 56d6 -> 52d6 z=56d6 ok=0
+[1633] 1db0 3578 -> 318e z=358f ok=0
+[1634] ae16 9fcf -> aa92 z=ae93 ok=0
+[1635] 3965 4c72 -> 489d z=4c9d ok=0
+[1636] 4436 30c0 -> 405c z=445c ok=0
+[1637] 2414 4443 -> 4047 z=4447 ok=0
+[1638] 4609 35f9 -> 4268 z=4669 ok=0
+[1639] cdc4 3839 -> c9a2 z=cda2 ok=0
+[1640] 28dc ad7e -> a620 z=aa20 ok=0
+[1641] 369e cd02 -> c8e7 z=cce8 ok=0
+[1642] bced 397c -> b45e z=b85e ok=0
+[1643] 38d9 2045 -> 34ea z=38ea ok=0
+[1644] 4da4 565f -> 53c8 z=57c8 ok=0
+[1645] d77f 3bbf -> d36f z=d770 ok=0
+[1646] 4d99 3aea -> 49d0 z=4dd0 ok=0
+[1647] 225b b27c -> ae16 z=b216 ok=0
+[1648] cdf5 4414 -> c8f0 z=ccf0 ok=0
+[1649] a1a8 b5c0 -> b1ed z=b5ed ok=0
+[1650] 2c1e cab1 -> c6a9 z=caa9 ok=0
+[1651] a6f3 d245 -> ce45 z=d246 ok=0
+[1652] a981 bb31 -> b789 z=bb89 ok=0
+[1653] bd5f c4e3 -> c23a z=c63b ok=0
+[1654] c5f5 2fa4 -> c1d6 z=c5d6 ok=0
+[1655] 39e0 435e -> 406b z=446b ok=0
+[1656] 5770 c415 -> 532e z=572f ok=0
+[1657] 2c4c bc88 -> b843 z=bc43 ok=0
+[1658] 4bb6 a775 -> 47b2 z=4bb2 ok=0
+[1659] d1dc c935 -> cf29 z=d329 ok=0
+[1660] 3fa1 30e8 -> 3c1f z=401f ok=0
+[1661] b913 3501 -> b125 z=b525 ok=0
+[1662] 4170 d0d6 -> cc7f z=d07f ok=0
+[1663] 37a3 c693 -> c219 z=c619 ok=0
+[1664] 3f1a 22b1 -> 3b27 z=3f27 ok=0
+[1665] b6bf 3fe4 -> 3a34 z=3e34 ok=0
+[1666] 35af a2fd -> 3177 z=3577 ok=0
+[1667] 479f c48b -> 3e28 z=4228 ok=0
+[1668] a36a 355a -> 311e z=351f ok=0
+[1669] 27fa 4e7a -> 4a7b z=4e7c ok=0
+[1670] d0d2 4c9b -> c909 z=cd09 ok=0
+[1671] 4c30 59a4 -> 562a z=5a2a ok=0
+[1672] ae9a afef -> af44 z=b344 ok=0
+[1673] b477 a85d -> b102 z=b503 ok=0
+[1674] 553e a8dc -> 513d z=553d ok=0
+[1675] ced6 4199 -> ca23 z=ce23 ok=0
+[1676] c291 b1bc -> beec z=c2ed ok=0
+[1677] 2b10 544b -> 504b z=544c ok=0
+[1678] 207b 2276 -> 2178 z=2578 ok=0
+[1679] b7d4 cbda -> c80c z=cc0c ok=0
+[1680] 4605 bb30 -> 411f z=451f ok=0
+[1681] cf99 c42d -> cc52 z=d052 ok=0
+[1682] 50e7 c0fc -> 4c97 z=5097 ok=0
+[1683] 1ff5 3d7b -> 3982 z=3d83 ok=0
+[1684] 2c7a c7dc -> c3ca z=c7ca ok=0
+[1685] b201 3e6f -> 39af z=3daf ok=0
+[1686] 2909 d50c -> d10b z=d50b ok=0
+[1687] cdd4 3ed8 -> c966 z=cd66 ok=0
+[1688] cc0b 54ea -> 4fce z=53ce ok=0
+[1689] bcc4 4e0e -> 49c1 z=4dc2 ok=0
+[1690] d8bb 50a4 -> d324 z=d724 ok=0
+[1691] 2652 d3c4 -> cfc3 z=d3c3 ok=0
+[1692] 53fa a9d0 -> 4ff8 z=53f9 ok=0
+[1693] a4be 323a -> 2da2 z=31a2 ok=0
+[1694] 27b4 53f5 -> 4ff5 z=53f6 ok=0
+[1695] 47b1 a6ac -> 43aa z=47aa ok=0
+[1696] 246c bb39 -> b715 z=bb16 ok=0
+[1697] 3fef 2433 -> 3bff z=4000 ok=0
+[1698] b6fb 26e9 -> b28c z=b68c ok=0
+[1699] 4961 c10a -> 441e z=481e ok=0
+[1700] 5406 b56f -> 5000 z=5401 ok=0
+[1701] 4c22 b73d -> 4805 z=4c05 ok=0
+[1702] d0bb bc5a -> ccdd z=d0de ok=0
+[1703] 9ffa 4553 -> 4151 z=4551 ok=0
+[1704] b072 bbf2 -> b887 z=bc87 ok=0
+[1705] 3cb2 b22d -> 37d9 z=3bd9 ok=0
+[1706] b6ad 2942 -> b204 z=b605 ok=0
+[1707] abd4 b988 -> b605 z=ba05 ok=0
+[1708] 3057 b463 -> ac6f z=b06f ok=0
+[1709] 5668 cea3 -> 50bf z=54bf ok=0
+[1710] 2f87 9ea3 -> 2b1d z=2f1d ok=0
+[1711] 3302 c028 -> bb70 z=bf70 ok=0
+[1712] 9de0 42db -> 3ed8 z=42d8 ok=0
+[1713] d085 58fb -> 53b3 z=57b4 ok=0
+[1714] 2710 d2db -> ceda z=d2da ok=0
+[1715] a9e8 bccd -> b8fc z=bcfc ok=0
+[1716] ad06 af1a -> ae10 z=b210 ok=0
+[1717] 52d2 9e49 -> 4ed2 z=52d2 ok=0
+[1718] 2a0e ac52 -> a12c z=a52c ok=0
+[1719] cd85 50a1 -> 477a z=4b7a ok=0
+[1720] ce27 d848 -> d50c z=d90d ok=0
+[1721] 554d c80b -> 50cb z=54cc ok=0
+[1722] 24b1 41e4 -> 3ded z=41ed ok=0
+[1723] 2ac4 4209 -> 3e24 z=4224 ok=0
+[1724] ca41 44c0 -> c3c2 z=c7c2 ok=0
+[1725] a96f 9dc4 -> a627 z=aa28 ok=0
+[1726] aef1 b424 -> b1e0 z=b5e0 ok=0
+[1727] 2800 316b -> 2e6b z=326b ok=0
+[1728] 2842 d882 -> d481 z=d882 ok=0
+[1729] ba9b 9db4 -> b6a6 z=baa6 ok=0
+[1730] a46c c9d6 -> c5d8 z=c9d8 ok=0
+[1731] 3102 b5fa -> aef2 z=b2f2 ok=0
+[1732] b775 2189 -> b348 z=b749 ok=0
+[1733] 9f51 338a -> 2f4f z=334f ok=0
+[1734] b502 2558 -> b0ac z=b4ac ok=0
+[1735] a38a 202a -> 9ac0 z=9ec0 ok=0
+[1736] bb7c c6bc -> c3ab z=c7ac ok=0
+[1737] cf65 9f51 -> cb65 z=cf65 ok=0
+[1738] ced6 9e68 -> cad6 z=ced6 ok=0
+[1739] a288 b769 -> b39d z=b79d ok=0
+[1740] 41bb a581 -> 3db0 z=41b0 ok=0
+[1741] 500b 3892 -> 4c1d z=501d ok=0
+[1742] ac33 33f5 -> 2ddb z=31dc ok=0
+[1743] 4b9f 2419 -> 47a1 z=4ba1 ok=0
+[1744] d347 c445 -> cfcf z=d3d0 ok=0
+[1745] 4e09 c4be -> 48d9 z=4cda ok=0
+[1746] 2451 4480 -> 4084 z=4484 ok=0
+[1747] 1e38 518d -> 4d8d z=518d ok=0
+[1748] a930 9e12 -> a5f2 z=a9f2 ok=0
+[1749] ade4 9f8f -> aa5c z=ae5d ok=0
+[1750] c2b2 3d17 -> bc26 z=c026 ok=0
+[1751] 34cd 399e -> 3802 z=3c02 ok=0
+[1752] 4825 591e -> 5560 z=5960 ok=0
+[1753] 32f1 3347 -> 331c z=371c ok=0
+[1754] a70b 350d -> 309c z=349c ok=0
+[1755] b091 5019 -> 4c14 z=5014 ok=0
+[1756] d2cd c332 -> cf40 z=d340 ok=0
+[1757] 575b 21ec -> 535b z=575b ok=0
+[1758] 2a1e 2125 -> 2767 z=2b67 ok=0
+[1759] 4d06 3d62 -> 495c z=4d5c ok=0
+[1760] 2e10 b579 -> afea z=b3ea ok=0
+[1761] d302 49c8 -> cd90 z=d190 ok=0
+[1762] 27ea c393 -> bf83 z=c383 ok=0
+[1763] 459e 9dac -> 419c z=459d ok=0
+[1764] a2c8 1ebf -> 9ad1 z=9ed1 ok=0
+[1765] d851 d045 -> d562 z=d962 ok=0
+[1766] 4807 27d4 -> 440a z=480b ok=0
+[1767] 505d c020 -> 4c1b z=501b ok=0
+[1768] 4000 d616 -> d1f6 z=d5f6 ok=0
+[1769] ba49 5800 -> 53f3 z=57f3 ok=0
+[1770] c31a 507b -> 4c09 z=5009 ok=0
+[1771] 3d65 d31f -> cef4 z=d2f4 ok=0
+[1772] b9d2 5436 -> 502a z=542a ok=0
+[1773] 4b6d 2245 -> 476e z=4b6f ok=0
+[1774] 2882 5122 -> 4d23 z=5123 ok=0
+[1775] 2830 b6a9 -> b223 z=b623 ok=0
+[1776] 37e0 a069 -> 33bc z=37bd ok=0
+[1777] b0f8 3da6 -> 3907 z=3d07 ok=0
+[1778] a21e a4c2 -> a3d1 z=a7d1 ok=0
+[1779] d07e a271 -> cc7e z=d07e ok=0
+[1780] 4c33 b9b6 -> 4805 z=4c05 ok=0
+[1781] be51 b0ab -> bae6 z=bee6 ok=0
+[1782] 588e 5295 -> 5633 z=5a33 ok=0
+[1783] 2201 30b3 -> 2d13 z=3113 ok=0
+[1784] 4c00 4f24 -> 4d92 z=5192 ok=0
+[1785] ada4 9df5 -> aa03 z=ae03 ok=0
+[1786] b415 d6ac -> d2b0 z=d6b0 ok=0
+[1787] 2ae9 a0fb -> 25aa z=29aa ok=0
+[1788] 4d0c 2d70 -> 4911 z=4d11 ok=0
+[1789] 2657 9f56 -> 2081 z=2482 ok=0
+[1790] 504b 576a -> 54c7 z=58c8 ok=0
+[1791] 455e 20d9 -> 4160 z=4560 ok=0
+[1792] 213b b2a8 -> ae54 z=b254 ok=0
+[1793] ce57 c57e -> cbb6 z=cfb6 ok=0
+[1794] c38d 3107 -> bf3c z=c33d ok=0
+[1795] d436 1e1e -> d036 z=d436 ok=0
+[1796] 4aa5 ac4f -> 469c z=4a9c ok=0
+[1797] 3f8d 48a9 -> 459a z=499b ok=0
+[1798] d022 3484 -> cc19 z=d019 ok=0
+[1799] 2e5f 4efd -> 4b03 z=4f03 ok=0
+[1800] be84 ca01 -> c6d1 z=cad2 ok=0
+[1801] af7d 40e4 -> 3ca8 z=40a8 ok=0
+[1802] 5811 a38f -> 5411 z=5811 ok=0
+[1803] ab70 d8b1 -> d4b1 z=d8b1 ok=0
+[1804] 1ea8 bcf6 -> b8ef z=bcef ok=0
+[1805] b13b 2d49 -> a92d z=ad2d ok=0
+[1806] 3c1b 41c8 -> 3fd5 z=43d6 ok=0
+[1807] 9f99 484b -> 444a z=484a ok=0
+[1808] 3f68 b9b5 -> 388d z=3c8e ok=0
+[1809] 521e 445e -> 4ea9 z=52aa ok=0
+[1810] 4833 a45a -> 4431 z=4831 ok=0
+[1811] c32f 521a -> 4da7 z=51a7 ok=0
+[1812] d729 c68c -> d391 z=d792 ok=0
+[1813] d756 cc45 -> d433 z=d834 ok=0
+[1814] cf47 249e -> cb46 z=cf46 ok=0
+[1815] c222 3ce4 -> bb60 z=bf60 ok=0
+[1816] bb0b c768 -> c424 z=c825 ok=0
+[1817] 1e83 3d0b -> 3911 z=3d12 ok=0
+[1818] 4209 a3ef -> 3e01 z=4201 ok=0
+[1819] d90c 214d -> d50c z=d90c ok=0
+[1820] 4ed6 42af -> 4bab z=4fac ok=0
+[1821] 321a 4d7a -> 4986 z=4d86 ok=0
+[1822] 26e0 5976 -> 5576 z=5976 ok=0
+[1823] cccc c011 -> c94e z=cd4e ok=0
+[1824] 4a50 abae -> 4648 z=4a48 ok=0
+[1825] 5803 b5f7 -> 5400 z=5800 ok=0
+[1826] d227 244b -> ce26 z=d226 ok=0
+[1827] 3f23 3689 -> 3c62 z=4063 ok=0
+[1828] 240e d04b -> cc4a z=d04a ok=0
+[1829] 3abd b51b -> 342f z=3830 ok=0
+[1830] b09c 20d9 -> ac4e z=b04e ok=0
+[1831] 3c8d a7f5 -> 386d z=3c6d ok=0
+[1832] b014 c5d6 -> c1f6 z=c5f7 ok=0
+[1833] 5160 474e -> 4e49 z=524a ok=0
+[1834] d07b a989 -> cc7c z=d07c ok=0
+[1835] b0b1 ce49 -> ca52 z=ce52 ok=0
+[1836] c1a2 2e8e -> bd6d z=c16e ok=0
+[1837] b7bf 3f24 -> 3934 z=3d34 ok=0
+[1838] d466 3055 -> d064 z=d464 ok=0
+[1839] 28f4 c772 -> c368 z=c768 ok=0
+[1840] c7d1 b464 -> c40b z=c80c ok=0
+[1841] 582a cb99 -> 5361 z=5761 ok=0
+[1842] a860 3abc -> 3676 z=3a76 ok=0
+[1843] a9c4 444c -> 4040 z=4440 ok=0
+[1844] c77f 553e -> 50c6 z=54c6 ok=0
+[1845] cc8e 3816 -> c86d z=cc6d ok=0
+[1846] 3b40 3ec6 -> 3d33 z=4133 ok=0
+[1847] c242 2910 -> be2d z=c22e ok=0
+[1848] 2a76 c77a -> c36d z=c76d ok=0
+[1849] 3a46 aa76 -> 35de z=39df ok=0
+[1850] a488 4735 -> 4330 z=4730 ok=0
+[1851] 30ff 5517 -> 5119 z=5519 ok=0
+[1852] aed4 5627 -> 5225 z=5625 ok=0
+[1853] 387f cdc4 -> c9a0 z=cda0 ok=0
+[1854] d57a be03 -> d192 z=d592 ok=0
+[1855] 28a8 502a -> 4c2b z=502b ok=0
+[1856] 35bd b928 -> b093 z=b493 ok=0
+[1857] c2a8 b473 -> bf36 z=c336 ok=0
+[1858] d67f c819 -> d302 z=d702 ok=0
+[1859] 25a4 aa1a -> a290 z=a690 ok=0
+[1860] d4d2 a21e -> d0d2 z=d4d2 ok=0
+[1861] a291 33f2 -> 2f89 z=3389 ok=0
+[1862] 3a8c 321a -> 3809 z=3c09 ok=0
+[1863] 38fd a4f4 -> 34d5 z=38d5 ok=0
+[1864] 2a41 d0fb -> ccf9 z=d0f9 ok=0
+[1865] b28c c5be -> c1f2 z=c5f2 ok=0
+[1866] 38f8 9f65 -> 34e9 z=38e9 ok=0
+[1867] 5191 3e13 -> 4dc1 z=51c2 ok=0
+[1868] d71a a702 -> d31a z=d71a ok=0
+[1869] bcdf 3c7f -> aa00 z=ae00 ok=0
+[1870] d1dc 4c33 -> cb85 z=cf85 ok=0
+[1871] c228 367a -> bd58 z=c159 ok=0
+[1872] b2aa 417a -> 3d0f z=410f ok=0
+[1873] 2951 be7c -> ba51 z=be51 ok=0
+[1874] b67c 407b -> 3b57 z=3f57 ok=0
+[1875] 3d12 ba5f -> 338a z=378a ok=0
+[1876] a07e a803 -> a522 z=a922 ok=0
+[1877] a671 2c5d -> 2581 z=2982 ok=0
+[1878] c1aa 5384 -> 4f29 z=5329 ok=0
+[1879] 2b56 c9f3 -> c5eb z=c9ec ok=0
+[1880] 502d 58bb -> 55c6 z=59c6 ok=0
+[1881] 314b 20f8 -> 2d9a z=319a ok=0
+[1882] a433 30c0 -> 2c39 z=303a ok=0
+[1883] 22bf 5765 -> 5365 z=5765 ok=0
+[1884] 55e0 b843 -> 51d7 z=55d7 ok=0
+[1885] a4d2 41ea -> 3de0 z=41e0 ok=0
+[1886] a61e 4022 -> 3c16 z=4016 ok=0
+[1887] 516b a61a -> 4d6a z=516a ok=0
+[1888] acf9 c987 -> c590 z=c991 ok=0
+[1889] c59c a130 -> c19e z=c59f ok=0
+[1890] ceba 3def -> ca5b z=ce5b ok=0
+[1891] 4218 3eea -> 40c6 z=44c6 ok=0
+[1892] d747 29c4 -> d346 z=d746 ok=0
+[1893] 4863 cac4 -> c0c2 z=c4c2 ok=0
+[1894] 2491 d3b4 -> cfb3 z=d3b3 ok=0
+[1895] bf57 d88b -> d499 z=d89a ok=0
+[1896] c8d4 1f7a -> c4d3 z=c8d3 ok=0
+[1897] cdc8 306c -> c9bf z=cdbf ok=0
+[1898] 1f70 552c -> 512c z=552c ok=0
+[1899] 48de a0c8 -> 44dd z=48dd ok=0
+[1900] cf65 2dfb -> cb5f z=cf5f ok=0
+[1901] ca83 3da9 -> c5ce z=c9ce ok=0
+[1902] bc8c 4a14 -> 4582 z=4982 ok=0
+[1903] 392b 2b94 -> 35a4 z=39a4 ok=0
+[1904] 3eb0 b003 -> 3a2f z=3e30 ok=0
+[1905] 4832 2958 -> 4437 z=4837 ok=0
+[1906] d514 b86d -> d11c z=d51d ok=0
+[1907] 42c1 3c2f -> 406c z=446c ok=0
+[1908] d310 d3ef -> d37f z=d780 ok=0
+[1909] c80e cc2d -> ca34 z=ce34 ok=0
+[1910] a1c0 c8b1 -> c4b2 z=c8b2 ok=0
+[1911] 3c09 4043 -> 3e47 z=4248 ok=0
+[1912] aef3 3163 -> 27a6 z=2ba6 ok=0
+[1913] aedb 21dc -> aa1f z=ae20 ok=0
+[1914] 3329 2d37 -> 30e2 z=34e2 ok=0
+[1915] b0a9 a958 -> adff z=b1ff ok=0
+[1916] c088 2b8f -> bc6a z=c06a ok=0
+[1917] 46bf ab7a -> 42b0 z=46b0 ok=0
+[1918] adc8 37c5 -> 3253 z=3653 ok=0
+[1919] 2576 b4a1 -> b049 z=b44a ok=0
+[1920] a137 31e0 -> 2d8c z=318d ok=0
+[1921] c065 5295 -> 4e4e z=524f ok=0
+[1922] a8e3 29d0 -> 1b68 z=1f68 ok=0
+[1923] 1e3c a7bf -> a230 z=a630 ok=0
+[1924] 5554 a23c -> 5154 z=5554 ok=0
+[1925] 3de3 d52c -> d114 z=d514 ok=0
+[1926] a365 2954 -> 22f5 z=26f6 ok=0
+[1927] d06c c03d -> ccaf z=d0b0 ok=0
+[1928] 58be b44d -> 54bc z=58bc ok=0
+[1929] b8b0 bf1c -> bcba z=c0ba ok=0
+[1930] 2066 c467 -> c065 z=c465 ok=0
+[1931] 24cc 504b -> 4c4b z=504c ok=0
+[1932] 34ad 3c50 -> 397b z=3d7b ok=0
+[1933] 52e0 314f -> 4ee5 z=52e5 ok=0
+[1934] a695 28a8 -> 1d76 z=2176 ok=0
+[1935] cf42 4213 -> ca7f z=ce80 ok=0
+[1936] 1e9a a595 -> 9fdd z=a3dd ok=0
+[1937] b923 510c -> 4cf7 z=50f7 ok=0
+[1938] 447d 1f8f -> 407e z=447f ok=0
+[1939] a14d 5088 -> 4c87 z=5088 ok=0
+[1940] c298 aae9 -> beb3 z=c2b4 ok=0
+[1941] d657 3b0d -> d249 z=d649 ok=0
+[1942] a77a c97e -> c581 z=c982 ok=0
+[1943] 4970 4ccc -> 4b84 z=4f84 ok=0
+[1944] c237 35c4 -> bd7e z=c17e ok=0
+[1945] 28d9 3bf4 -> 3820 z=3c21 ok=0
+[1946] 1e05 1fae -> 1ed9 z=22da ok=0
+[1947] 1e3c 3252 -> 2e83 z=3284 ok=0
+[1948] bd96 2d5e -> b940 z=bd40 ok=0
+[1949] 5641 b51b -> 523c z=563c ok=0
+[1950] 447b b00a -> 405a z=445b ok=0
+[1951] 48a4 a770 -> 44a0 z=48a0 ok=0
+[1952] bb81 d62b -> d23a z=d63a ok=0
+[1953] c0b0 37aa -> bb75 z=bf76 ok=0
+[1954] 2546 c430 -> c02a z=c42b ok=0
+[1955] d249 d549 -> d436 z=d837 ok=0
+[1956] 4b84 4040 -> 484a z=4c4a ok=0
+[1957] 598d 254d -> 558d z=598d ok=0
+[1958] afd1 cd06 -> c90d z=cd0e ok=0
+[1959] ab7f 4c5a -> 4856 z=4c56 ok=0
+[1960] 2534 35ef -> 3242 z=3642 ok=0
+[1961] d7c9 3e06 -> d3b1 z=d7b1 ok=0
+[1962] 4ca4 b753 -> 4886 z=4c87 ok=0
+[1963] 27f5 2b4c -> 29a3 z=2da3 ok=0
+[1964] 3eeb 4bb1 -> 4847 z=4c47 ok=0
+[1965] b686 4a59 -> 4625 z=4a25 ok=0
+[1966] a6d2 449e -> 4097 z=4497 ok=0
+[1967] 279f 390b -> 3547 z=3948 ok=0
+[1968] 57b9 b98c -> 53ae z=57ae ok=0
+[1969] 3036 afdf -> 1c68 z=2068 ok=0
+[1970] 5627 ad9a -> 5225 z=5626 ok=0
+[1971] 2238 d0b5 -> ccb4 z=d0b5 ok=0
+[1972] 3953 513e -> 4d53 z=5153 ok=0
+[1973] a572 9ea3 -> a31a z=a71b ok=0
+[1974] 9df5 c8e8 -> c4e8 z=c8e9 ok=0
+[1975] 3eff 3176 -> 3bad z=3fae ok=0
+[1976] 24a1 d4e7 -> d0e6 z=d4e7 ok=0
+[1977] 4907 ac63 -> 44fe z=48fe ok=0
+[1978] 47da 31c8 -> 4404 z=4804 ok=0
+[1979] a86c ca8a -> c68e z=ca8e ok=0
+[1980] 562b a21e -> 522b z=562b ok=0
+[1981] c8fb 485a -> b908 z=bd08 ok=0
+[1982] 2fd4 4627 -> 4246 z=4646 ok=0
+[1983] c867 b02c -> c477 z=c878 ok=0
+[1984] 4993 4891 -> 4912 z=4d12 ok=0
+[1985] 3236 d41f -> d01c z=d41c ok=0
+[1986] 3464 cde4 -> c9d2 z=cdd2 ok=0
+[1987] 3365 bcd1 -> b7c9 z=bbc9 ok=0
+[1988] 42ba a599 -> 3eaf z=42af ok=0
+[1989] 5406 d365 -> 4138 z=4538 ok=0
+[1990] a848 bb30 -> b774 z=bb74 ok=0
+[1991] 5230 3624 -> 4e3c z=523c ok=0
+[1992] 1f8a be92 -> ba8a z=be8a ok=0
+[1993] 454b aa83 -> 413e z=453e ok=0
+[1994] b693 31d4 -> af52 z=b352 ok=0
+[1995] 4d29 c9c8 -> 448a z=488a ok=0
+[1996] c8fd 3fbd -> c405 z=c805 ok=0
+[1997] 3a81 cba4 -> c73c z=cb3c ok=0
+[1998] c477 4b9f -> 4563 z=4964 ok=0
+[1999] bc13 4afd -> 467a z=4a7b ok=0
+[2000] ce5f 2657 -> ca5d z=ce5d ok=0
+[2001] 3a3d c4c3 -> bff7 z=c3f7 ok=0
+[2002] bd17 3a83 -> b356 z=b756 ok=0
+[2003] acc8 2163 -> a81b z=ac1c ok=0
+[2004] c1f6 5011 -> 4b63 z=4f63 ok=0
+[2005] b01f aaf3 -> addb z=b1dc ok=0
+[2006] c077 1e7a -> bc74 z=c074 ok=0
+[2007] 2822 4472 -> 407a z=447a ok=0
+[2008] a76a a83c -> a7f1 z=abf1 ok=0
+[2009] 36c1 2160 -> 32ec z=36ec ok=0
+[2010] 377a 55b0 -> 51b7 z=55b7 ok=0
+[2011] 2dbe 269e -> 2b65 z=2f66 ok=0
+[2012] 258d 3ced -> 3903 z=3d03 ok=0
+[2013] a042 3407 -> 2fca z=33ca ok=0
+[2014] 1f5b a082 -> 92a4 z=96a4 ok=0
+[2015] 2df5 30a4 -> 2f9e z=339e ok=0
+[2016] b961 b2c4 -> b712 z=bb12 ok=0
+[2017] c940 3b79 -> c4c8 z=c8c8 ok=0
+[2018] 3a29 484b -> 44ad z=48ae ok=0
+[2019] d42d 59a8 -> 5323 z=5723 ok=0
+[2020] 2014 3cda -> 38e2 z=3ce2 ok=0
+[2021] 28a1 5641 -> 5241 z=5642 ok=0
+[2022] b1f9 3d52 -> 3893 z=3c93 ok=0
+[2023] c07b 414c -> 3288 z=3688 ok=0
+[2024] d0e7 2601 -> cce6 z=d0e6 ok=0
+[2025] b2bf c02d -> bc98 z=c099 ok=0
+[2026] 2dbc ad51 -> 1ab0 z=1eb0 ok=0
+[2027] 2160 ae1c -> a970 z=ad70 ok=0
+[2028] cf10 3806 -> caf0 z=cef0 ok=0
+[2029] b494 c4f1 -> c13a z=c53a ok=0
+[2030] 4035 42c6 -> 417d z=457e ok=0
+[2031] 58c5 3045 -> 54c6 z=58c6 ok=0
+[2032] 1dc4 1fa4 -> 1eb4 z=22b4 ok=0
+[2033] a66d 2c7a -> 25bd z=29be ok=0
+[2034] cc8e b8e6 -> c8b5 z=ccb5 ok=0
+[2035] cdf9 d469 -> d1e7 z=d5e7 ok=0
+[2036] cc1c c24d -> c8e5 z=cce6 ok=0
+[2037] 3de0 5252 -> 4e81 z=5281 ok=0
+[2038] d888 4152 -> d472 z=d873 ok=0
+[2039] 356f b86e -> aeda z=b2da ok=0
+[2040] 41c6 b163 -> 3d70 z=4170 ok=0
+[2041] a17a d828 -> d428 z=d828 ok=0
+[2042] b644 3a62 -> 3280 z=3680 ok=0
+[2043] c90e b368 -> c52b z=c92c ok=0
+[2044] 2c3c d457 -> d056 z=d456 ok=0
+[2045] d64e 4e64 -> d0b5 z=d4b5 ok=0
+[2046] 46f8 4108 -> 44be z=48be ok=0
+[2047] 2f09 bff3 -> bb82 z=bf82 ok=0
+[2048] cc19 3bc8 -> c7b5 z=cbb6 ok=0
+[2049] a2ba a3b4 -> a337 z=a737 ok=0
+[2050] d85a 4706 -> d422 z=d822 ok=0
+[2051] 20b8 3463 -> 3088 z=3489 ok=0
+[2052] d5a8 1ec4 -> d1a8 z=d5a8 ok=0
+[2053] 2ce7 c93e -> c534 z=c934 ok=0
+[2054] cb4c a56f -> c74e z=cb4f ok=0
+[2055] 1da8 4d89 -> 4989 z=4d89 ok=0
+[2056] 2cf9 ad40 -> 9870 z=9c70 ok=0
+[2057] 4aaa c0ea -> 456f z=4970 ok=0
+[2058] bd9a c022 -> beef z=c2ef ok=0
+[2059] a4ae 2872 -> 2036 z=2436 ok=0
+[2060] 354b b83e -> ae62 z=b262 ok=0
+[2061] 3463 4ee5 -> 4af6 z=4ef7 ok=0
+[2062] 4010 d839 -> d428 z=d829 ok=0
+[2063] 45bc 9ed2 -> 41ba z=45ba ok=0
+[2064] 5054 267f -> 4c54 z=5055 ok=0
+[2065] 3bc6 c2c8 -> bcd6 z=c0d6 ok=0
+[2066] 3535 1dcc -> 314c z=354c ok=0
+[2067] 2652 4b51 -> 4754 z=4b54 ok=0
+[2068] 4df5 40be -> 4a8c z=4e8d ok=0
+[2069] c899 4609 -> be52 z=c252 ok=0
+[2070] b632 4348 -> 3e81 z=4282 ok=0
+[2071] bcd8 c19a -> c003 z=c403 ok=0
+[2072] c591 a419 -> c195 z=c595 ok=0
+[2073] 27da 2c14 -> 2a0a z=2e0a ok=0
+[2074] 9f7f 3980 -> 3571 z=3971 ok=0
+[2075] b0cc 31b8 -> 2360 z=2760 ok=0
+[2076] c167 4cbe -> 4811 z=4c11 ok=0
+[2077] baf6 c630 -> c30e z=c70f ok=0
+[2078] 4765 b082 -> 4341 z=4741 ok=0
+[2079] ceee 56cd -> 5111 z=5512 ok=0
+[2080] 3b18 447b -> 415e z=455e ok=0
+[2081] 25b8 d098 -> cc97 z=d097 ok=0
+[2082] d0c8 5430 -> 4b30 z=4f30 ok=0
+[2083] 405d a985 -> 3c47 z=4047 ok=0
+[2084] 4a10 3586 -> 463c z=4a3c ok=0
+[2085] 4833 a154 -> 4431 z=4832 ok=0
+[2086] d811 2691 -> d411 z=d811 ok=0
+[2087] 2f9f c0f7 -> bcba z=c0ba ok=0
+[2088] c83a bcc8 -> c4d3 z=c8d3 ok=0
+[2089] 33ed b82e -> b065 z=b466 ok=0
+[2090] b564 48c5 -> 449a z=489a ok=0
+[2091] abc9 2d9c -> 22de z=26de ok=0
+[2092] b252 3693 -> 2ed4 z=32d4 ok=0
+[2093] d69a 55f5 -> c528 z=c928 ok=0
+[2094] af68 4004 -> 3b91 z=3f92 ok=0
+[2095] 2c91 4698 -> 42aa z=46aa ok=0
+[2096] c0bf ca6a -> c799 z=cb9a ok=0
+[2097] 2d2c b899 -> b3e7 z=b7e7 ok=0
+[2098] ba11 37cb -> b057 z=b457 ok=0
+[2099] d008 b9de -> cc1f z=d01f ok=0
+[2100] 2bc4 d163 -> cd61 z=d161 ok=0
+[2101] b777 b3c1 -> b5ab z=b9ac ok=0
+[2102] 424f d2db -> ce76 z=d276 ok=0
+[2103] 3e6e 2057 -> 3a76 z=3e77 ok=0
+[2104] d857 ace7 -> d457 z=d858 ok=0
+[2105] c688 d3c9 -> d04d z=d44d ok=0
+[2106] 4a10 d5a0 -> d0de z=d4de ok=0
+[2107] 5803 2a23 -> 5403 z=5803 ok=0
+[2108] b693 2abf -> b1bb z=b5bb ok=0
+[2109] 331c 4b06 -> 4722 z=4b22 ok=0
+[2110] 2078 b394 -> af4c z=b34c ok=0
+[2111] a8cf 29fd -> 1cb8 z=20b8 ok=0
+[2112] ac2a 2b84 -> 9a80 z=9e80 ok=0
+[2113] 28c5 b02d -> a9f7 z=adf8 ok=0
+[2114] cb15 cffa -> cdc2 z=d1c2 ok=0
+[2115] 3dcf b915 -> 3689 z=3a89 ok=0
+[2116] c5b6 a54d -> c1bb z=c5bb ok=0
+[2117] 4f02 3436 -> 4b12 z=4f13 ok=0
+[2118] 2bc9 b117 -> aa49 z=ae4a ok=0
+[2119] 313d 223c -> 2da0 z=31a1 ok=0
+[2120] c85d cf33 -> ccb0 z=d0b1 ok=0
+[2121] b53f 498b -> 4561 z=4961 ok=0
+[2122] 1fa9 b818 -> b408 z=b809 ok=0
+[2123] b811 4811 -> 43a0 z=47a0 ok=0
+[2124] d45d b1fd -> d05f z=d460 ok=0
+[2125] b636 d5cc -> d1d2 z=d5d2 ok=0
+[2126] 3199 bc08 -> b6aa z=baaa ok=0
+[2127] 5914 a47e -> 5514 z=5914 ok=0
+[2128] 447d ba2e -> 3f6e z=436e ok=0
+[2129] 33f2 337a -> 33b6 z=37b6 ok=0
+[2130] a416 2008 -> 9c24 z=a024 ok=0
+[2131] ccfb 32b5 -> c8ed z=ccee ok=0
+[2132] 485a d86c -> d426 z=d826 ok=0
+[2133] 5506 ad42 -> 5104 z=5505 ok=0
+[2134] 2ac4 c922 -> c51b z=c91b ok=0
+[2135] a4ae 2706 -> 1cb0 z=20b0 ok=0
+[2136] c923 a81f -> c527 z=c927 ok=0
+[2137] 29dc afb6 -> a8c8 z=acc8 ok=0
+[2138] 2869 9e95 -> 232d z=272d ok=0
+[2139] 30ea bac0 -> b585 z=b986 ok=0
+[2140] cebf 5822 -> 5294 z=5694 ok=0
+[2141] be09 2e9a -> b99f z=bd9f ok=0
+[2142] a08e c5d8 -> c1da z=c5da ok=0
+[2143] b97f d07b -> cc90 z=d091 ok=0
+[2144] 46c6 d609 -> d19c z=d59d ok=0
+[2145] bdf6 9f60 -> b9fd z=bdfd ok=0
+[2146] 4040 d088 -> cc44 z=d044 ok=0
+[2147] 2b51 a295 -> 25ab z=29ac ok=0
+[2148] 50a4 3099 -> 4ca8 z=50a9 ok=0
+[2149] bf93 ca3c -> c72e z=cb2e ok=0
+[2150] 4898 b411 -> 4477 z=4877 ok=0
+[2151] d8b1 2117 -> d4b1 z=d8b1 ok=0
+[2152] 3797 4a45 -> 4681 z=4a82 ok=0
+[2153] 5291 bf38 -> 4e57 z=5257 ok=0
+[2154] 1e1a b993 -> b587 z=b987 ok=0
+[2155] a000 3683 -> 3263 z=3663 ok=0
+[2156] c11d 4395 -> 38f0 z=3cf0 ok=0
+[2157] b082 54c5 -> 50c2 z=54c3 ok=0
+[2158] 2cad b6ff -> b1d3 z=b5d4 ok=0
+[2159] ae5d 34f9 -> 2ec3 z=32c4 ok=0
+[2160] 30d7 b38f -> a970 z=ad70 ok=0
+[2161] c969 299c -> c563 z=c963 ok=0
+[2162] 401b cff5 -> cb71 z=cf72 ok=0
+[2163] 4d0c 2bbf -> 490f z=4d10 ok=0
+[2164] cfbf 3f0b -> cb4e z=cf4e ok=0
+[2165] d06c cca8 -> cec0 z=d2c0 ok=0
+[2166] 3696 1f65 -> 32b3 z=36b4 ok=0
+[2167] 370f bc26 -> b4c4 z=b8c4 ok=0
+[2168] d542 b5ca -> d147 z=d548 ok=0
+[2169] 4560 a205 -> 415d z=455d ok=0
+[2170] a288 4edb -> 4ada z=4eda ok=0
+[2171] 3e34 b5d6 -> 38be z=3cbe ok=0
+[2172] b329 3442 -> 256c z=296c ok=0
+[2173] 58f8 4612 -> 5528 z=5929 ok=0
+[2174] 9e83 3872 -> 3465 z=3865 ok=0
+[2175] 426c 343b -> 3ef3 z=42f3 ok=0
+[2176] c91e bfa8 -> c613 z=ca13 ok=0
+[2177] af21 338f -> 2bfd z=2ffd ok=0
+[2178] d84e cafd -> d4bd z=d8be ok=0
+[2179] 5142 4b56 -> 4f17 z=5318 ok=0
+[2180] d4b8 cb18 -> d19b z=d59b ok=0
+[2181] 9ee9 cd1e -> c91e z=cd1e ok=0
+[2182] c023 be49 -> bf47 z=c348 ok=0
+[2183] 2f91 cef8 -> caf0 z=cef0 ok=0
+[2184] d0b8 adc4 -> ccba z=d0bb ok=0
+[2185] c3f5 d4a4 -> d0e3 z=d4e4 ok=0
+[2186] bdfe 35c7 -> b88c z=bc8c ok=0
+[2187] a4a8 3d7a -> 3967 z=3d67 ok=0
+[2188] 3e14 27f5 -> 3a33 z=3e34 ok=0
+[2189] c3e3 a014 -> bfe7 z=c3e7 ok=0
+[2190] d724 a356 -> d324 z=d724 ok=0
+[2191] 40d7 1dc8 -> 3cd9 z=40da ok=0
+[2192] d806 cc2a -> d48b z=d88b ok=0
+[2193] d799 cb6d -> d443 z=d843 ok=0
+[2194] c4c3 b6bb -> c12e z=c52f ok=0
+[2195] 3c41 4231 -> 4028 z=4429 ok=0
+[2196] 399f a6bf -> 3569 z=3969 ok=0
+[2197] 533d d07e -> 497e z=4d7e ok=0
+[2198] 1f99 430b -> 3f0e z=430f ok=0
+[2199] a49e 32e7 -> 2e53 z=3253 ok=0
+[2200] 2416 5114 -> 4d14 z=5115 ok=0
+[2201] cb38 c877 -> c9d7 z=cdd8 ok=0
+[2202] b209 36d8 -> 2fa7 z=33a7 ok=0
+[2203] c432 33b6 -> bfe9 z=c3e9 ok=0
+[2204] 41e2 a9bc -> 3dcb z=41cb ok=0
+[2205] b4e1 285a -> b055 z=b456 ok=0
+[2206] 3d8e 38d4 -> 3bf8 z=3ff8 ok=0
+[2207] c486 3424 -> c043 z=c444 ok=0
+[2208] d61e 2158 -> d21e z=d61e ok=0
+[2209] c064 b072 -> bcab z=c0ab ok=0
+[2210] 4292 a5b0 -> 3e86 z=4287 ok=0
+[2211] a1bc 4dc8 -> 49c7 z=4dc7 ok=0
+[2212] d6e0 3a61 -> d2d3 z=d6d3 ok=0
+[2213] 3d5b 28cc -> 3981 z=3d81 ok=0
+[2214] cdbc 2794 -> c9ba z=cdba ok=0
+[2215] a0c5 cedb -> cadb z=cedc ok=0
+[2216] b708 3f38 -> 3976 z=3d76 ok=0
+[2217] 2d1c 3c20 -> 3871 z=3c72 ok=0
+[2218] adac 38a8 -> 33e5 z=37e5 ok=0
+[2219] cd2c ca5b -> cc2c z=d02d ok=0
+[2220] c33f 3ec0 -> bbbe z=bfbe ok=0
+[2221] 3847 24e3 -> 346e z=386e ok=0
+[2222] 9e4e 21d0 -> 1952 z=1d52 ok=0
+[2223] 57da adba -> 53d8 z=57d9 ok=0
+[2224] d79f d848 -> d80b z=dc0c ok=0
+[2225] aac8 229e -> a520 z=a920 ok=0
+[2226] a057 bdf0 -> b9f8 z=bdf9 ok=0
+[2227] 3d7a 54f8 -> 510d z=550e ok=0
+[2228] 56d2 a249 -> 52d2 z=56d2 ok=0
+[2229] d475 a91b -> d075 z=d476 ok=0
+[2230] 40d2 4309 -> 41ed z=45ee ok=0
+[2231] b028 9e88 -> ac5c z=b05c ok=0
+[2232] 3176 5542 -> 5144 z=5545 ok=0
+[2233] 53d4 2451 -> 4fd4 z=53d5 ok=0
+[2234] bb58 214d -> b743 z=bb43 ok=0
+[2235] a585 2937 -> 20e9 z=24e9 ok=0
+[2236] 2cb0 c24d -> be27 z=c228 ok=0
+[2237] ae49 d623 -> d224 z=d625 ok=0
+[2238] a51b ba70 -> b698 z=ba99 ok=0
+[2239] 3973 bdc6 -> b619 z=ba19 ok=0
+[2240] d4bb 386d -> d0b2 z=d4b2 ok=0
+[2241] c5ca bdd6 -> c33f z=c740 ok=0
+[2242] a201 2dd2 -> 2912 z=2d12 ok=0
+[2243] 1e01 4797 -> 4398 z=4799 ok=0
+[2244] ae41 c86f -> c47b z=c87c ok=0
+[2245] 33ac 3cf8 -> 39ed z=3dee ok=0
+[2246] cc72 5142 -> 4a12 z=4e12 ok=0
+[2247] 5803 4553 -> 542d z=582e ok=0
+[2248] 34f9 bb7a -> b4fd z=b8fe ok=0
+[2249] c6f5 5060 -> 4b03 z=4f03 ok=0
+[2250] 595c 40cf -> 556f z=596f ok=0
+[2251] ca6f a23c -> c670 z=ca71 ok=0
+[2252] c41f cdd0 -> cad7 z=ced8 ok=0
+[2253] a25f 508e -> 4c8d z=508e ok=0
+[2254] 3117 a0ab -> 2ccc z=30cc ok=0
+[2255] 5498 cc2a -> 4f1b z=531b ok=0
+[2256] a9b8 d8a4 -> d4a4 z=d8a4 ok=0
+[2257] d072 cd25 -> cf04 z=d304 ok=0
+[2258] c7b4 3589 -> c35b z=c75b ok=0
+[2259] b3f8 c8cf -> c4ee z=c8ef ok=0
+[2260] 3d6b 2f5e -> 39e0 z=3de1 ok=0
+[2261] be3e c527 -> c2b6 z=c6b6 ok=0
+[2262] 48a1 bccd -> 4407 z=4807 ok=0
+[2263] bcc0 4567 -> 4037 z=4437 ok=0
+[2264] a5a4 3688 -> 322d z=362e ok=0
+[2265] cc4b 2706 -> c849 z=cc49 ok=0
+[2266] 3609 b70a -> a804 z=ac04 ok=0
+[2267] d7b4 3a53 -> d3a7 z=d7a7 ok=0
+[2268] aebf c65b -> c275 z=c676 ok=0
+[2269] 2d72 2ecf -> 2e20 z=3220 ok=0
+[2270] 31aa 448b -> 40b8 z=44b8 ok=0
+[2271] c03e ac06 -> bc5e z=c05e ok=0
+[2272] 5394 cbda -> 4d9d z=519e ok=0
+[2273] a86c 4909 -> 4504 z=4905 ok=0
+[2274] 2e7a a4cf -> 2946 z=2d46 ok=0
+[2275] c0ad c13e -> c0f5 z=c4f6 ok=0
+[2276] b8fa 2310 -> b4dd z=b8de ok=0
+[2277] b8a0 d81c -> d420 z=d821 ok=0
+[2278] 4f06 3203 -> 4b12 z=4f12 ok=0
+[2279] d522 1efd -> d122 z=d522 ok=0
+[2280] 3a96 3c27 -> 3b72 z=3f72 ok=0
+[2281] c704 a506 -> c309 z=c709 ok=0
+[2282] cdb8 c4cf -> caeb z=ceec ok=0
+[2283] bcd8 c985 -> c620 z=ca20 ok=0
+[2284] 2f8a d13e -> cd3a z=d13a ok=0
+[2285] c433 d31a -> cfa0 z=d3a0 ok=0
+[2286] 40d8 b06a -> 3c91 z=4091 ok=0
+[2287] 5411 334c -> 5014 z=5415 ok=0
+[2288] 20e3 5857 -> 5457 z=5857 ok=0
+[2289] 5472 b806 -> 506a z=546a ok=0
+[2290] 3db9 35f2 -> 3b35 z=3f36 ok=0
+[2291] 9ea8 5534 -> 5134 z=5534 ok=0
+[2292] b25f a8f4 -> af9c z=b39c ok=0
+[2293] 4927 3a1c -> 4588 z=4989 ok=0
+[2294] bb18 3ae0 -> a300 z=a700 ok=0
+[2295] d89b ca3a -> d4fe z=d8ff ok=0
+[2296] 3728 3816 -> 37aa z=3baa ok=0
+[2297] 3148 5176 -> 4d7b z=517b ok=0
+[2298] 4f1a c5e0 -> 49a2 z=4da2 ok=0
+[2299] 3e95 5585 -> 519f z=559f ok=0
+[2300] 46aa 2d63 -> 42bf z=46c0 ok=0
+[2301] 4e01 4e71 -> 4e39 z=5239 ok=0
+[2302] 45f0 a4c2 -> 41eb z=45eb ok=0
+[2303] 3724 cdc8 -> c9ab z=cdab ok=0
+[2304] a52c d0b1 -> ccb1 z=d0b2 ok=0
+[2305] c09c 3610 -> bbb4 z=bfb4 ok=0
+[2306] d3c9 4801 -> cec8 z=d2c9 ok=0
+[2307] 36e2 5816 -> 5419 z=5819 ok=0
+[2308] d478 28d6 -> d077 z=d477 ok=0
+[2309] bc26 c2d5 -> c074 z=c474 ok=0
+[2310] 4306 a0a1 -> 3f01 z=4301 ok=0
+[2311] cffa b1fb -> cc02 z=d003 ok=0
+[2312] 3fd4 a623 -> 3bbb z=3fbb ok=0
+[2313] 234c bddd -> b9ce z=bdce ok=0
+[2314] 58a4 41d9 -> 54bb z=58bb ok=0
+[2315] ac8e 5914 -> 5513 z=5913 ok=0
+[2316] c875 5800 -> 5371 z=5771 ok=0
+[2317] 3c38 d2ac -> ce8a z=d28a ok=0
+[2318] 3a6a c009 -> b8dd z=bcdd ok=0
+[2319] ac77 52e9 -> 4ee7 z=52e7 ok=0
+[2320] c909 3313 -> c4ec z=c8ed ok=0
+[2321] 2491 29b8 -> 2800 z=2c00 ok=0
+[2322] d91e 3d3e -> d513 z=d914 ok=0
+[2323] d08b 3d88 -> cc5e z=d05f ok=0
+[2324] 3dba 5472 -> 5088 z=5489 ok=0
+[2325] 374d 9e01 -> 3335 z=3735 ok=0
+[2326] aef3 5109 -> 4d05 z=5106 ok=0
+[2327] bc11 4229 -> 3c20 z=4020 ok=0
+[2328] 5276 d609 -> cd9c z=d19c ok=0
+[2329] 2e2b ca66 -> c659 z=ca5a ok=0
+[2330] bc06 33f5 -> b60f z=ba0f ok=0
+[2331] ac0e 440f -> 3ffe z=43fe ok=0
+[2332] b1e2 b421 -> b312 z=b712 ok=0
+[2333] 291b d502 -> d101 z=d501 ok=0
+[2334] d91e 9ef3 -> d51e z=d91e ok=0
+[2335] 4035 bf12 -> 3160 z=3560 ok=0
+[2336] c9a0 bc51 -> c62a z=ca2a ok=0
+[2337] 23da 291b -> 2711 z=2b12 ok=0
+[2338] b3f5 b795 -> b5c7 z=b9c8 ok=0
+[2339] d36a 2fbf -> cf66 z=d366 ok=0
+[2340] 22cd c5e2 -> c1de z=c5df ok=0
+[2341] 27ea caf3 -> c6ef z=caef ok=0
+[2342] c35e cc33 -> c91e z=cd1f ok=0
+[2343] 432b b555 -> 3e80 z=4280 ok=0
+[2344] 5033 a92c -> 4c31 z=5032 ok=0
+[2345] d5c8 af84 -> d1c9 z=d5ca ok=0
+[2346] a634 3dbd -> 39a4 z=3da4 ok=0
+[2347] 2d3e 42a2 -> 3ecb z=42cc ok=0
+[2348] b787 4d5c -> 493e z=4d3e ok=0
+[2349] 9db8 48ea -> 44e9 z=48e9 ok=0
+[2350] a1d8 2854 -> 21bc z=25bc ok=0
+[2351] ab75 ca52 -> c659 z=ca59 ok=0
+[2352] ba92 24ae -> b66c z=ba6d ok=0
+[2353] 2cd4 d4cf -> d0ce z=d4ce ok=0
+[2354] 5249 4733 -> 4f2f z=532f ok=0
+[2355] b125 2485 -> ac94 z=b094 ok=0
+[2356] d529 5025 -> ce2d z=d22d ok=0
+[2357] d85a 4666 -> d427 z=d827 ok=0
+[2358] b8c0 4888 -> 443c z=483c ok=0
+[2359] 2b7f bb05 -> b68d z=ba8d ok=0
+[2360] 2f56 c1f0 -> bdb5 z=c1b5 ok=0
+[2361] 4c6c 3794 -> 488a z=4c8a ok=0
+[2362] ae10 4009 -> 3bb1 z=3fb1 ok=0
+[2363] 349f cd17 -> c904 z=cd05 ok=0
+[2364] ba67 29a4 -> b60c z=ba0d ok=0
+[2365] c05e d23c -> ce81 z=d282 ok=0
+[2366] 596f 3042 -> 5570 z=5970 ok=0
+[2367] 2bea 268c -> 2998 z=2d98 ok=0
+[2368] b2f8 c40d -> c044 z=c445 ok=0
+[2369] 2d70 3d28 -> 397f z=3d7f ok=0
+[2370] 338c af53 -> 2bc5 z=2fc5 ok=0
+[2371] a408 4395 -> 3f8d z=438d ok=0
+[2372] 3375 48a4 -> 44c1 z=48c2 ok=0
+[2373] d310 2e03 -> cf0d z=d30d ok=0
+[2374] 2fe2 24c2 -> 2c89 z=3089 ok=0
+[2375] b43a bc74 -> b982 z=bd82 ok=0
+[2376] d65b aeb3 -> d25c z=d65d ok=0
+[2377] c960 b134 -> c574 z=c975 ok=0
+[2378] 3cc3 3b84 -> 3c42 z=4042 ok=0
+[2379] cc75 c989 -> cb39 z=cf3a ok=0
+[2380] 2517 9e9a -> 1ee1 z=22e1 ok=0
+[2381] b988 ba61 -> b9f4 z=bdf4 ok=0
+[2382] 24d6 251b -> 24f8 z=28f8 ok=0
+[2383] ac03 50ed -> 4ceb z=50eb ok=0
+[2384] 2630 ad44 -> a770 z=ab70 ok=0
+[2385] 339c b5e5 -> ac2e z=b02e ok=0
+[2386] b4ad a0a1 -> b0d2 z=b4d2 ok=0
+[2387] d68c a6ac -> d28c z=d68c ok=0
+[2388] 2d83 9dc4 -> 2926 z=2d27 ok=0
+[2389] ba02 b377 -> b7df z=bbe0 ok=0
+[2390] 4e5b ce52 -> 2c80 z=3080 ok=0
+[2391] 4ea8 c066 -> 4a1b z=4e1b ok=0
+[2392] cabf 5048 -> 4930 z=4d30 ok=0
+[2393] 2f0e a863 -> 28dc z=2cdc ok=0
+[2394] 3b98 4652 -> 4345 z=4745 ok=0
+[2395] 28e7 4a71 -> 4675 z=4a76 ok=0
+[2396] a906 3252 -> 2d10 z=3110 ok=0
+[2397] b81b a4a4 -> b440 z=b840 ok=0
+[2398] c9fb 4a34 -> 3320 z=3720 ok=0
+[2399] bd46 3d00 -> a860 z=ac60 ok=0
+[2400] d2f8 39d7 -> cee0 z=d2e1 ok=0
+[2401] cfc9 d02a -> d007 z=d407 ok=0
+[2402] 9fda 3b6e -> 375e z=3b5e ok=0
+[2403] 4013 2f97 -> 3c4f z=4050 ok=0
+[2404] 4238 4a9e -> 4816 z=4c16 ok=0
+[2405] 5799 2dda -> 539a z=579a ok=0
+[2406] 9f33 ae41 -> aab4 z=aeb4 ok=0
+[2407] bd87 2a34 -> b955 z=bd55 ok=0
+[2408] 29f5 2425 -> 2803 z=2c04 ok=0
+[2409] a0f1 4dc0 -> 49bf z=4dbf ok=0
+[2410] 40f7 4807 -> 4544 z=4945 ok=0
+[2411] 4c42 b4c1 -> 482f z=4c2f ok=0
+[2412] cc5d 4930 -> c314 z=c714 ok=0
+[2413] 1fbf 578f -> 538f z=578f ok=0
+[2414] b614 b9a2 -> b856 z=bc56 ok=0
+[2415] a07e bb15 -> b726 z=bb27 ok=0
+[2416] 2ca6 bd69 -> b91e z=bd1f ok=0
+[2417] 2942 ada8 -> a60e z=aa0e ok=0
+[2418] 2a9e 2ca9 -> 2bf8 z=2ff8 ok=0
+[2419] 3201 bb17 -> b596 z=b997 ok=0
+[2420] 2e54 bc08 -> b745 z=bb46 ok=0
+[2421] 57a4 2f29 -> 53a5 z=57a6 ok=0
+[2422] b2e7 c0b5 -> bd23 z=c123 ok=0
+[2423] 538a 4c2d -> 50d0 z=54d0 ok=0
+[2424] 28a8 c72e -> c324 z=c725 ok=0
+[2425] cbc1 a688 -> c7c4 z=cbc4 ok=0
+[2426] 2158 c464 -> c061 z=c461 ok=0
+[2427] 396f 1ddc -> 357a z=397b ok=0
+[2428] 9e01 353e -> 3126 z=3526 ok=0
+[2429] 4e4e 3956 -> 4a78 z=4e79 ok=0
+[2430] 56c4 cd67 -> 516a z=556a ok=0
+[2431] 2014 5283 -> 4e83 z=5283 ok=0
+[2432] 55b0 48d4 -> 524a z=564a ok=0
+[2433] cc51 cc60 -> cc58 z=d058 ok=0
+[2434] b360 5591 -> 518d z=558d ok=0
+[2435] d463 3ad0 -> d055 z=d455 ok=0
+[2436] afb1 2e7a -> a0dc z=a4dc ok=0
+[2437] 363b b425 -> 2c2c z=302c ok=0
+[2438] a3b9 379f -> 3361 z=3761 ok=0
+[2439] c51e 30bb -> c0f8 z=c4f8 ok=0
+[2440] 1fae 3028 -> 2c65 z=3065 ok=0
+[2441] 3ad7 58b8 -> 54be z=58bf ok=0
+[2442] 46b8 d93b -> d505 z=d905 ok=0
+[2443] cf10 446c -> c9f5 z=cdf5 ok=0
+[2444] a6ba ce45 -> ca46 z=ce47 ok=0
+[2445] 4b06 c8fd -> 4012 z=4412 ok=0
+[2446] 48e1 c6a5 -> 3e3a z=423a ok=0
+[2447] 3f6e a67a -> 3b54 z=3f54 ok=0
+[2448] 40d2 25dc -> 3cdd z=40de ok=0
+[2449] 2351 52e5 -> 4ee5 z=52e5 ok=0
+[2450] 41af 9e8c -> 3dab z=41ac ok=0
+[2451] b4ab 467c -> 4231 z=4631 ok=0
+[2452] 51b8 4df0 -> 5058 z=5458 ok=0
+[2453] b096 48d1 -> 44be z=48bf ok=0
+[2454] c070 265b -> bc63 z=c063 ok=0
+[2455] 3775 444f -> 40c6 z=44c6 ok=0
+[2456] d241 a51b -> ce41 z=d242 ok=0
+[2457] acf4 b967 -> b605 z=ba06 ok=0
+[2458] 226d 4500 -> 4103 z=4503 ok=0
+[2459] caa3 b438 -> c6c4 z=cac5 ok=0
+[2460] 3678 3cc9 -> 3a67 z=3e67 ok=0
+[2461] 410d d688 -> d25f z=d660 ok=0
+[2462] 9f70 b075 -> acb0 z=b0b0 ok=0
+[2463] 56e0 285d -> 52e0 z=56e1 ok=0
+[2464] d257 d454 -> d37f z=d780 ok=0
+[2465] 433f 3ab9 -> 4076 z=4477 ok=0
+[2466] 9ec4 3bb4 -> 37a6 z=3ba6 ok=0
+[2467] b480 d6fd -> d301 z=d702 ok=0
+[2468] d888 adba -> d488 z=d889 ok=0
+[2469] 4695 4d72 -> 4b17 z=4f17 ok=0
+[2470] a78a 3f7a -> 3b5c z=3f5c ok=0
+[2471] 3950 c738 -> c28e z=c68e ok=0
+[2472] 5800 39e5 -> 5405 z=5806 ok=0
+[2473] 3dbd b4c8 -> 388b z=3c8b ok=0
+[2474] 9f51 a652 -> a413 z=a813 ok=0
+[2475] 42f2 58f8 -> 5513 z=5914 ok=0
+[2476] adee 494f -> 4543 z=4943 ok=0
+[2477] a3ea b904 -> b523 z=b924 ok=0
+[2478] 35d4 3b6f -> 392c z=3d2c ok=0
+[2479] bf5a 9dac -> bb5f z=bf60 ok=0
+[2480] 1ec4 9fae -> 8f50 z=9350 ok=0
+[2481] 3f64 4e1e -> 4a94 z=4e94 ok=0
+[2482] bc7e a091 -> b887 z=bc87 ok=0
+[2483] 4d51 cc36 -> 406c z=446c ok=0
+[2484] 3739 c899 -> c45f z=c85f ok=0
+[2485] bef9 c673 -> c418 z=c819 ok=0
+[2486] ca32 be5a -> c6fd z=cafd ok=0
+[2487] d3c4 328a -> cfbd z=d3bd ok=0
+[2488] 3498 5842 -> 5444 z=5844 ok=0
+[2489] c1c1 5478 -> 504a z=544a ok=0
+[2490] c78f 3a20 -> c2cb z=c6cb ok=0
+[2491] a06f a863 -> a57e z=a97f ok=0
+[2492] 4db4 ac0e -> 49b0 z=4db0 ok=0
+[2493] 347a 9e88 -> 3060 z=3460 ok=0
+[2494] c5e0 d201 -> cebd z=d2bd ok=0
+[2495] 39f5 33bc -> 37e4 z=3be4 ok=0
+[2496] c819 3ae7 -> c355 z=c755 ok=0
+[2497] 4927 3d44 -> 45cf z=49d0 ok=0
+[2498] 2930 4d46 -> 4948 z=4d49 ok=0
+[2499] c567 c29e -> c45b z=c85b ok=0
+[2500] d0d2 a1d0 -> ccd2 z=d0d2 ok=0
+[2501] ac18 b475 -> b17b z=b57b ok=0
+[2502] cb56 b914 -> c7a7 z=cba7 ok=0
+[2503] 4406 c8d6 -> c1a6 z=c5a6 ok=0
+[2504] d71a 4cc8 -> d1e8 z=d5e8 ok=0
+[2505] 2d4b 1df9 -> 29aa z=2dab ok=0
+[2506] a706 c195 -> bda3 z=c1a3 ok=0
+[2507] 3089 9fb4 -> 2c4b z=304b ok=0
+[2508] 2d2b d016 -> cc13 z=d013 ok=0
+[2509] 4b38 2c49 -> 4740 z=4b41 ok=0
+[2510] 49a6 31a4 -> 45bc z=49bd ok=0
+[2511] 45d6 2bf5 -> 41e5 z=45e6 ok=0
+[2512] aab5 d1b8 -> cdb9 z=d1ba ok=0
+[2513] d160 3007 -> cd5c z=d15c ok=0
+[2514] 5733 ca32 -> 526c z=566d ok=0
+[2515] 3d8e 4279 -> 40a0 z=44a0 ok=0
+[2516] 44bb d16f -> ccd7 z=d0d8 ok=0
+[2517] bc07 2985 -> b7b6 z=bbb6 ok=0
+[2518] aebf bcc9 -> b934 z=bd35 ok=0
+[2519] aeee d006 -> cc09 z=d009 ok=0
+[2520] 309b c251 -> be07 z=c207 ok=0
+[2521] a925 1e6d -> a457 z=a857 ok=0
+[2522] 5414 acef -> 5013 z=5413 ok=0
+[2523] d130 c6cd -> ce09 z=d20a ok=0
+[2524] b95f 4262 -> 3d0a z=410a ok=0
+[2525] b407 53b4 -> 4fac z=53ac ok=0
+[2526] 5601 5537 -> 559c z=599c ok=0
+[2527] ab24 4dac -> 49a8 z=4da8 ok=0
+[2528] 3efa a8c5 -> 3ad4 z=3ed4 ok=0
+[2529] a0fb b43a -> b061 z=b462 ok=0
+[2530] a929 d7d4 -> d3d4 z=d7d5 ok=0
+[2531] c1e6 bac3 -> bf96 z=c397 ok=0
+[2532] c567 31b2 -> c139 z=c539 ok=0
+[2533] 40a4 579f -> 53c4 z=57c4 ok=0
+[2534] 51d4 47f5 -> 4ed2 z=52d3 ok=0
+[2535] 5949 c7b4 -> 550b z=590b ok=0
+[2536] cbc7 b66f -> c7fa z=cbfa ok=0
+[2537] b991 237a -> b573 z=b973 ok=0
+[2538] 5006 58c2 -> 55c3 z=59c4 ok=0
+[2539] 24f1 22d2 -> 242d z=282d ok=0
+[2540] 46b8 c59e -> 3868 z=3c68 ok=0
+[2541] bcd7 20cf -> b8cd z=bccd ok=0
+[2542] 287e 9e91 -> 2358 z=2758 ok=0
+[2543] 5845 1e45 -> 5445 z=5845 ok=0
+[2544] b1f7 5638 -> 5235 z=5635 ok=0
+[2545] c2a4 3966 -> bd4a z=c14a ok=0
+[2546] 5268 41c8 -> 4ec4 z=52c4 ok=0
+[2547] 3c4a a627 -> 3831 z=3c31 ok=0
+[2548] 24ae 3b0b -> 3730 z=3b30 ok=0
+[2549] 4ee0 3cdd -> 4b2d z=4f2e ok=0
+[2550] b2f5 a6e9 -> afd2 z=b3d2 ok=0
+[2551] 58be 392c -> 54c3 z=58c3 ok=0
+[2552] 52c4 d2f3 -> b9e0 z=bde0 ok=0
+[2553] d0f1 405f -> ccab z=d0ab ok=0
+[2554] 332e 28e3 -> 3033 z=3433 ok=0
+[2555] cb3d d71a -> d400 z=d801 ok=0
+[2556] d8ea d36a -> d6c4 z=dac4 ok=0
+[2557] 3d42 554d -> 5162 z=5562 ok=0
+[2558] b9e7 4ca4 -> 4875 z=4c75 ok=0
+[2559] 1e95 bf92 -> bb8b z=bf8b ok=0
+[2560] c803 4c66 -> 44c9 z=48c9 ok=0
+[2561] 5130 42ec -> 4d9e z=519f ok=0
+[2562] aca3 1e01 -> a843 z=ac43 ok=0
+[2563] 30ae a4bb -> 2c16 z=3017 ok=0
+[2564] 3c07 246c -> 3818 z=3c19 ok=0
+[2565] a1fd 3f01 -> 3af5 z=3ef5 ok=0
+[2566] a32e c7a7 -> c3aa z=c7ab ok=0
+[2567] 370b d609 -> d202 z=d602 ok=0
+[2568] 2d58 540b -> 500c z=540c ok=0
+[2569] b606 c188 -> be48 z=c249 ok=0
+[2570] b8fa c032 -> bd70 z=c170 ok=0
+[2571] 586c a1c0 -> 546c z=586c ok=0
+[2572] 5657 4c33 -> 5363 z=5764 ok=0
+[2573] 2609 2d9e -> 2b20 z=2f20 ok=0
+[2574] 52ac d4d2 -> c9f0 z=cdf0 ok=0
+[2575] 2283 ab0b -> a56a z=a96a ok=0
+[2576] bc55 47b4 -> 429e z=469f ok=0
+[2577] a7c4 a48b -> a627 z=aa28 ok=0
+[2578] 33ef 3b82 -> 38be z=3cbf ok=0
+[2579] 4a45 26a8 -> 4648 z=4a48 ok=0
+[2580] b74c d069 -> cc77 z=d078 ok=0
+[2581] 4e12 c28b -> 4940 z=4d41 ok=0
+[2582] 48de 5878 -> 54c5 z=58c6 ok=0
+[2583] d641 a623 -> d241 z=d641 ok=0
+[2584] 3db4 d114 -> cce6 z=d0e6 ok=0
+[2585] cdcc 49b6 -> c5e2 z=c9e2 ok=0
+[2586] b114 b4f4 -> b37e z=b77e ok=0
+[2587] b26f 1ecd -> ae38 z=b239 ok=0
+[2588] b5b0 49d0 -> 45a2 z=49a2 ok=0
+[2589] 3655 a3da -> 3216 z=3616 ok=0
+[2590] 2425 ce34 -> ca33 z=ce33 ok=0
+[2591] 3ce1 4d95 -> 49e3 z=4de3 ok=0
+[2592] 23bf aaac -> a4bc z=a8bc ok=0
+[2593] 532e d7ef -> d058 z=d458 ok=0
+[2594] 2160 4d42 -> 4942 z=4d43 ok=0
+[2595] 38be c1ef -> bcbf z=c0c0 ok=0
+[2596] aed2 c9c2 -> c5cf z=c9d0 ok=0
+[2597] 2710 b9c1 -> b588 z=b988 ok=0
+[2598] 4cc8 236a -> 48c8 z=4cc9 ok=0
+[2599] 48ad 4428 -> 46c1 z=4ac1 ok=0
+[2600] 2676 b6b2 -> b24a z=b64b ok=0
+[2601] c3f5 d888 -> d4a7 z=d8a8 ok=0
+[2602] cd3b 2176 -> c93a z=cd3a ok=0
+[2603] 4c4b a77f -> 4849 z=4c49 ok=0
+[2604] a360 5406 -> 5006 z=5406 ok=0
+[2605] 46e2 3afd -> 43c1 z=47c2 ok=0
+[2606] 48ba a946 -> 44b4 z=48b5 ok=0
+[2607] 5163 3090 -> 4d67 z=5168 ok=0
+[2608] bc59 a241 -> b865 z=bc66 ok=0
+[2609] 3957 c406 -> beb6 z=c2b6 ok=0
+[2610] d7df d4ed -> d666 z=da66 ok=0
+[2611] cd76 c026 -> c9fa z=cdfb ok=0
+[2612] 3f5e 4460 -> 4237 z=4638 ok=0
+[2613] b180 2f6d -> a726 z=ab26 ok=0
+[2614] 5088 485d -> 4d9f z=519f ok=0
+[2615] b909 54b1 -> 50a7 z=54a7 ok=0
+[2616] a36a 2094 -> 99ac z=9dac ok=0
+[2617] b901 2ac4 -> b494 z=b895 ok=0
+[2618] 51fd 55d8 -> 546b z=586b ok=0
+[2619] b8ac cdf5 -> ca1a z=ce1a ok=0
+[2620] 1e91 a1e0 -> 992f z=9d2f ok=0
+[2621] 4260 2bf5 -> 3e7f z=4280 ok=0
+[2622] d96b b3e2 -> d56c z=d96d ok=0
+[2623] 4ec4 30e3 -> 4acd z=4ece ok=0
+[2624] 42c5 a0d2 -> 3ec0 z=42c0 ok=0
+[2625] 54a4 a82a -> 50a3 z=54a3 ok=0
+[2626] 4e83 2ea8 -> 4a89 z=4e8a ok=0
+[2627] bbe3 26f3 -> b7ab z=bbab ok=0
+[2628] c12b cf84 -> cc14 z=d015 ok=0
+[2629] c98b bcf2 -> c629 z=ca29 ok=0
+[2630] d094 2b10 -> cc92 z=d092 ok=0
+[2631] a12c d0a4 -> cca4 z=d0a4 ok=0
+[2632] cc5d 4b84 -> bcd8 z=c0d8 ok=0
+[2633] 38a3 34e7 -> 3716 z=3b16 ok=0
+[2634] 4553 d05a -> cb5f z=cf5f ok=0
+[2635] 4bd4 c42d -> 45bd z=49be ok=0
+[2636] 3e08 4339 -> 411e z=451e ok=0
+[2637] 2756 242a -> 25c0 z=29c0 ok=0
+[2638] 3640 3629 -> 3634 z=3a34 ok=0
+[2639] 2249 a1f5 -> 0d40 z=1140 ok=0
+[2640] c729 35b6 -> c2cd z=c6ce ok=0
+[2641] d6fd 213e -> d2fd z=d6fd ok=0
+[2642] cd60 a942 -> c962 z=cd63 ok=0
+[2643] b516 b915 -> b7a0 z=bba0 ok=0
+[2644] 40ce c2d4 -> b80c z=bc0c ok=0
+[2645] b02d a8a4 -> ad56 z=b156 ok=0
+[2646] 3e21 a2a8 -> 3a13 z=3e14 ok=0
+[2647] 3008 d216 -> ce12 z=d212 ok=0
+[2648] 49f5 22bf -> 45f6 z=49f7 ok=0
+[2649] 2d3e 4016 -> 3c3f z=4040 ok=0
+[2650] 57c9 4d29 -> 5489 z=588a ok=0
+[2651] c563 2808 -> c15b z=c55b ok=0
+[2652] a1c8 c494 -> c096 z=c497 ok=0
+[2653] 1e52 c980 -> c57f z=c97f ok=0
+[2654] 597e 484f -> 55c2 z=59c3 ok=0
+[2655] ab02 20d9 -> a5cb z=a9cc ok=0
+[2656] 3090 445d -> 4081 z=4482 ok=0
+[2657] 2a30 a742 -> 211e z=251e ok=0
+[2658] 555c 3015 -> 515e z=555e ok=0
+[2659] 44db d563 -> d115 z=d515 ok=0
+[2660] 3c30 a0e0 -> 3826 z=3c26 ok=0
+[2661] bf49 5160 -> 4d25 z=5126 ok=0
+[2662] 30d1 bed0 -> ba36 z=be36 ok=0
+[2663] c28e 1fd4 -> be8a z=c28a ok=0
+[2664] 36ef cb02 -> c6ca z=cacb ok=0
+[2665] a99c 5122 -> 4d20 z=5121 ok=0
+[2666] c519 3925 -> c074 z=c474 ok=0
+[2667] 3450 cd30 -> c91e z=cd1f ok=0
+[2668] 4cd9 d475 -> ce7d z=d27e ok=0
+[2669] 36a4 4011 -> 3ce5 z=40e6 ok=0
+[2670] 3c5c d4c2 -> d0b0 z=d4b1 ok=0
+[2671] 4cf4 36c0 -> 490f z=4d0f ok=0
+[2672] 38a7 ce64 -> ca3f z=ce3f ok=0
+[2673] d7fa 4ca1 -> d2d1 z=d6d2 ok=0
+[2674] 4d42 c8de -> 45a6 z=49a6 ok=0
+[2675] cf70 365f -> cb56 z=cf57 ok=0
+[2676] 5702 39c0 -> 530d z=570e ok=0
+[2677] 350a aa3c -> 3042 z=3442 ok=0
+[2678] c099 ae5f -> bccb z=c0cc ok=0
+[2679] 477d 46a8 -> 4712 z=4b12 ok=0
+[2680] c612 b135 -> c23b z=c63c ok=0
+[2681] 56ee c925 -> 5249 z=5649 ok=0
+[2682] 2f15 c34b -> bf12 z=c312 ok=0
+[2683] af51 b333 -> b16d z=b56e ok=0
+[2684] d4d2 280b -> d0d1 z=d4d1 ok=0
+[2685] cd9c 30e8 -> c992 z=cd92 ok=0
+[2686] 29dc b3e2 -> ae6b z=b26b ok=0
+[2687] 4025 c48d -> bcf5 z=c0f5 ok=0
+[2688] ca6f 2160 -> c66d z=ca6e ok=0
+[2689] b2f1 d1a0 -> cda6 z=d1a7 ok=0
+[2690] b80b 435b -> 3e58 z=4258 ok=0
+[2691] 4061 20ea -> 3c65 z=4066 ok=0
+[2692] b9af acd4 -> b649 z=ba4a ok=0
+[2693] caee a6c4 -> c6f1 z=caf1 ok=0
+[2694] 1e01 40af -> 3cb2 z=40b2 ok=0
+[2695] b80e c019 -> bd1c z=c11c ok=0
+[2696] b1e8 b3cf -> b2db z=b6dc ok=0
+[2697] 4239 4b72 -> 4880 z=4c80 ok=0
+[2698] cc66 a160 -> c866 z=cc67 ok=0
+[2699] 223c 4f84 -> 4b84 z=4f85 ok=0
+[2700] a751 d31a -> cf1a z=d31b ok=0
+[2701] 4591 a8e0 -> 4187 z=4587 ok=0
+[2702] c9f7 5616 -> 5157 z=5557 ok=0
+[2703] 4101 499a -> 46da z=4ada ok=0
+[2704] d8bb 537a -> d1b9 z=d5b9 ok=0
+[2705] 3bf5 cd2c -> c8ec z=ccec ok=0
+[2706] a5d4 a1bc -> a459 z=a859 ok=0
+[2707] 46f1 2c9b -> 4303 z=4703 ok=0
+[2708] c1c8 50cc -> 4c6f z=5070 ok=0
+[2709] 411e 20ab -> 3d22 z=4123 ok=0
+[2710] 3e72 c867 -> c331 z=c732 ok=0
+[2711] d605 4698 -> d19b z=d59c ok=0
+[2712] a56b b878 -> b4a3 z=b8a3 ok=0
+[2713] a20e c05a -> bc60 z=c060 ok=0
+[2714] 2706 2d4f -> 2b10 z=2f10 ok=0
+[2715] ac83 c122 -> bd46 z=c146 ok=0
+[2716] c142 c713 -> c4da z=c8da ok=0
+[2717] 4270 b4df -> 3dd4 z=41d4 ok=0
+[2718] 2bef 2695 -> 299c z=2d9d ok=0
+[2719] bb27 5664 -> 5255 z=5656 ok=0
+[2720] 3aa4 d914 -> d50d z=d90d ok=0
+[2721] b8ea 21d8 -> b4d2 z=b8d3 ok=0
+[2722] cddc 210c -> c9db z=cddb ok=0
+[2723] 39f6 33ac -> 37e1 z=3be1 ok=0
+[2724] 4b56 5609 -> 52f3 z=56f4 ok=0
+[2725] 27fa 3498 -> 3117 z=3518 ok=0
+[2726] bd94 ab9f -> b9d0 z=bdd1 ok=0
+[2727] cf47 586c -> 5306 z=5706 ok=0
+[2728] 287b ac03 -> a316 z=a716 ok=0
+[2729] 398e c6d2 -> c220 z=c620 ok=0
+[2730] 4237 a485 -> 3e2e z=422e ok=0
+[2731] 28d6 43e6 -> 3ff9 z=43f9 ok=0
+[2732] 4b38 2664 -> 473b z=4b3b ok=0
+[2733] 2271 2e68 -> 2b36 z=2f36 ok=0
+[2734] d67f b823 -> d287 z=d687 ok=0
+[2735] 39c0 cbdf -> c783 z=cb83 ok=0
+[2736] 31d4 bf19 -> ba5e z=be5e ok=0
+[2737] 24c2 289b -> 26fc z=2afc ok=0
+[2738] b7f1 cb15 -> c754 z=cb55 ok=0
+[2739] 4544 4430 -> 44ba z=48ba ok=0
+[2740] 238f 9ee9 -> 1c1a z=201a ok=0
+[2741] b045 a199 -> ac9e z=b09f ok=0
+[2742] 501c a35b -> 4c1b z=501c ok=0
+[2743] 4493 2cbb -> 40a5 z=44a6 ok=0
+[2744] 2a09 ae47 -> a685 z=aa85 ok=0
+[2745] a78a c654 -> c25b z=c65c ok=0
+[2746] 5430 44c5 -> 507c z=547c ok=0
+[2747] 2efd d1fd -> cdf9 z=d1fa ok=0
+[2748] 2891 4ea3 -> 4aa5 z=4ea5 ok=0
+[2749] d9a8 4d06 -> d507 z=d907 ok=0
+[2750] b067 410b -> 3cc4 z=40c5 ok=0
+[2751] 252c 244b -> 24bb z=28bc ok=0
+[2752] 3960 c70b -> c25f z=c65f ok=0
+[2753] 380a 3019 -> 3510 z=3910 ok=0
+[2754] 5549 4cc2 -> 5279 z=567a ok=0
+[2755] a5b8 b400 -> b05b z=b45c ok=0
+[2756] 234c a5bc -> 9c2c z=a02c ok=0
+[2757] a370 41fa -> 3df2 z=41f3 ok=0
+[2758] 542d 52b1 -> 5385 z=5786 ok=0
+[2759] 38ba 2866 -> 3500 z=3900 ok=0
+[2760] 26c4 2f8c -> 2c9e z=309e ok=0
+[2761] 414e ad87 -> 3d22 z=4122 ok=0
+[2762] bdea 4cb5 -> 4856 z=4c56 ok=0
+[2763] 2991 a6e0 -> 2042 z=2442 ok=0
+[2764] c1d6 b84e -> bee9 z=c2ea ok=0
+[2765] 3214 b46f -> a994 z=ad94 ok=0
+[2766] 2c36 cc1c -> c818 z=cc18 ok=0
+[2767] bc75 b843 -> ba96 z=be96 ok=0
+[2768] af56 acb5 -> ae05 z=b206 ok=0
+[2769] 2b1f a288 -> 257d z=297d ok=0
+[2770] 527a 3ae7 -> 4e95 z=5296 ok=0
+[2771] a724 2cb5 -> 25d8 z=29d8 ok=0
+[2772] ae8a c6e2 -> c2fc z=c6fc ok=0
+[2773] b4e6 2c49 -> afa7 z=b3a8 ok=0
+[2774] ae16 bde0 -> ba41 z=be41 ok=0
+[2775] 2a52 c423 -> c016 z=c416 ok=0
+[2776] cc33 d406 -> d112 z=d513 ok=0
+[2777] b169 5439 -> 5036 z=5436 ok=0
+[2778] 248e 45c4 -> 41c8 z=45c9 ok=0
+[2779] 3e1e 2a7f -> 3a51 z=3e52 ok=0
+[2780] 2537 214d -> 23dd z=27de ok=0
+[2781] b347 4ae2 -> 46c5 z=4ac5 ok=0
+[2782] 529e b377 -> 4e96 z=5297 ok=0
+[2783] b41b 24f4 -> af97 z=b398 ok=0
+[2784] 43ef 5014 -> 4c92 z=5093 ok=0
+[2785] bca8 bde2 -> bd45 z=c145 ok=0
+[2786] a5ec d6a8 -> d2a8 z=d6a8 ok=0
+[2787] 44b6 408a -> 42fb z=46fb ok=0
+[2788] d110 56cd -> 5045 z=5445 ok=0
+[2789] a375 3ea0 -> 3a91 z=3e91 ok=0
+[2790] 4afd a839 -> 46f9 z=4af9 ok=0
+[2791] 473a d7c4 -> d350 z=d750 ok=0
+[2792] 51a8 a333 -> 4da7 z=51a8 ok=0
+[2793] a42a 28b8 -> 2146 z=2546 ok=0
+[2794] 303f 596b -> 556c z=596c ok=0
+[2795] c78a 4c88 -> 454b z=494b ok=0
+[2796] 1f1a 5054 -> 4c54 z=5054 ok=0
+[2797] 49b4 b9f3 -> 4555 z=4955 ok=0
+[2798] d129 b488 -> cd32 z=d132 ok=0
+[2799] b8ed 2df3 -> b42e z=b82f ok=0
+[2800] b80a a0f4 -> b41d z=b81e ok=0
+[2801] 2e64 a0a1 -> 29d0 z=2dd0 ok=0
+[2802] 1df9 b15a -> ad2a z=b12a ok=0
+[2803] 28e7 2b42 -> 2a14 z=2e14 ok=0
+[2804] d898 45aa -> d46a z=d86b ok=0
+[2805] 51b0 a822 -> 4daf z=51af ok=0
+[2806] 2da6 5463 -> 5064 z=5464 ok=0
+[2807] d7c4 580b -> 4120 z=4520 ok=0
+[2808] 340b ba2a -> b424 z=b824 ok=0
+[2809] afcf a0cf -> ac34 z=b034 ok=0
+[2810] 26ee 282a -> 27a1 z=2ba1 ok=0
+[2811] 5411 adb0 -> 500f z=5410 ok=0
+[2812] d8f1 d23c -> d680 z=da80 ok=0
+[2813] 3151 d315 -> cf0f z=d310 ok=0
+[2814] 4826 57fa -> 543f z=583f ok=0
+[2815] b1c6 ad6f -> b03e z=b43f ok=0
+[2816] 2436 2866 -> 2681 z=2a81 ok=0
+[2817] b53e bd2d -> ba7c z=be7c ok=0
+[2818] bed6 3259 -> ba0b z=be0b ok=0
+[2819] 2514 b58c -> b13a z=b53b ok=0
+[2820] 4ed6 b8e1 -> 4aaf z=4eaf ok=0
+[2821] bbc9 2151 -> b7b3 z=bbb4 ok=0
+[2822] 2c0b b12b -> aa4b z=ae4b ok=0
+[2823] 413f 4a45 -> 4794 z=4b95 ok=0
+[2824] cd46 3a68 -> c912 z=cd13 ok=0
+[2825] 3154 cbe4 -> c7ce z=cbcf ok=0
+[2826] 480f c601 -> 3c3a z=403a ok=0
+[2827] b78f 5623 -> 521b z=561b ok=0
+[2828] d7c9 473d -> d355 z=d755 ok=0
+[2829] cc30 bf6e -> c8a6 z=cca7 ok=0
+[2830] b330 a742 -> b00c z=b40c ok=0
+[2831] 9ecd d4fb -> d0fb z=d4fb ok=0
+[2832] 4523 597a -> 55a3 z=59a3 ok=0
+[2833] a985 d066 -> cc67 z=d067 ok=0
+[2834] a506 a37a -> a461 z=a862 ok=0
+[2835] 5591 a482 -> 5190 z=5591 ok=0
+[2836] d9a8 33da -> d5a6 z=d9a6 ok=0
+[2837] 2dda 47ae -> 43c5 z=47c5 ok=0
+[2838] 3014 4f7a -> 4b82 z=4f82 ok=0
+[2839] a7df 28a4 -> 19a4 z=1da4 ok=0
+[2840] 3927 435b -> 4052 z=4452 ok=0
+[2841] 5199 2770 -> 4d99 z=519a ok=0
+[2842] c811 a488 -> c413 z=c813 ok=0
+[2843] d094 b9eb -> ccab z=d0ac ok=0
+[2844] ab9f d158 -> cd59 z=d15a ok=0
+[2845] 497e 438b -> 4760 z=4b61 ok=0
+[2846] d4d9 469a -> d06f z=d46f ok=0
+[2847] 2e98 b545 -> af3e z=b33e ok=0
+[2848] c742 2daa -> c32b z=c72b ok=0
+[2849] b5b2 5595 -> 518f z=558f ok=0
+[2850] af3a 365f -> 3090 z=3490 ok=0
+[2851] d822 bc99 -> d42b z=d82b ok=0
+[2852] 32a3 2201 -> 2f03 z=3303 ok=0
+[2853] a457 a1cc -> a33d z=a73d ok=0
+[2854] b506 4b51 -> 4729 z=4b29 ok=0
+[2855] 38a5 5591 -> 519a z=559a ok=0
+[2856] 4ae2 4425 -> 487a z=4c7a ok=0
+[2857] 56ba 5403 -> 555e z=595e ok=0
+[2858] 4ec4 cc51 -> 44e6 z=48e6 ok=0
+[2859] d585 2567 -> d184 z=d585 ok=0
+[2860] ba2c 21a8 -> b615 z=ba15 ok=0
+[2861] 48e5 5634 -> 52d0 z=56d1 ok=0
+[2862] b066 a799 -> ad59 z=b159 ok=0
+[2863] 21d4 43a9 -> 3fae z=43af ok=0
+[2864] b3e7 ac1b -> b0fa z=b4fa ok=0
+[2865] 47d4 3cb4 -> 4480 z=4880 ok=0
+[2866] 2e25 3b07 -> 37cb z=3bcc ok=0
+[2867] d15c 48dc -> cc25 z=d025 ok=0
+[2868] cd25 4f02 -> 4374 z=4774 ok=0
+[2869] a951 d995 -> d595 z=d995 ok=0
+[2870] 3183 2a30 -> 2f0f z=330f ok=0
+[2871] cf5b 3824 -> cb3a z=cf3a ok=0
+[2872] ac77 3469 -> 2e96 z=3296 ok=0
+[2873] 318d a003 -> 2d4d z=314d ok=0
+[2874] 3241 ac26 -> 2c2e z=302e ok=0
+[2875] cdb8 be7c -> ca1f z=ce20 ok=0
+[2876] a028 d24e -> ce4e z=d24e ok=0
+[2877] a216 309e -> 2c3c z=303d ok=0
+[2878] c085 c80f -> c530 z=c930 ok=0
+[2879] b57d d612 -> d217 z=d617 ok=0
+[2880] c3f8 2891 -> bfe5 z=c3e6 ok=0
+[2881] 2da6 2460 -> 2abe z=2ebe ok=0
+[2882] d46c 58ea -> 5168 z=5568 ok=0
+[2883] 4b8a a0c2 -> 4789 z=4b89 ok=0
+[2884] 21b8 ae91 -> a9da z=adda ok=0
+[2885] ccc8 d1d0 -> d01a z=d41a ok=0
+[2886] 581f 2e32 -> 541f z=5820 ok=0
+[2887] d638 2863 -> d237 z=d637 ok=0
+[2888] 49c8 ccae -> c328 z=c728 ok=0
+[2889] 251b c939 -> c536 z=c936 ok=0
+[2890] c069 2454 -> bc60 z=c060 ok=0
+[2891] aec8 bc13 -> b87f z=bc80 ok=0
+[2892] d828 537a -> d093 z=d493 ok=0
+[2893] c8cd 3744 -> c493 z=c893 ok=0
+[2894] 4254 2b1f -> 3e70 z=4270 ok=0
+[2895] c799 c78a -> c791 z=cb92 ok=0
+[2896] 3833 2b94 -> 34ac z=38ac ok=0
+[2897] b442 545a -> 5055 z=5456 ok=0
+[2898] d5cc b6e1 -> d1d2 z=d5d3 ok=0
+[2899] b193 bb0c -> b838 z=bc38 ok=0
+[2900] a05a 478c -> 438a z=478a ok=0
+[2901] 35b5 b36d -> 2bfa z=2ffa ok=0
+[2902] cd1e 5634 -> 50ec z=54ec ok=0
+[2903] 44ae ae09 -> 4096 z=4496 ok=0
+[2904] 57a4 57ef -> 57c9 z=5bca ok=0
+[2905] 2445 3500 -> 3144 z=3544 ok=0
+[2906] d485 4c9b -> cebc z=d2bc ok=0
+[2907] 3418 4e49 -> 4a59 z=4e59 ok=0
+[2908] 3a1b c30a -> bd83 z=c183 ok=0
+[2909] 379b ce64 -> ca45 z=ce46 ok=0
+[2910] a4be c123 -> bd2c z=c12c ok=0
+[2911] aca6 41cc -> 3da7 z=41a7 ok=0
+[2912] ca36 a61a -> c639 z=ca39 ok=0
+[2913] 9f2e d33d -> cf3d z=d33d ok=0
+[2914] 25b0 a706 -> 9958 z=9d58 ok=0
+[2915] 1f5b 3c3b -> 3842 z=3c42 ok=0
+[2916] 5122 30d7 -> 4d26 z=5127 ok=0
+[2917] c2c6 af1a -> befe z=c2ff ok=0
+[2918] a822 a822 -> a822 z=ac22 ok=0
+[2919] cc16 3e93 -> c75a z=cb5a ok=0
+[2920] d800 d07e -> d51f z=d920 ok=0
+[2921] d5bc 3bbf -> d1ac z=d5ad ok=0
+[2922] 5502 b375 -> 50fe z=54fe ok=0
+[2923] 9e23 d54d -> d14d z=d54d ok=0
+[2924] c10c 25b0 -> bd00 z=c101 ok=0
+[2925] 2d19 ba85 -> b5e2 z=b9e2 ok=0
+[2926] 3fd5 cb94 -> c699 z=ca99 ok=0
+[2927] b0d2 53d4 -> 4fcf z=53cf ok=0
+[2928] a6fd d554 -> d154 z=d554 ok=0
+[2929] 387e 2488 -> 34a2 z=38a2 ok=0
+[2930] bb9a 3e19 -> 3498 z=3898 ok=0
+[2931] d917 aa5f -> d517 z=d917 ok=0
+[2932] 2066 a878 -> a2bd z=a6bd ok=0
+[2933] 300d 5195 -> 4d99 z=5199 ok=0
+[2934] 50d9 3419 -> 4ce1 z=50e1 ok=0
+[2935] 4542 a442 -> 413d z=453e ok=0
+[2936] 4f75 aad6 -> 4b71 z=4f72 ok=0
+[2937] 454b 34a4 -> 4195 z=4595 ok=0
+[2938] cb6d c4bd -> c8e5 z=cce6 ok=0
+[2939] bb6f c347 -> c091 z=c491 ok=0
+[2940] 29f5 d529 -> d128 z=d528 ok=0
+[2941] 4e49 b0b1 -> 4a3f z=4e40 ok=0
+[2942] c00d b57d -> bcbc z=c0bd ok=0
+[2943] 2605 2eb5 -> 2c1b z=301b ok=0
+[2944] cdf5 24c2 -> c9f4 z=cdf4 ok=0
+[2945] 575b d78a -> bde0 z=c1e0 ok=0
+[2946] 3278 23a9 -> 2ef2 z=32f3 ok=0
+[2947] 2f7a 3a07 -> 36f6 z=3af6 ok=0
+[2948] a29e c024 -> bc2a z=c02b ok=0
+[2949] 4589 c803 -> bcfa z=c0fa ok=0
+[2950] d760 adfd -> d361 z=d761 ok=0
+[2951] a5d0 3cba -> 38a2 z=3ca3 ok=0
+[2952] 3adb 34f9 -> 38ab z=3cac ok=0
+[2953] a3da a3bf -> a3cc z=a7cc ok=0
+[2954] 2008 a4f4 -> 9de0 z=a1e0 ok=0
+[2955] 4589 b5e1 -> 412b z=452b ok=0
+[2956] d1b8 1ddc -> cdb8 z=d1b8 ok=0
+[2957] 31e8 1f56 -> 2e22 z=3223 ok=0
+[2958] 5238 20ea -> 4e38 z=5238 ok=0
+[2959] a4c5 cbe4 -> c7e6 z=cbe6 ok=0
+[2960] ac33 d329 -> cf2b z=d32b ok=0
+[2961] d411 542d -> 3b00 z=3f00 ok=0
+[2962] bc5f 1e27 -> b859 z=bc59 ok=0
+[2963] 4229 c4f8 -> bb8e z=bf8e ok=0
+[2964] 2033 2ef1 -> 2b77 z=2f77 ok=0
+[2965] a560 21d8 -> 9ce8 z=a0e8 ok=0
+[2966] a110 2428 -> 1a80 z=1e80 ok=0
+[2967] d436 a1a8 -> d036 z=d436 ok=0
+[2968] 25c0 3ebf -> 3ad6 z=3ed6 ok=0
+[2969] d0bb 304c -> ccb6 z=d0b7 ok=0
+[2970] b2cd a7f5 -> afcb z=b3cc ok=0
+[2971] 4db0 266d -> 49b1 z=4db2 ok=0
+[2972] 33dc d042 -> cc3a z=d03a ok=0
+[2973] 2db8 1f24 -> 2a2a z=2e2a ok=0
+[2974] 237f bb9e -> b780 z=bb80 ok=0
+[2975] ae8c 2205 -> a9cb z=adcb ok=0
+[2976] 39f3 a676 -> 35bf z=39bf ok=0
+[2977] cecd 3994 -> caa0 z=cea0 ok=0
+[2978] b8e2 2a12 -> b481 z=b881 ok=0
+[2979] d833 4425 -> d412 z=d812 ok=0
+[2980] be2b b48c -> bb4e z=bf4e ok=0
+[2981] 9f56 4ccf -> 48ce z=4ccf ok=0
+[2982] b6a3 4529 -> 40bf z=44bf ok=0
+[2983] c71f d882 -> d4ba z=d8bb ok=0
+[2984] ac0b 333d -> 2d37 z=3138 ok=0
+[2985] 47e2 3892 -> 443a z=483a ok=0
+[2986] 3c28 c5c0 -> c0b6 z=c4b6 ok=0
+[2987] 9f60 b71e -> b33b z=b73c ok=0
+[2988] cc57 ac3f -> c85b z=cc5b ok=0
+[2989] bf7e 1e0e -> bb78 z=bf78 ok=0
+[2990] a2ac ae36 -> ab0b z=af0c ok=0
+[2991] ba2f 5185 -> 4d6c z=516c ok=0
+[2992] 2f04 4113 -> 3d4b z=414b ok=0
+[2993] d27a 1df0 -> ce7a z=d27a ok=0
+[2994] 2ed6 ccfb -> c8f4 z=ccf4 ok=0
+[2995] 562b 9ea8 -> 522b z=562b ok=0
+[2996] 3e77 56f3 -> 530c z=570d ok=0
+[2997] b11c bc9e -> b941 z=bd42 ok=0
+[2998] ce83 545d -> 4d78 z=5178 ok=0
+[2999] c7c9 d2e9 -> cfe2 z=d3e2 ok=0
+[3000] 368a 52db -> 4ee8 z=52e8 ok=0
+[3001] 43b2 3466 -> 401f z=441f ok=0
+[3002] 4c88 28e0 -> 488a z=4c8a ok=0
+[3003] d0d6 b2cf -> ccdc z=d0dd ok=0
+[3004] 4eb5 25b8 -> 4ab6 z=4eb6 ok=0
+[3005] a7f5 500b -> 4c0a z=500a ok=0
+[3006] cf99 c015 -> cc0d z=d00e ok=0
+[3007] 2134 2cb0 -> 2956 z=2d56 ok=0
+[3008] 29ac cef8 -> caf5 z=cef5 ok=0
+[3009] c32e 3953 -> bdd9 z=c1d9 ok=0
+[3010] a4ab 1e57 -> 9e2a z=a22a ok=0
+[3011] 41db 26f8 -> 3de8 z=41e9 ok=0
+[3012] 3058 b718 -> b0ec z=b4ec ok=0
+[3013] 37ae a257 -> 337b z=377b ok=0
+[3014] b0b0 4471 -> 404b z=444c ok=0
+[3015] a1dc 2981 -> 240a z=280a ok=0
+[3016] 3c08 c153 -> ba9e z=be9e ok=0
+[3017] d7bf 1e41 -> d3bf z=d7bf ok=0
+[3018] 4265 265f -> 3e71 z=4272 ok=0
+[3019] b000 313d -> 24f4 z=28f4 ok=0
+[3020] 5729 a30b -> 5329 z=5729 ok=0
+[3021] 350e 58c5 -> 54c7 z=58c8 ok=0
+[3022] 47cc 2be4 -> 43db z=47dc ok=0
+[3023] 4408 53e4 -> 5032 z=5432 ok=0
+[3024] d6ee c6f3 -> d35d z=d75d ok=0
+[3025] 54a8 575b -> 5601 z=5a02 ok=0
+[3026] a695 5475 -> 5074 z=5475 ok=0
+[3027] a2e5 d268 -> ce68 z=d268 ok=0
+[3028] ce41 407d -> c9b1 z=cdb1 ok=0
+[3029] 5436 d7d4 -> cf3c z=d33c ok=0
+[3030] bb70 a8a4 -> b7ba z=bbba ok=0
+[3031] 4744 b8f8 -> 42a5 z=46a5 ok=0
+[3032] 21d8 4ca4 -> 48a4 z=4ca5 ok=0
+[3033] aaf3 babd -> b72c z=bb2c ok=0
+[3034] a6b1 d954 -> d554 z=d954 ok=0
+[3035] 41b9 c9a6 -> c437 z=c838 ok=0
+[3036] a981 2a09 -> 1840 z=1c40 ok=0
+[3037] a146 4e5b -> 4a5a z=4e5a ok=0
+[3038] b018 d306 -> cf0a z=d30a ok=0
+[3039] c650 3e07 -> c0ce z=c4ce ok=0
+[3040] 407e d91e -> d50c z=d90c ok=0
+[3041] b181 bdcf -> ba7f z=be7f ok=0
+[3042] d003 4c48 -> c77c z=cb7c ok=0
+[3043] ae41 b122 -> b021 z=b421 ok=0
+[3044] 2d4f 2c3c -> 2cc5 z=30c6 ok=0
+[3045] bf75 4cc5 -> 484d z=4c4e ok=0
+[3046] 3a61 a942 -> 360d z=3a0d ok=0
+[3047] 3890 aec6 -> 336e z=376e ok=0
+[3048] 2724 3410 -> 3082 z=3482 ok=0
+[3049] bc33 c34c -> c0b2 z=c4b3 ok=0
+[3050] 2d39 3236 -> 3069 z=3469 ok=0
+[3051] 3536 30f9 -> 33b2 z=37b2 ok=0
+[3052] 49aa b86d -> 4563 z=4963 ok=0
+[3053] d5dc 38bf -> d1d2 z=d5d3 ok=0
+[3054] cc51 9f0b -> c851 z=cc51 ok=0
+[3055] 3600 b0c0 -> 2f40 z=3340 ok=0
+[3056] c143 b9d6 -> beb8 z=c2b8 ok=0
+[3057] ca7c 2c18 -> c674 z=ca74 ok=0
+[3058] b690 ba4c -> b8ca z=bcca ok=0
+[3059] b37d 401c -> 3b48 z=3f48 ok=0
+[3060] 25c4 5045 -> 4c45 z=5046 ok=0
+[3061] c9d4 4c5a -> 41c0 z=45c0 ok=0
+[3062] 5039 ad19 -> 4c36 z=5036 ok=0
+[3063] b0c0 a563 -> ad6c z=b16c ok=0
+[3064] 4cc2 1dbc -> 48c2 z=4cc2 ok=0
+[3065] 424b 3594 -> 3efd z=42fe ok=0
+[3066] 4ccc 5109 -> 4f6f z=536f ok=0
+[3067] 365d a794 -> 31e3 z=35e4 ok=0
+[3068] ca8e 2ef8 -> c680 z=ca80 ok=0
+[3069] b62e 3e45 -> 38b9 z=3cba ok=0
+[3070] 231f 414e -> 3d55 z=4155 ok=0
+[3071] bec4 be89 -> bea6 z=c2a6 ok=0
+[3072] b8fa 1dcc -> b4ee z=b8ee ok=0
+[3073] 2ce7 cc2d -> c828 z=cc28 ok=0
+[3074] 5360 d406 -> c160 z=c560 ok=0
+[3075] b4bc ace7 -> b1f5 z=b5f6 ok=0
+[3076] 203f a5a8 -> 9f11 z=a311 ok=0
+[3077] b4b3 cc14 -> c826 z=cc27 ok=0
+[3078] 374c c976 -> c53b z=c93c ok=0
+[3079] 515c cd42 -> 4976 z=4d76 ok=0
+[3080] 4d99 54e0 -> 5246 z=5646 ok=0
+[3081] a9a8 207b -> a489 z=a889 ok=0
+[3082] d03f bde1 -> cc6e z=d06e ok=0
+[3083] 2ca9 cd0c -> c907 z=cd07 ok=0
+[3084] 3230 bc0d -> b68e z=ba8e ok=0
+[3085] a249 bee1 -> baed z=beee ok=0
+[3086] a109 c000 -> bc05 z=c005 ok=0
+[3087] 468e 1e4e -> 428f z=4690 ok=0
+[3088] d51b d42d -> d4a4 z=d8a4 ok=0
+[3089] bb71 aa52 -> b7d6 z=bbd6 ok=0
+[3090] d078 9f60 -> cc78 z=d078 ok=0
+[3091] cd4d 4401 -> c84c z=cc4d ok=0
+[3092] c58b 3f7b -> bf58 z=c358 ok=0
+[3093] 5885 a554 -> 5485 z=5885 ok=0
+[3094] 4dcc 598d -> 5646 z=5a46 ok=0
+[3095] ae29 b52d -> b2b7 z=b6b7 ok=0
+[3096] cd0c ad9e -> c911 z=cd12 ok=0
+[3097] c768 a40e -> c36c z=c76c ok=0
+[3098] 35a1 3dba -> 3b22 z=3f22 ok=0
+[3099] a249 a7cf -> a579 z=a97a ok=0
+[3100] 2a91 a671 -> 22b1 z=26b1 ok=0
+[3101] 4d7e c954 -> 45a8 z=49a8 ok=0
+[3102] 2cb0 a1ac -> 27f5 z=2bf5 ok=0
+[3103] d989 c896 -> d5d2 z=d9d2 ok=0
+[3104] c784 a1d4 -> c386 z=c787 ok=0
+[3105] 3a50 b554 -> 334c z=374c ok=0
+[3106] 4029 a530 -> 3c1e z=401f ok=0
+[3107] c255 d8d2 -> d4eb z=d8eb ok=0
+[3108] d819 ac20 -> d419 z=d81a ok=0
+[3109] 2799 33d1 -> 3062 z=3462 ok=0
+[3110] ae01 aa5f -> ac98 z=b098 ok=0
+[3111] 486c be50 -> 4344 z=4744 ok=0
+[3112] 2c46 d50c -> d10b z=d50b ok=0
+[3113] 51f0 3aae -> 4e0a z=520b ok=0
+[3114] b27f ca34 -> c64d z=ca4e ok=0
+[3115] 28a4 b313 -> adea z=b1ea ok=0
+[3116] a0a4 aea8 -> ab3c z=af3c ok=0
+[3117] 4167 23e4 -> 3d6e z=416f ok=0
+[3118] cf5b d825 -> d510 z=d910 ok=0
+[3119] 2e18 3486 -> 320c z=360c ok=0
+[3120] d4cc 5212 -> cb0c z=cf0c ok=0
+[3121] 4b4c c2f1 -> 458f z=4990 ok=0
+[3122] 2158 c662 -> c25f z=c65f ok=0
+[3123] 4042 b922 -> 39f3 z=3df3 ok=0
+[3124] c008 314f -> bb66 z=bf66 ok=0
+[3125] a9cc 3a16 -> 35b9 z=39b9 ok=0
+[3126] b1bc cbfa -> c808 z=cc08 ok=0
+[3127] 392f d488 -> d07d z=d47e ok=0
+[3128] 20ab 3b9e -> 37b0 z=3bb1 ok=0
+[3129] a6b5 3d84 -> 3969 z=3d69 ok=0
+[3130] a7c9 499a -> 4596 z=4996 ok=0
+[3131] b48f d765 -> d369 z=d76a ok=0
+[3132] 4a8a c529 -> 43eb z=47eb ok=0
+[3133] cfd4 d0c2 -> d056 z=d456 ok=0
+[3134] a7ae b5e7 -> b261 z=b662 ok=0
+[3135] 4add a891 -> 46d8 z=4ad8 ok=0
+[3136] 45e6 4833 -> 4726 z=4b26 ok=0
+[3137] 5342 2c85 -> 4f44 z=5344 ok=0
+[3138] d816 52e5 -> d0b9 z=d4ba ok=0
+[3139] 2529 2268 -> 242e z=282e ok=0
+[3140] 2288 ba3b -> b621 z=ba21 ok=0
+[3141] 4da4 b821 -> 4983 z=4d83 ok=0
+[3142] a79f 5167 -> 4d66 z=5166 ok=0
+[3143] a958 d816 -> d416 z=d816 ok=0
+[3144] 52a3 56fd -> 5527 z=5927 ok=0
+[3145] 5601 a102 -> 5201 z=5601 ok=0
+[3146] 30d9 d922 -> d521 z=d921 ok=0
+[3147] d063 c5bc -> cd1a z=d11a ok=0
+[3148] d137 2ce0 -> cd34 z=d135 ok=0
+[3149] c1fc 3474 -> bd6d z=c16e ok=0
+[3150] 3ff4 d31a -> ceda z=d2da ok=0
+[3151] c067 d4bb -> d0de z=d4de ok=0
+[3152] b00e a506 -> acae z=b0af ok=0
+[3153] c2e2 2645 -> bed5 z=c2d5 ok=0
+[3154] 2c74 207b -> 2903 z=2d03 ok=0
+[3155] a87b 354f -> 30bf z=34c0 ok=0
+[3156] 3679 3264 -> 34d5 z=38d6 ok=0
+[3157] 4840 c607 -> 3cf2 z=40f2 ok=0
+[3158] c311 a799 -> bf20 z=c320 ok=0
+[3159] 57da cd7a -> 527b z=567c ok=0
+[3160] c496 409a -> bc92 z=c092 ok=0
+[3161] a627 a47e -> a552 z=a952 ok=0
+[3162] 278f d3bf -> cfbe z=d3be ok=0
+[3163] 2370 d0bb -> ccba z=d0bb ok=0
+[3164] 2929 cb06 -> c701 z=cb01 ok=0
+[3165] 418a 3a7b -> 3f28 z=4329 ok=0
+[3166] d036 424d -> cba2 z=cfa2 ok=0
+[3167] 537f a985 -> 4f7d z=537e ok=0
+[3168] 35a8 4b72 -> 479f z=4b9f ok=0
+[3169] 3f5b 4784 -> 44ad z=48ad ok=0
+[3170] ce38 cd99 -> cde8 z=d1e8 ok=0
+[3171] 3088 55f0 -> 51f2 z=55f2 ok=0
+[3172] 4168 531f -> 4f75 z=5376 ok=0
+[3173] 2851 53a4 -> 4fa5 z=53a5 ok=0
+[3174] 3a45 37bb -> 3911 z=3d11 ok=0
+[3175] 2848 4d06 -> 4908 z=4d08 ok=0
+[3176] b96a 581f -> 5419 z=581a ok=0
+[3177] 3579 2da0 -> 32e1 z=36e1 ok=0
+[3178] 37ff cbdf -> c79f z=cb9f ok=0
+[3179] 2c74 ac6f -> 0900 z=0d00 ok=0
+[3180] 25d0 2edd -> 2c28 z=3028 ok=0
+[3181] 2e36 b78b -> b1fd z=b5fe ok=0
+[3182] ac43 3862 -> 33b3 z=37b3 ok=0
+[3183] c9b6 c808 -> c8df z=ccdf ok=0
+[3184] 48c5 2433 -> 44c7 z=48c7 ok=0
+[3185] 40d1 d05d -> cc10 z=d010 ok=0
+[3186] a351 25d4 -> 1c57 z=2057 ok=0
+[3187] 3ff8 1f60 -> 3bff z=3fff ok=0
+[3188] 2276 35d9 -> 320c z=360d ok=0
+[3189] 1ed2 cc60 -> c85f z=cc60 ok=0
+[3190] b2e9 329e -> 9cb0 z=a0b0 ok=0
+[3191] ac4f d0c5 -> ccc7 z=d0c7 ok=0
+[3192] 415a 4576 -> 4411 z=4812 ok=0
+[3193] 5563 c863 -> 50d6 z=54d7 ok=0
+[3194] c8ea bcc5 -> c582 z=c983 ok=0
+[3195] cc08 4111 -> c6cc z=cacc ok=0
+[3196] 56cd a7c4 -> 52cc z=56cd ok=0
+[3197] c407 d306 -> cf86 z=d387 ok=0
+[3198] c07d 3765 -> bb21 z=bf21 ok=0
+[3199] 41c5 b83d -> 3cb5 z=40b6 ok=0
+[3200] 5199 c666 -> 4ccc z=50cc ok=0
+[3201] 3500 531a -> 4f24 z=5324 ok=0
+[3202] cd63 4a52 -> c474 z=c874 ok=0
+[3203] c4de 3859 -> c053 z=c453 ok=0
+[3204] 3032 b969 -> b45c z=b85c ok=0
+[3205] 9e83 2e64 -> 29fc z=2dfc ok=0
+[3206] 2a45 a130 -> 24f9 z=28f9 ok=0
+[3207] 4800 d609 -> d189 z=d589 ok=0
+[3208] c094 23f5 -> bc8c z=c08c ok=0
+[3209] ae23 2de4 -> 97e0 z=9be0 ok=0
+[3210] b80a d68c -> d294 z=d694 ok=0
+[3211] 4558 407d -> 4396 z=4796 ok=0
+[3212] a54d 50ea -> 4ce9 z=50e9 ok=0
+[3213] 37e9 4799 -> 440b z=480c ok=0
+[3214] 36b9 a094 -> 3294 z=3694 ok=0
+[3215] 3e3b a6ba -> 3a20 z=3e20 ok=0
+[3216] 3d06 a4cc -> 38f3 z=3cf3 ok=0
+[3217] 340b ba96 -> b490 z=b890 ok=0
+[3218] 4bae ceb5 -> c5bc z=c9bc ok=0
+[3219] a1b0 48d4 -> 44d2 z=48d3 ok=0
+[3220] 2019 aa16 -> a50f z=a910 ok=0
+[3221] b6fd 36bc -> a010 z=a410 ok=0
+[3222] 53b9 c7da -> 4ebd z=52be ok=0
+[3223] ae57 d38a -> cf8d z=d38d ok=0
+[3224] a83f d4bb -> d0bb z=d4bc ok=0
+[3225] 555c bc33 -> 514b z=554b ok=0
+[3226] 2811 36b2 -> 3334 z=3734 ok=0
+[3227] b45b 44d7 -> 4091 z=4491 ok=0
+[3228] c969 456d -> c165 z=c565 ok=0
+[3229] 2d53 584b -> 544b z=584c ok=0
+[3230] abb4 3bd7 -> 375b z=3b5c ok=0
+[3231] 3585 bdea -> b888 z=bc89 ok=0
+[3232] ccf4 b93c -> c91d z=cd1e ok=0
+[3233] d47b 48c7 -> cfc4 z=d3c4 ok=0
+[3234] 1fd4 b1c4 -> ad85 z=b185 ok=0
+[3235] a7df a019 -> a4f5 z=a8f6 ok=0
+[3236] 575b 3f2c -> 5377 z=5778 ok=0
+[3237] c13f ae95 -> bd73 z=c174 ok=0
+[3238] bed4 ca98 -> c772 z=cb72 ok=0
+[3239] 4e83 2839 -> 4a85 z=4e85 ok=0
+[3240] a048 5088 -> 4c87 z=5088 ok=0
+[3241] 9e88 cb8a -> c78a z=cb8b ok=0
+[3242] d808 346f -> d406 z=d806 ok=0
+[3243] cf9f 283f -> cb9d z=cf9d ok=0
+[3244] ca8c d106 -> cea9 z=d2a9 ok=0
+[3245] a724 322b -> 2d46 z=3146 ok=0
+[3246] ba46 a42d -> b667 z=ba67 ok=0
+[3247] d5e4 3c5a -> d1d2 z=d5d3 ok=0
+[3248] 55ac a04e -> 51ac z=55ac ok=0
+[3249] 9e3c 278a -> 21fb z=25fb ok=0
+[3250] 4ae7 2599 -> 46e9 z=4aea ok=0
+[3251] 1e09 bbea -> b7de z=bbde ok=0
+[3252] d8cf b15e -> d4d0 z=d8d0 ok=0
+[3253] b6c0 c92c -> c562 z=c962 ok=0
+[3254] d84e 245a -> d44e z=d84e ok=0
+[3255] 340c b03f -> 2bb2 z=2fb2 ok=0
+[3256] 2f75 2fe4 -> 2fac z=33ac ok=0
+[3257] 30bd 4a8a -> 469c z=4a9d ok=0
+[3258] c981 527f -> 4d1e z=511f ok=0
+[3259] a9a4 3b6b -> 3710 z=3b11 ok=0
+[3260] d181 bf99 -> cdbd z=d1be ok=0
+[3261] 4121 4d7a -> 4a1e z=4e1e ok=0
+[3262] d825 d1ec -> d5a0 z=d9a0 ok=0
+[3263] d8f1 cbc1 -> d56d z=d96d ok=0
+[3264] a8dc 2d39 -> 2596 z=2996 ok=0
+[3265] d724 a209 -> d324 z=d724 ok=0
+[3266] 2098 2a57 -> 277d z=2b7d ok=0
+[3267] 1f8f 42ef -> 3ef2 z=42f3 ok=0
+[3268] 564e 3ea6 -> 5268 z=5669 ok=0
+[3269] d7a9 bc57 -> d3ba z=d7ba ok=0
+[3270] 2688 a20e -> 1f02 z=2302 ok=0
+[3271] b865 3655 -> acea z=b0ea ok=0
+[3272] 3b86 9f6a -> 3777 z=3b77 ok=0
+[3273] 514d c4ed -> 4caf z=50af ok=0
+[3274] 4390 ac8e -> 3f6b z=436c ok=0
+[3275] cc5a c84e -> ca81 z=ce81 ok=0
+[3276] bada bd98 -> bc82 z=c082 ok=0
+[3277] c4ae a0f8 -> c0b0 z=c4b0 ok=0
+[3278] c9c8 2601 -> c5c5 z=c9c5 ok=0
+[3279] c9ee 5488 -> 4f94 z=5394 ok=0
+[3280] 9dc4 d238 -> ce38 z=d238 ok=0
+[3281] 23fa 4ea8 -> 4aa8 z=4ea9 ok=0
+[3282] 33c1 4031 -> 3cad z=40ad ok=0
+[3283] a158 337d -> 2f27 z=3328 ok=0
+[3284] 34be 5760 -> 5364 z=5765 ok=0
+[3285] b514 5469 -> 5064 z=5464 ok=0
+[3286] 54ed 1ec4 -> 50ed z=54ed ok=0
+[3287] c004 24fb -> bbf4 z=bff4 ok=0
+[3288] 4845 3e42 -> 450d z=490d ok=0
+[3289] 5302 c73f -> 4e1a z=521a ok=0
+[3290] b862 398d -> 2cac z=30ac ok=0
+[3291] 1dc8 a8b1 -> a3f0 z=a7f0 ok=0
+[3292] 2edd 36fd -> 345a z=385a ok=0
+[3293] ce91 29f9 -> ca8e z=ce8e ok=0
+[3294] 5414 4de8 -> 518e z=558e ok=0
+[3295] b2d6 3e35 -> 395a z=3d5a ok=0
+[3296] af84 3634 -> 3053 z=3453 ok=0
+[3297] d529 262b -> d128 z=d529 ok=0
+[3298] 32cd 3ca6 -> 397f z=3d80 ok=0
+[3299] c4de bffa -> c2dc z=c6dc ok=0
+[3300] ae83 c4ea -> c104 z=c504 ok=0
+[3301] a3d4 c83d -> c43e z=c83f ok=0
+[3302] 3c0d a05d -> 3804 z=3c04 ok=0
+[3303] 551b b47e -> 5116 z=5517 ok=0
+[3304] 42dd b43b -> 3e55 z=4256 ok=0
+[3305] 2a34 a828 -> 2018 z=2418 ok=0
+[3306] c6aa b10b -> c2d2 z=c6d2 ok=0
+[3307] cc11 a07b -> c811 z=cc12 ok=0
+[3308] b0f8 3966 -> 3428 z=3828 ok=0
+[3309] bf67 bc9e -> be02 z=c202 ok=0
+[3310] 46a3 3b26 -> 4387 z=4788 ok=0
+[3311] 277f a634 -> 192c z=1d2c ok=0
+[3312] 57c9 a442 -> 53c8 z=57c9 ok=0
+[3313] 38d2 4b68 -> 47b5 z=4bb5 ok=0
+[3314] d894 caa8 -> d4fe z=d8fe ok=0
+[3315] 2914 2fc1 -> 2d25 z=3126 ok=0
+[3316] 3ac2 c681 -> c1a8 z=c5a9 ok=0
+[3317] a7ef 5627 -> 5226 z=5627 ok=0
+[3318] 9e49 d03f -> cc3f z=d03f ok=0
+[3319] ac30 2fa1 -> 26e2 z=2ae2 ok=0
+[3320] 35d9 a5a8 -> 317e z=357e ok=0
+[3321] b7d1 20d2 -> b3aa z=b7aa ok=0
+[3322] d2f3 bc28 -> cf14 z=d314 ok=0
+[3323] c419 3925 -> bee9 z=c2e9 ok=0
+[3324] 380c cacf -> c68e z=ca8e ok=0
+[3325] d8ff 4c11 -> d47d z=d87d ok=0
+[3326] 428e a1dc -> 3e88 z=4288 ok=0
+[3327] b110 d833 -> d434 z=d834 ok=0
+[3328] c74e 2d2b -> c339 z=c739 ok=0
+[3329] 3ba6 3453 -> 38e7 z=3ce8 ok=0
+[3330] d291 406c -> ce4a z=d24a ok=0
+[3331] d3b4 2036 -> cfb3 z=d3b4 ok=0
+[3332] b407 c893 -> c4b3 z=c8b3 ok=0
+[3333] 3fa6 a937 -> 3b7c z=3f7c ok=0
+[3334] 2d9a 54c5 -> 50c6 z=54c6 ok=0
+[3335] 4375 2c9b -> 3f99 z=439a ok=0
+[3336] 593b 3680 -> 553e z=593e ok=0
+[3337] 4fef ab4c -> 4beb z=4feb ok=0
+[3338] 33fa 4491 -> 40d0 z=44d1 ok=0
+[3339] a3a4 b478 -> b0b5 z=b4b5 ok=0
+[3340] 5800 2c42 -> 5400 z=5801 ok=0
+[3341] 3514 d078 -> cc6e z=d06e ok=0
+[3342] af77 4820 -> 4411 z=4811 ok=0
+[3343] 30bd 39f5 -> 3724 z=3b24 ok=0
+[3344] 3b34 2ee9 -> 3808 z=3c09 ok=0
+[3345] d738 d201 -> d51c z=d91c ok=0
+[3346] d8ea 36ec -> d4e6 z=d8e7 ok=0
+[3347] afae b995 -> b68a z=ba8b ok=0
+[3348] 32d4 2934 -> 3010 z=3410 ok=0
+[3349] bc86 d006 -> cc2a z=d02a ok=0
+[3350] 1e2b beb8 -> bab2 z=beb2 ok=0
+[3351] a85a 451c -> 4113 z=4513 ok=0
+[3352] d5d0 36e1 -> d1c9 z=d5c9 ok=0
+[3353] 9fae 1ee9 -> 8e28 z=9228 ok=0
+[3354] 240b b006 -> ab09 z=af09 ok=0
+[3355] 3703 1f06 -> 331f z=371f ok=0
+[3356] c98d 1fb9 -> c58c z=c98c ok=0
+[3357] 2dca d8d9 -> d4d8 z=d8d8 ok=0
+[3358] 3040 a394 -> 2b8d z=2f8e ok=0
+[3359] b03c b8ce -> b5dd z=b9dd ok=0
+[3360] d205 5039 -> c730 z=cb30 ok=0
+[3361] 2b6a 3714 -> 3400 z=3801 ok=0
+[3362] 3fa7 2cb3 -> 3bf2 z=3ff2 ok=0
+[3363] d9a8 b68b -> d5ab z=d9ab ok=0
+[3364] c961 cf42 -> ccf9 z=d0f9 ok=0
+[3365] b1d6 a082 -> ae1e z=b21e ok=0
+[3366] 4be4 bb1e -> 4772 z=4b72 ok=0
+[3367] d702 a949 -> d302 z=d703 ok=0
+[3368] b44c 214d -> b021 z=b422 ok=0
+[3369] c85a cce0 -> cb0d z=cf0d ok=0
+[3370] 2238 9e91 -> 19df z=1ddf ok=0
+[3371] 539f b69c -> 4f92 z=5392 ok=0
+[3372] 23ae 3e6c -> 3a7b z=3e7b ok=0
+[3373] 3445 2845 -> 30cd z=34ce ok=0
+[3374] 3e39 d3f5 -> cfc3 z=d3c3 ok=0
+[3375] ad7a b632 -> b390 z=b790 ok=0
+[3376] 44ba 28b1 -> 40c3 z=44c3 ok=0
+[3377] 3f0b 425b -> 40f0 z=44f0 ok=0
+[3378] c8c8 4443 -> c14d z=c54d ok=0
+[3379] b306 b507 -> b445 z=b845 ok=0
+[3380] 3e74 9fda -> 3a6c z=3e6c ok=0
+[3381] ce6d c55e -> cbc4 z=cfc4 ok=0
+[3382] 4e52 ac30 -> 4a4e z=4e4e ok=0
+[3383] c8a3 a6ba -> c4a6 z=c8a6 ok=0
+[3384] 3e30 4f0b -> 4b6e z=4f6e ok=0
+[3385] c60e bc2e -> c319 z=c71a ok=0
+[3386] a2fd b8a8 -> b4c3 z=b8c4 ok=0
+[3387] 39f0 cb15 -> c6b6 z=cab6 ok=0
+[3388] d149 b9e6 -> cd60 z=d161 ok=0
+[3389] c21b 4266 -> 2cb0 z=30b0 ok=0
+[3390] 562b b609 -> 5225 z=5625 ok=0
+[3391] 2d67 5306 -> 4f08 z=5309 ok=0
+[3392] a3ae 3fe9 -> 3bd9 z=3fda ok=0
+[3393] 4375 d41c -> cfc1 z=d3c1 ok=0
+[3394] 2347 d3ea -> cfe9 z=d3ea ok=0
+[3395] 4cb5 4b5b -> 4c31 z=5031 ok=0
+[3396] ad1b be98 -> bae9 z=beea ok=0
+[3397] 3dfc 44f8 -> 4277 z=4677 ok=0
+[3398] ce5b ab1f -> ca5e z=ce5f ok=0
+[3399] ccff 54e3 -> 4f46 z=5346 ok=0
+[3400] bbac 5142 -> 4d23 z=5123 ok=0
+[3401] d866 ccf1 -> d504 z=d904 ok=0
+[3402] 3bce 9f60 -> 37bf z=3bbf ok=0
+[3403] 2e6a 2958 -> 2c8b z=308b ok=0
+[3404] b01b 54c2 -> 50c0 z=54c0 ok=0
+[3405] 4a4c 4e38 -> 4caf z=50af ok=0
+[3406] b829 d091 -> cca1 z=d0a2 ok=0
+[3407] 36e0 b5ee -> 2790 z=2b90 ok=0
+[3408] 9f02 2d15 -> 28a5 z=2ca5 ok=0
+[3409] b03a d342 -> cf46 z=d346 ok=0
+[3410] d14d b445 -> cd55 z=d156 ok=0
+[3411] 4ddc afe7 -> 49d4 z=4dd4 ok=0
+[3412] ca7c 300a -> c66c z=ca6c ok=0
+[3413] 1f33 d2a8 -> cea8 z=d2a8 ok=0
+[3414] 1f7f 2875 -> 2564 z=2965 ok=0
+[3415] 3082 cffa -> cbf1 z=cff1 ok=0
+[3416] 3a22 3a56 -> 3a3c z=3e3c ok=0
+[3417] 546c ad56 -> 506a z=546b ok=0
+[3418] b4d2 c0cd -> bd67 z=c167 ok=0
+[3419] af1a ae6d -> aec3 z=b2c4 ok=0
+[3420] c031 bcab -> be86 z=c286 ok=0
+[3421] 54ab c285 -> 5077 z=5477 ok=0
+[3422] c9fb 40be -> c4cb z=c8cc ok=0
+[3423] 511b 4eb1 -> 5039 z=543a ok=0
+[3424] a8b1 42e0 -> 3ecd z=42cd ok=0
+[3425] 253b ab06 -> a468 z=a868 ok=0
+[3426] 3e53 2f97 -> 3acc z=3ecc ok=0
+[3427] c7c9 35c9 -> c36c z=c76c ok=0
+[3428] d71a cc1f -> d410 z=d811 ok=0
+[3429] 3436 d42d -> d029 z=d429 ok=0
+[3430] 327f 1f4c -> 2eb9 z=32b9 ok=0
+[3431] 3cb7 5949 -> 5552 z=5952 ok=0
+[3432] 46d6 3b52 -> 43c0 z=47c0 ok=0
+[3433] 3ff3 a591 -> 3bdc z=3fdd ok=0
+[3434] c915 3fe6 -> c418 z=c818 ok=0
+[3435] 349c 3933 -> 3781 z=3b81 ok=0
+[3436] d167 20b8 -> cd66 z=d167 ok=0
+[3437] 28bb c07b -> bc68 z=c068 ok=0
+[3438] 30b8 5591 -> 5193 z=5593 ok=0
+[3439] 4c4e 3a05 -> 487e z=4c7e ok=0
+[3440] b1cc aba9 -> afb6 z=b3b6 ok=0
+[3441] 45c0 45e8 -> 45d4 z=49d4 ok=0
+[3442] 2f0e 2db6 -> 2e62 z=3262 ok=0
+[3443] 28f1 d4b1 -> d0b0 z=d4b0 ok=0
+[3444] b008 3a4d -> 354b z=394b ok=0
+[3445] d2fd ccd2 -> d0b3 z=d4b3 ok=0
+[3446] 3953 a0b5 -> 3540 z=3940 ok=0
+[3447] ab5b c99c -> c5a3 z=c9a3 ok=0
+[3448] 30ff a695 -> 2c2c z=302c ok=0
+[3449] 9dd0 aacd -> a787 z=ab87 ok=0
+[3450] 4b26 d15c -> cb25 z=cf25 ok=0
+[3451] ab60 a522 -> a8f8 z=acf8 ok=0
+[3452] 4189 af91 -> 3d4c z=414c ok=0
+[3453] 9f5b 3423 -> 3005 z=3406 ok=0
+[3454] d00b d46f -> d274 z=d674 ok=0
+[3455] 28f8 263c -> 280b z=2c0b ok=0
+[3456] 1df5 42bf -> 3ec1 z=42c2 ok=0
+[3457] 300d 29d4 -> 2d82 z=3182 ok=0
+[3458] 54f1 af1f -> 50ef z=54ef ok=0
+[3459] 2d6d b885 -> b3af z=b7af ok=0
+[3460] bc26 be89 -> bd57 z=c158 ok=0
+[3461] 3619 2860 -> 32a5 z=36a5 ok=0
+[3462] af87 4166 -> 3d2a z=412a ok=0
+[3463] 5551 4219 -> 5181 z=5582 ok=0
+[3464] 4d0c 362e -> 4924 z=4d25 ok=0
+[3465] 4b9f a9b4 -> 4799 z=4b99 ok=0
+[3466] 3d3f 31b2 -> 39f5 z=3df5 ok=0
+[3467] 4f56 a3da -> 4b55 z=4f55 ok=0
+[3468] 3931 ca62 -> c60f z=ca0f ok=0
+[3469] b992 9e95 -> b59f z=b99f ok=0
+[3470] 3b80 b191 -> 361b z=3a1c ok=0
+[3471] ac26 5525 -> 5124 z=5524 ok=0
+[3472] d51e 28f8 -> d11d z=d51d ok=0
+[3473] 2d37 bd1c -> b8c8 z=bcc9 ok=0
+[3474] 298d 26ac -> 2871 z=2c72 ok=0
+[3475] ac74 d6b5 -> d2b6 z=d6b6 ok=0
+[3476] cec8 cf02 -> cee5 z=d2e5 ok=0
+[3477] 4c14 3090 -> 481d z=4c1d ok=0
+[3478] 3780 4add -> 4719 z=4b19 ok=0
+[3479] 1e83 c007 -> bc03 z=c004 ok=0
+[3480] 5866 2b15 -> 5466 z=5866 ok=0
+[3481] a59c a5b8 -> a5aa z=a9aa ok=0
+[3482] d0d2 acb8 -> ccd4 z=d0d4 ok=0
+[3483] ccae 43a7 -> c772 z=cb72 ok=0
+[3484] d5f0 d715 -> d682 z=da82 ok=0
+[3485] 4c4b 4c72 -> 4c5e z=505e ok=0
+[3486] 318b 5428 -> 502a z=542b ok=0
+[3487] abe4 2951 -> a126 z=a526 ok=0
+[3488] 347c 54a8 -> 50ac z=54ac ok=0
+[3489] a9d8 a2d2 -> a78c z=ab8c ok=0
+[3490] 48e8 d652 -> d1b5 z=d5b5 ok=0
+[3491] cf70 a623 -> cb71 z=cf72 ok=0
+[3492] 4496 3397 -> 40d2 z=44d3 ok=0
+[3493] a8e3 326d -> 2d34 z=3134 ok=0
+[3494] 202a b174 -> ad31 z=b131 ok=0
+[3495] 409d c9da -> c4b2 z=c8b3 ok=0
+[3496] 396d d042 -> cc2c z=d02c ok=0
+[3497] a9a4 402a -> 3c13 z=4013 ok=0
+[3498] 340f be76 -> b972 z=bd72 ok=0
+[3499] be28 2d5a -> b9d2 z=bdd2 ok=0
+[3500] c3f8 5425 -> 4fca z=53ca ok=0
+[3501] ba46 bfd8 -> bd7d z=c17e ok=0
+[3502] d833 365d -> d430 z=d830 ok=0
+[3503] 2091 bf6d -> bb64 z=bf64 ok=0
+[3504] 452e a430 -> 412a z=452a ok=0
+[3505] 546c 2482 -> 506c z=546c ok=0
+[3506] 2c23 5551 -> 5152 z=5552 ok=0
+[3507] 2a83 aadb -> 9580 z=9980 ok=0
+[3508] 4ba4 2de0 -> 47af z=4bb0 ok=0
+[3509] baf2 bf41 -> bd5d z=c15d ok=0
+[3510] d937 3afb -> d530 z=d930 ok=0
+[3511] c10d bf24 -> c04f z=c450 ok=0
+[3512] d51b b3e7 -> d11e z=d51f ok=0
+[3513] 9e6d b5f9 -> b212 z=b613 ok=0
+[3514] 270b a816 -> 9884 z=9c84 ok=0
+[3515] 46cf 3bc1 -> 43c7 z=47c7 ok=0
+[3516] b6b7 372f -> 2380 z=2780 ok=0
+[3517] 501c 5612 -> 5410 z=5810 ok=0
+[3518] 37a4 2576 -> 33fb z=37fb ok=0
+[3519] c894 42aa -> c1d3 z=c5d3 ok=0
+[3520] 3ff5 d800 -> d3e0 z=d7e0 ok=0
+[3521] 24ea 23d4 -> 246a z=286a ok=0
+[3522] 48d1 c8fb -> b140 z=b540 ok=0
+[3523] c846 d195 -> cea6 z=d2a6 ok=0
+[3524] a4b5 b199 -> ae2f z=b230 ok=0
+[3525] 3f9d c01d -> ace8 z=b0e8 ok=0
+[3526] b1cc 232e -> ad59 z=b159 ok=0
+[3527] b937 31e0 -> b37e z=b77e ok=0
+[3528] b72a acb3 -> b42b z=b82b ok=0
+[3529] 2433 c6e0 -> c2dc z=c6dc ok=0
+[3530] a751 210c -> a0cb z=a4cb ok=0
+[3531] a2fd bab8 -> b6d3 z=bad4 ok=0
+[3532] 293b 3f00 -> 3b29 z=3f2a ok=0
+[3533] d0e3 d589 -> d3fa z=d7fa ok=0
+[3534] 1f4c 54fb -> 50fb z=54fb ok=0
+[3535] b7dc 1e0e -> b3c4 z=b7c4 ok=0
+[3536] 4db8 40a5 -> 4a4c z=4e4d ok=0
+[3537] a403 35a5 -> 3165 z=3565 ok=0
+[3538] 2b8f 3dd5 -> 3a11 z=3e11 ok=0
+[3539] 4953 44bd -> 47b1 z=4bb2 ok=0
+[3540] c4a3 ae23 -> c0bb z=c4bc ok=0
+[3541] bfb4 4b8f -> 4698 z=4a98 ok=0
+[3542] a836 d4f1 -> d0f1 z=d4f2 ok=0
+[3543] cd58 531a -> 4c6e z=506e ok=0
+[3544] a627 cb1c -> c71f z=cb1f ok=0
+[3545] a5c0 bd29 -> b940 z=bd40 ok=0
+[3546] cd5c 3adc -> c925 z=cd25 ok=0
+[3547] 341c 4a64 -> 4684 z=4a85 ok=0
+[3548] b090 cc42 -> c84b z=cc4b ok=0
+[3549] ae68 9e6d -> aace z=aecf ok=0
+[3550] b130 2030 -> aced z=b0ed ok=0
+[3551] b21a ba56 -> b7dc z=bbdc ok=0
+[3552] 47b4 51a4 -> 4e9a z=529a ok=0
+[3553] 2c4c aa9e -> 1fe8 z=23e8 ok=0
+[3554] 3134 2649 -> 2dfd z=31fd ok=0
+[3555] 4c69 d5a4 -> d089 z=d48a ok=0
+[3556] d494 534c -> c770 z=cb70 ok=0
+[3557] c277 adc6 -> bea5 z=c2a5 ok=0
+[3558] 2439 d04e -> cc4d z=d04d ok=0
+[3559] 3e2a 4b3d -> 4801 z=4c01 ok=0
+[3560] c38d 5963 -> 5545 z=5945 ok=0
+[3561] 30a1 27b9 -> 2d98 z=3198 ok=0
+[3562] 4f8f 53c9 -> 51c8 z=55c8 ok=0
+[3563] 4cb1 a11b -> 48b0 z=4cb0 ok=0
+[3564] c060 c60b -> c41d z=c81e ok=0
+[3565] a664 45ce -> 41c7 z=45c8 ok=0
+[3566] 47c9 d4b8 -> d03b z=d43b ok=0
+[3567] 539f ab8f -> 4f9d z=539d ok=0
+[3568] 2cc3 a836 -> 2550 z=2950 ok=0
+[3569] d760 bc9a -> d372 z=d772 ok=0
+[3570] 4c33 56e9 -> 53f5 z=57f6 ok=0
+[3571] 3003 2e6a -> 2f38 z=3338 ok=0
+[3572] 42bc cd76 -> c89e z=cc9e ok=0
+[3573] 3057 30ec -> 30a1 z=34a2 ok=0
+[3574] a3f5 ad04 -> aa02 z=ae03 ok=0
+[3575] cf47 46c8 -> c995 z=cd95 ok=0
+[3576] c59a cc33 -> c999 z=cd9a ok=0
+[3577] 428b 1e7f -> 3e8e z=428e ok=0
+[3578] 2634 c0c5 -> bcb8 z=c0b9 ok=0
+[3579] b479 3d84 -> 3865 z=3c66 ok=0
+[3580] d249 b50c -> ce53 z=d253 ok=0
+[3581] 27b9 4cdc -> 48dd z=4cde ok=0
+[3582] 20a8 b329 -> aede z=b2de ok=0
+[3583] 2929 be53 -> ba29 z=be2a ok=0
+[3584] acc3 b78f -> b45f z=b860 ok=0
+[3585] 4cc5 38a9 -> 48ea z=4cea ok=0
+[3586] 44ab 3ae4 -> 4187 z=4588 ok=0
+[3587] 9ec8 a72e -> a470 z=a870 ok=0
+[3588] 9ec8 4ddc -> 49db z=4ddc ok=0
+[3589] c003 af42 -> bc3d z=c03d ok=0
+[3590] 4400 3cbd -> 412f z=452f ok=0
+[3591] 2537 2e0b -> 2b58 z=2f59 ok=0
+[3592] c24f 513e -> 4cd9 z=50d9 ok=0
+[3593] 2c4c 4fdf -> 4be3 z=4fe3 ok=0
+[3594] 31dc 56c8 -> 52ca z=56cb ok=0
+[3595] b633 33cf -> ac97 z=b097 ok=0
+[3596] 24bb 52fd -> 4efd z=52fe ok=0
+[3597] 57b4 5137 -> 5527 z=5928 ok=0
+[3598] 5851 404e -> 5462 z=5862 ok=0
+[3599] b884 a68c -> b4b8 z=b8b8 ok=0
+[3600] ad23 482d -> 4422 z=4823 ok=0
+[3601] 575b d65f -> 47e0 z=4be0 ok=0
+[3602] ced6 4ee9 -> 30c0 z=34c0 ok=0
+[3603] 4925 a241 -> 4523 z=4923 ok=0
+[3604] b961 1f24 -> b552 z=b953 ok=0
+[3605] 3651 b950 -> b04f z=b44f ok=0
+[3606] 4c8e d494 -> cee1 z=d2e1 ok=0
+[3607] 3ce8 490c -> 45a9 z=49a9 ok=0
+[3608] c54f d99c -> d5c6 z=d9c6 ok=0
+[3609] bff6 4384 -> 3b12 z=3f12 ok=0
+[3610] c889 d2a8 -> cfca z=d3ca ok=0
+[3611] a384 4e68 -> 4a67 z=4e67 ok=0
+[3612] 347b 3dfa -> 3b18 z=3f19 ok=0
+[3613] 2803 233d -> 25d2 z=29d2 ok=0
+[3614] 2c60 2581 -> 29c0 z=2dc0 ok=0
+[3615] a9b8 4ea3 -> 4aa0 z=4ea0 ok=0
+[3616] bc24 b41e -> b92b z=bd2c ok=0
+[3617] 1ee5 c1d1 -> bdcd z=c1ce ok=0
+[3618] d7c4 af59 -> d3c5 z=d7c6 ok=0
+[3619] bcdf d356 -> cf7c z=d37d ok=0
+[3620] a0e3 54bb -> 50bb z=54bb ok=0
+[3621] 46a3 d724 -> d2ba z=d6ba ok=0
+[3622] adca d563 -> d164 z=d564 ok=0
+[3623] 244b 3fc9 -> 3bda z=3fda ok=0
+[3624] 4fbf c1c5 -> 4b06 z=4f06 ok=0
+[3625] a989 d7a4 -> d3a4 z=d7a5 ok=0
+[3626] a433 b442 -> b085 z=b485 ok=0
+[3627] 211b 43cc -> 3fd1 z=43d1 ok=0
+[3628] 4961 3846 -> 45a5 z=49a5 ok=0
+[3629] c506 b25f -> c138 z=c539 ok=0
+[3630] 1e2b d56f -> d16f z=d56f ok=0
+[3631] ab10 c020 -> bc3c z=c03c ok=0
+[3632] c833 b991 -> c48c z=c88c ok=0
+[3633] 26e0 a0f8 -> 2064 z=2464 ok=0
+[3634] c071 a71f -> bc7f z=c07f ok=0
+[3635] 2a7a be1c -> b9e8 z=bde8 ok=0
+[3636] 38b8 5958 -> 555c z=595d ok=0
+[3637] 51b4 b93f -> 4d9f z=519f ok=0
+[3638] 301c c35b -> bf19 z=c319 ok=0
+[3639] c6e9 d0d9 -> cdb6 z=d1b6 ok=0
+[3640] 3836 d4d9 -> d0d0 z=d4d1 ok=0
+[3641] 23ae 33f5 -> 3037 z=3438 ok=0
+[3642] 3382 27bf -> 303c z=343d ok=0
+[3643] d05a 5830 -> 5233 z=5633 ok=0
+[3644] 5848 bd53 -> 543d z=583d ok=0
+[3645] 5085 d2e5 -> c8c0 z=ccc0 ok=0
+[3646] 279f 2fdf -> 2ce3 z=30e3 ok=0
+[3647] b26a a31a -> aedb z=b2dc ok=0
+[3648] 4fd4 5264 -> 5127 z=5527 ok=0
+[3649] bf02 b6b8 -> bc58 z=c058 ok=0
+[3650] cc69 b850 -> c88b z=cc8c ok=0
+[3651] 4c7e 58c5 -> 5554 z=5955 ok=0
+[3652] a1ec 3633 -> 3203 z=3604 ok=0
+[3653] 3238 404e -> 3cb1 z=40b2 ok=0
+[3654] 3a6f 49e4 -> 464a z=4a4b ok=0
+[3655] d668 2b56 -> d267 z=d667 ok=0
+[3656] 53da 2dd6 -> 4fdc z=53dd ok=0
+[3657] b730 c9fd -> c636 z=ca36 ok=0
+[3658] a3a9 ce16 -> ca16 z=ce17 ok=0
+[3659] b5ee a9b4 -> b2a4 z=b6a4 ok=0
+[3660] bdcf 3061 -> b943 z=bd43 ok=0
+[3661] d42d 9e34 -> d02d z=d42d ok=0
+[3662] 2f97 b4d5 -> adde z=b1de ok=0
+[3663] b063 540b -> 5009 z=5409 ok=0
+[3664] 4382 b5bd -> 3eca z=42ca ok=0
+[3665] 3c39 cb63 -> c6dc z=cadc ok=0
+[3666] 296b a122 -> 2422 z=2822 ok=0
+[3667] 265f 40fd -> 3d09 z=410a ok=0
+[3668] 3b2c d706 -> d2f7 z=d6f8 ok=0
+[3669] 4c8e d8cf -> d43d z=d83d ok=0
+[3670] 4c8b 4085 -> 491b z=4d1c ok=0
+[3671] d866 1e91 -> d466 z=d866 ok=0
+[3672] 34ba 5048 -> 4c51 z=5051 ok=0
+[3673] 3534 c9be -> c594 z=c994 ok=0
+[3674] 9dc4 9f51 -> 9e8a z=a28a ok=0
+[3675] cfb9 4b35 -> c81e z=cc1e ok=0
+[3676] 4498 48e7 -> 4733 z=4b33 ok=0
+[3677] 4c25 a3b9 -> 4824 z=4c24 ok=0
+[3678] b9e5 bdd7 -> bc64 z=c065 ok=0
+[3679] d4ed 3ea6 -> d0d2 z=d4d2 ok=0
+[3680] 9fa9 5394 -> 4f94 z=5394 ok=0
+[3681] 24ae b86d -> b447 z=b848 ok=0
+[3682] b469 bf66 -> bc40 z=c040 ok=0
+[3683] a2db becb -> bad8 z=bed9 ok=0
+[3684] a310 3ce5 -> 38d7 z=3cd7 ok=0
+[3685] c003 d0ed -> cd2d z=d12d ok=0
+[3686] 2ab1 d67f -> d27e z=d67e ok=0
+[3687] c375 54ae -> 5072 z=5472 ok=0
+[3688] d56f 2976 -> d16e z=d56e ok=0
+[3689] 4f42 51bc -> 50ae z=54ae ok=0
+[3690] 2cb0 b0cf -> a8ee z=acee ok=0
+[3691] 232e 9e76 -> 1be6 z=1fe6 ok=0
+[3692] d6bf 3da5 -> d2a8 z=d6a8 ok=0
+[3693] d954 a38a -> d554 z=d954 ok=0
+[3694] 3457 bbf1 -> b5c5 z=b9c6 ok=0
+[3695] 3951 ca0b -> c5b6 z=c9b6 ok=0
+[3696] 2668 d08e -> cc8d z=d08d ok=0
+[3697] 4872 3112 -> 4486 z=4886 ok=0
+[3698] 3719 503c -> 4c4a z=504a ok=0
+[3699] 4dd4 211e -> 49d4 z=4dd5 ok=0
+[3700] c077 c2a8 -> c18f z=c590 ok=0
+[3701] 2069 32b3 -> 2ef9 z=32fa ok=0
+[3702] b1c0 3ea4 -> 39ec z=3dec ok=0
+[3703] ce30 a934 -> ca32 z=ce33 ok=0
+[3704] c713 2bd4 -> c303 z=c703 ok=0
+[3705] 43ef 5022 -> 4ca0 z=50a1 ok=0
+[3706] c603 4d85 -> 4804 z=4c04 ok=0
+[3707] c1f6 d0f8 -> cd57 z=d157 ok=0
+[3708] 4457 ba64 -> 3f15 z=4315 ok=0
+[3709] 42ff c565 -> bb96 z=bf96 ok=0
+[3710] bdaa 392e -> b626 z=ba26 ok=0
+[3711] 4b4c acb5 -> 4742 z=4b43 ok=0
+[3712] 341f 1e05 -> 3037 z=3437 ok=0
+[3713] ba2f 54ea -> 50dd z=54de ok=0
+[3714] 35be c7c4 -> c368 z=c768 ok=0
+[3715] 2a38 ccae -> c8ab z=ccab ok=0
+[3716] b106 a21e -> ad67 z=b168 ok=0
+[3717] a102 52b1 -> 4eb0 z=52b1 ok=0
+[3718] b137 267f -> ac67 z=b067 ok=0
+[3719] 3521 d06c -> cc61 z=d062 ok=0
+[3720] 237a cbd4 -> c7d2 z=cbd2 ok=0
+[3721] 2b02 49fd -> 4604 z=4a04 ok=0
+[3722] acbb 4702 -> 42ef z=46ef ok=0
+[3723] 2b8a 29cc -> 2aab z=2eab ok=0
+[3724] b2bf 4529 -> 40f3 z=44f3 ok=0
+[3725] 265f 2460 -> 255f z=2960 ok=0
+[3726] c98d d142 -> cea5 z=d2a5 ok=0
+[3727] 323c 29b0 -> 2fa8 z=33a8 ok=0
+[3728] a50c b845 -> b46d z=b86d ok=0
+[3729] 414b d442 -> d017 z=d418 ok=0
+[3730] a894 4d63 -> 4960 z=4d61 ok=0
+[3731] a12c a033 -> a0af z=a4b0 ok=0
+[3732] a7b9 3b19 -> 36db z=3adb ok=0
+[3733] 36f7 3d32 -> 3aef z=3ef0 ok=0
+[3734] 477a 5014 -> 4d03 z=5103 ok=0
+[3735] 445b c17c -> 3a74 z=3e74 ok=0
+[3736] 9df9 a19c -> a04c z=a44c ok=0
+[3737] 4d46 36f2 -> 4961 z=4d62 ok=0
+[3738] 31cc 4549 -> 4177 z=4577 ok=0
+[3739] c67a 58ff -> 54cb z=58cb ok=0
+[3740] 9ff5 b4cc -> b0eb z=b4ec ok=0
+[3741] b54e d8d2 -> d4d4 z=d8d5 ok=0
+[3742] 1eee bea6 -> ba9f z=be9f ok=0
+[3743] 4eb5 397d -> 4ae0 z=4ee1 ok=0
+[3744] a8f1 b6a4 -> b342 z=b742 ok=0
+[3745] c625 4090 -> bfba z=c3ba ok=0
+[3746] 2e4e 379c -> 3497 z=3898 ok=0
+[3747] a5c4 34c3 -> 3066 z=3467 ok=0
+[3748] 557a d885 -> cf20 z=d320 ok=0
+[3749] c160 bb8e -> bf43 z=c344 ok=0
+[3750] d342 4c9b -> ccf4 z=d0f4 ok=0
+[3751] b049 bc45 -> b8ce z=bcce ok=0
+[3752] cfb9 2be4 -> cbb5 z=cfb5 ok=0
+[3753] 562b 569e -> 5664 z=5a64 ok=0
+[3754] b561 d295 -> ce9f z=d2a0 ok=0
+[3755] d42d a630 -> d02d z=d42d ok=0
+[3756] 31c2 d2d6 -> ced0 z=d2d0 ok=0
+[3757] 312b 297e -> 2e8a z=328a ok=0
+[3758] d96b 4015 -> d55a z=d95b ok=0
+[3759] d6e5 5585 -> c980 z=cd80 ok=0
+[3760] ab9f bfd3 -> bc07 z=c008 ok=0
+[3761] 502a aa64 -> 4c28 z=5028 ok=0
+[3762] 3238 ad8f -> 2ae1 z=2ee1 ok=0
+[3763] 588e 4668 -> 54c1 z=58c1 ok=0
+[3764] d0be ca88 -> ce60 z=d260 ok=0
+[3765] 5436 c131 -> 500c z=540c ok=0
+[3766] c04e 2e98 -> bc19 z=c019 ok=0
+[3767] 2f87 a8ed -> 2910 z=2d10 ok=0
+[3768] 2981 44ff -> 410a z=450a ok=0
+[3769] bd58 2ba9 -> b91a z=bd1b ok=0
+[3770] 45f3 a7ae -> 41eb z=45eb ok=0
+[3771] ca2d 2585 -> c62a z=ca2a ok=0
+[3772] 2828 49ff -> 4603 z=4a03 ok=0
+[3773] 3dcf 4888 -> 4541 z=4942 ok=0
+[3774] b81e 5554 -> 514c z=554c ok=0
+[3775] 2a2b ad60 -> a495 z=a895 ok=0
+[3776] 3ef0 c112 -> b668 z=ba68 ok=0
+[3777] ae3a 54ea -> 50e8 z=54e8 ok=0
+[3778] bdc2 2b38 -> b988 z=bd88 ok=0
+[3779] 29ac 38f5 -> 354f z=3950 ok=0
+[3780] d400 57ef -> 4fde z=53de ok=0
+[3781] 31f3 d715 -> d312 z=d712 ok=0
+[3782] c24d bc83 -> c047 z=c447 ok=0
+[3783] 2506 b8b1 -> b489 z=b889 ok=0
+[3784] 43bb 565f -> 529c z=569d ok=0
+[3785] 2dfd 419f -> 3dce z=41cf ok=0
+[3786] 5733 2c9b -> 5334 z=5734 ok=0
+[3787] b553 bcca -> ba1e z=be1f ok=0
+[3788] 421c c041 -> 376c z=3b6c ok=0
+[3789] 2aac bee3 -> baad z=beae ok=0
+[3790] d15c 3601 -> cd50 z=d150 ok=0
+[3791] 4dec a67a -> 49ea z=4dea ok=0
+[3792] 2c8b 51c0 -> 4dc2 z=51c2 ok=0
+[3793] 547e a48b -> 507d z=547e ok=0
+[3794] a04b a605 -> a415 z=a815 ok=0
+[3795] caec a6ac -> c6ef z=caef ok=0
+[3796] b929 2042 -> b518 z=b918 ok=0
+[3797] 5016 5125 -> 509d z=549e ok=0
+[3798] b997 5356 -> 4f3f z=5340 ok=0
+[3799] 2199 a510 -> 9c87 z=a087 ok=0
+[3800] 2b75 395e -> 35d5 z=39d5 ok=0
+[3801] 5954 b545 -> 5551 z=5951 ok=0
+[3802] b1b6 2542 -> ad0d z=b10e ok=0
+[3803] a77f d189 -> cd89 z=d18a ok=0
+[3804] ce05 d181 -> d041 z=d442 ok=0
+[3805] 2085 ca1e -> c61d z=ca1d ok=0
+[3806] a1a4 27fa -> 2128 z=2528 ok=0
+[3807] afcc 2d7c -> a4a0 z=a8a0 ok=0
+[3808] a0a1 a93b -> a663 z=aa63 ok=0
+[3809] 5967 4fef -> 5664 z=5a65 ok=0
+[3810] c74c b9b7 -> c401 z=c801 ok=0
+[3811] 3ce7 26c4 -> 3902 z=3d02 ok=0
+[3812] 4df9 9e45 -> 49f8 z=4df9 ok=0
+[3813] 456b ae66 -> 4151 z=4551 ok=0
+[3814] 284b 5854 -> 5454 z=5854 ok=0
+[3815] aaf3 1fdf -> a5f7 z=a9f7 ok=0
+[3816] d1b8 5482 -> 4a98 z=4e98 ok=0
+[3817] b1e0 2129 -> ad8d z=b18d ok=0
+[3818] b8a4 c5f7 -> c28b z=c68c ok=0
+[3819] b529 32b5 -> ab3a z=af3a ok=0
+[3820] a0dc b909 -> b51c z=b91c ok=0
+[3821] 4832 2b0b -> 4439 z=4839 ok=0
+[3822] be11 31f9 -> b952 z=bd52 ok=0
+[3823] c63f 305a -> c21c z=c61c ok=0
+[3824] 2e62 4863 -> 446f z=4870 ok=0
+[3825] 3614 51f0 -> 4dfc z=51fc ok=0
+[3826] a93e b63b -> b2e2 z=b6e3 ok=0
+[3827] 36f1 ceb1 -> ca95 z=ce95 ok=0
+[3828] c4ed 9e5f -> c0ee z=c4ef ok=0
+[3829] d65b 4cf8 -> d11d z=d51d ok=0
+[3830] 4578 3d3d -> 42c7 z=46c7 ok=0
+[3831] 3d32 5006 -> 4c2f z=5030 ok=0
+[3832] 36b5 ab47 -> 31cc z=35cc ok=0
+[3833] a43c 3471 -> 302d z=342d ok=0
+[3834] ba4e 47d1 -> 4307 z=4707 ok=0
+[3835] a715 50ae -> 4cad z=50ad ok=0
+[3836] 40b4 3a63 -> 3e4c z=424d ok=0
+[3837] 497a 5094 -> 4df2 z=51f2 ok=0
+[3838] d67f be9c -> d299 z=d699 ok=0
+[3839] afbf d92c -> d52c z=d92d ok=0
+[3840] 357b d433 -> d02d z=d42e ok=0
+[3841] 28bb 34df -> 3176 z=3576 ok=0
+[3842] d25b 571f -> 4fe3 z=53e3 ok=0
+[3843] 4f42 4be4 -> 4d9a z=519a ok=0
+[3844] 4c5d 3d37 -> 48b0 z=4cb0 ok=0
+[3845] a122 d925 -> d525 z=d925 ok=0
+[3846] bf37 c797 -> c4b2 z=c8b2 ok=0
+[3847] 2c14 a958 -> 21a0 z=25a0 ok=0
+[3848] a4e7 24a1 -> 9060 z=9460 ok=0
+[3849] 4cab ad65 -> 48a5 z=4ca6 ok=0
+[3850] 2a64 49c8 -> 45ce z=49ce ok=0
+[3851] bc09 bec2 -> bd65 z=c166 ok=0
+[3852] 3d3f b57e -> 37bf z=3bbf ok=0
+[3853] 2a7f cb5b -> c754 z=cb55 ok=0
+[3854] 3b62 9f3d -> 3753 z=3b54 ok=0
+[3855] 20e3 ce83 -> ca82 z=ce82 ok=0
+[3856] 1da8 ca9c -> c69b z=ca9b ok=0
+[3857] 5288 289b -> 4e89 z=5289 ok=0
+[3858] 36a6 350c -> 35d9 z=39d9 ok=0
+[3859] 5454 202d -> 5054 z=5454 ok=0
+[3860] bbb3 9e64 -> b7bf z=bbc0 ok=0
+[3861] b7d1 d972 -> d575 z=d976 ok=0
+[3862] 2fa9 3b14 -> 3804 z=3c05 ok=0
+[3863] 229e 343b -> 306f z=3470 ok=0
+[3864] b06c a972 -> adc8 z=b1c8 ok=0
+[3865] 422d 4e16 -> 4adb z=4edc ok=0
+[3866] 4bae 4840 -> 49f7 z=4df7 ok=0
+[3867] be1d 9dc0 -> ba22 z=be23 ok=0
+[3868] 4b56 cc33 -> bc40 z=c040 ok=0
+[3869] 274c a482 -> 1d94 z=2194 ok=0
+[3870] 40c1 56a3 -> 52c9 z=56c9 ok=0
+[3871] d2ac 31a0 -> cea6 z=d2a6 ok=0
+[3872] aad2 b8d0 -> b53d z=b93d ok=0
+[3873] ab8f 9df5 -> a826 z=ac27 ok=0
+[3874] 4a9e 4f4c -> 4d4d z=514e ok=0
+[3875] ce68 b05b -> ca70 z=ce71 ok=0
+[3876] 2ca9 bf32 -> bae7 z=bee7 ok=0
+[3877] b18d 5546 -> 5143 z=5543 ok=0
+[3878] c3de 272e -> bfcf z=c3d0 ok=0
+[3879] 3591 d1b4 -> cda9 z=d1a9 ok=0
+[3880] c343 bc03 -> c0a2 z=c4a2 ok=0
+[3881] 3bb5 5529 -> 5138 z=5538 ok=0
+[3882] 4c4e cf24 -> c5ac z=c9ac ok=0
+[3883] 508e 386c -> 4c9f z=50a0 ok=0
+[3884] 517e a31a -> 4d7d z=517e ok=0
+[3885] c260 9fbf -> be63 z=c264 ok=0
+[3886] c273 d21e -> ce85 z=d285 ok=0
+[3887] 38bd 3a20 -> 396e z=3d6e ok=0
+[3888] 1f8a c57c -> c17a z=c57a ok=0
+[3889] afef 529a -> 4e96 z=5296 ok=0
+[3890] 217e 3033 -> 2c8a z=308b ok=0
+[3891] 3830 53a9 -> 4fb9 z=53ba ok=0
+[3892] 50bb 1f8a -> 4cbb z=50bb ok=0
+[3893] 4179 2e7f -> 3dac z=41ad ok=0
+[3894] c634 ce64 -> cbf1 z=cff1 ok=0
+[3895] a8ff 50ed -> 4cec z=50ec ok=0
+[3896] 2d63 d65f -> d25d z=d65e ok=0
+[3897] a7b4 b020 -> ad16 z=b116 ok=0
+[3898] 5069 4c9b -> 4eb6 z=52b6 ok=0
+[3899] ae83 58d9 -> 54d8 z=58d8 ok=0
+[3900] bfa5 3d4c -> b4b2 z=b8b2 ok=0
+[3901] 2623 ace3 -> a6b4 z=aab4 ok=0
+[3902] a522 a03f -> a341 z=a742 ok=0
+[3903] b28e cb72 -> c78c z=cb8c ok=0
+[3904] b17c a5fd -> ae3b z=b23c ok=0
+[3905] b167 34f1 -> 2c7b z=307b ok=0
+[3906] 41b7 3069 -> 3dfd z=41fe ok=0
+[3907] b0ba 36be -> 3061 z=3461 ok=0
+[3908] 4c16 d442 -> ce79 z=d279 ok=0
+[3909] a342 b769 -> b3a3 z=b7a3 ok=0
+[3910] 312e 5491 -> 5093 z=5494 ok=0
+[3911] c5ce 4dfd -> 4889 z=4c8a ok=0
+[3912] 41d5 af15 -> 3d9c z=419c ok=0
+[3913] a4e7 30d4 -> 2c37 z=3037 ok=0
+[3914] b844 3423 -> b065 z=b465 ok=0
+[3915] b067 c200 -> be46 z=c246 ok=0
+[3916] 43e0 c61c -> bc58 z=c058 ok=0
+[3917] 2576 d83c -> d43c z=d83c ok=0
+[3918] 45e4 5546 -> 51a4 z=55a4 ok=0
+[3919] 397e c266 -> bd06 z=c106 ok=0
+[3920] 2e29 2091 -> 2abb z=2ebb ok=0
+[3921] 4a8c 3e68 -> 4759 z=4b59 ok=0
+[3922] a8ff 35e0 -> 3140 z=3540 ok=0
+[3923] a6e5 be5f -> ba7a z=be7b ok=0
+[3924] 1ea3 204e -> 1f9f z=23a0 ok=0
+[3925] d15c 596b -> 5414 z=5814 ok=0
+[3926] bb64 a11b -> b778 z=bb78 ok=0
+[3927] 3cc2 ae05 -> 3861 z=3c62 ok=0
+[3928] 24ab a1fd -> 1ab2 z=1eb2 ok=0
+[3929] 2454 3e90 -> 3aa1 z=3ea1 ok=0
+[3930] b1ae b2db -> b244 z=b644 ok=0
+[3931] bcbc b460 -> b9d4 z=bdd4 ok=0
+[3932] 480a cd0c -> c60e z=ca0e ok=0
+[3933] bbf1 542d -> 501d z=541d ok=0
+[3934] 4fda a7ef -> 4bd8 z=4fd8 ok=0
+[3935] 3479 ae6d -> 2dbb z=31bc ok=0
+[3936] 1f94 ba07 -> b5f8 z=b9f8 ok=0
+[3937] 376d 2491 -> 33b6 z=37b6 ok=0
+[3938] a2d6 34eb -> 30b4 z=34b4 ok=0
+[3939] 3107 b016 -> 2388 z=2788 ok=0
+[3940] 58d9 d506 -> 50ac z=54ac ok=0
+[3941] d122 a991 -> cd23 z=d123 ok=0
+[3942] ac23 48fd -> 44f4 z=48f5 ok=0
+[3943] b468 2aac -> af25 z=b325 ok=0
+[3944] b7d1 c362 -> c02e z=c42e ok=0
+[3945] cbc7 40b1 -> c69a z=ca9b ok=0
+[3946] a000 b935 -> b545 z=b945 ok=0
+[3947] 2039 4ebf -> 4abf z=4ec0 ok=0
+[3948] a4c8 2b29 -> 24c5 z=28c5 ok=0
+[3949] c398 ba51 -> c096 z=c496 ok=0
+[3950] b695 58b5 -> 54b1 z=58b2 ok=0
+[3951] d0b5 28c2 -> ccb4 z=d0b4 ok=0
+[3952] 2ec8 3e6a -> 3ad6 z=3ed6 ok=0
+[3953] bb27 2f72 -> b638 z=ba39 ok=0
+[3954] c84b a51e -> c44d z=c84e ok=0
+[3955] be66 d0d6 -> cd09 z=d109 ok=0
+[3956] 30c3 c07c -> bc30 z=c030 ok=0
+[3957] a6e9 c08a -> bc97 z=c098 ok=0
+[3958] 3e1a be69 -> a8f0 z=acf0 ok=0
+[3959] 2634 28d2 -> 27ec z=2bec ok=0
+[3960] d605 c015 -> d225 z=d626 ok=0
+[3961] be0e a351 -> ba1c z=be1d ok=0
+[3962] 285a c6ac -> c2a3 z=c6a3 ok=0
+[3963] c8f6 a0d6 -> c4f7 z=c8f7 ok=0
+[3964] a428 2910 -> 21f8 z=25f8 ok=0
+[3965] cc36 2f87 -> c82e z=cc2e ok=0
+[3966] b922 2e6d -> b454 z=b854 ok=0
+[3967] a59c ce68 -> ca69 z=ce69 ok=0
+[3968] 2028 af0b -> aa86 z=ae86 ok=0
+[3969] 5949 221a -> 5549 z=5949 ok=0
+[3970] 2e23 21bc -> 2ada z=2eda ok=0
+[3971] d6e0 a6b1 -> d2e0 z=d6e0 ok=0
+[3972] bc14 3553 -> b57e z=b97e ok=0
+[3973] 3c21 297a -> 384c z=3c4d ok=0
+[3974] a34c ac14 -> a8fd z=acfe ok=0
+[3975] d6c8 28cc -> d2c7 z=d6c7 ok=0
+[3976] 49a2 2fe4 -> 45b1 z=49b2 ok=0
+[3977] bcdc bc35 -> bc88 z=c088 ok=0
+[3978] 24f1 5833 -> 5433 z=5833 ok=0
+[3979] a866 4d34 -> 4932 z=4d32 ok=0
+[3980] 37e7 a842 -> 335e z=375f ok=0
+[3981] b3a4 cdd0 -> c9df z=cddf ok=0
+[3982] bf52 c871 -> c55b z=c95b ok=0
+[3983] a241 d43f -> d03f z=d43f ok=0
+[3984] a04e b80f -> b420 z=b820 ok=0
+[3985] 3c7d 51b0 -> 4dd3 z=51d4 ok=0
+[3986] 9f9f 47da -> 43d8 z=47d8 ok=0
+[3987] a142 ae0b -> aab3 z=aeb3 ok=0
+[3988] b46d b516 -> b4c1 z=b8c2 ok=0
+[3989] a160 5036 -> 4c35 z=5036 ok=0
+[3990] 34dd 4e1e -> 4a31 z=4e31 ok=0
+[3991] ac5d 2c8b -> 15c0 z=19c0 ok=0
+[3992] 28fb 501f -> 4c20 z=5020 ok=0
+[3993] 35f0 d671 -> d26b z=d66b ok=0
+[3994] a4ea 5257 -> 4e56 z=5256 ok=0
+[3995] 32b3 b4a8 -> a93a z=ad3a ok=0
+[3996] 3810 3e23 -> 3c15 z=4016 ok=0
+[3997] cfbf d08e -> d036 z=d437 ok=0
+[3998] d5a0 48be -> d108 z=d508 ok=0
+[3999] 305d c866 -> c454 z=c855 ok=0
+[4000] 2f68 2edd -> 2f22 z=3322 ok=0
+[4001] 3ffd c254 -> b8ab z=bcab ok=0
+[4002] a5e8 20fb -> 9ed5 z=a2d5 ok=0
+[4003] b2b5 afc4 -> b14b z=b54c ok=0
+[4004] a0ea 29d4 -> 2499 z=289a ok=0
+[4005] 348d b4f2 -> a250 z=a650 ok=0
+[4006] 24a4 49f5 -> 45f7 z=49f7 ok=0
+[4007] bf9b ad4f -> bbef z=bff0 ok=0
+[4008] 445d a88b -> 4054 z=4454 ok=0
+[4009] 58f1 d060 -> 53b2 z=57b2 ok=0
+[4010] 2960 d4ae -> d0ad z=d4ad ok=0
+[4011] 2a1a 3893 -> 34f4 z=38f5 ok=0
+[4012] 568c ac7d -> 528b z=568b ok=0
+[4013] 518d ace0 -> 4d8a z=518b ok=0
+[4014] 42af b6b2 -> 3dd8 z=41d9 ok=0
+[4015] d05a 4dd0 -> c5c8 z=c9c8 ok=0
+[4016] aa41 bf95 -> bbc7 z=bfc7 ok=0
+[4017] d21a 4078 -> cdd2 z=d1d2 ok=0
+[4018] 51b0 5885 -> 55f1 z=59f1 ok=0
+[4019] 2ca9 2257 -> 2973 z=2d74 ok=0
+[4020] bc5d 3a2b -> b11e z=b51e ok=0
+[4021] 5572 ba75 -> 5165 z=5565 ok=0
+[4022] 4671 bf03 -> 40b0 z=44b0 ok=0
+[4023] c54f 280e -> c147 z=c547 ok=0
+[4024] bf72 2819 -> bb51 z=bf51 ok=0
+[4025] 2dc8 36a5 -> 340b z=380c ok=0
+[4026] d888 c208 -> d4a0 z=d8a0 ok=0
+[4027] 38a3 b01f -> 3336 z=3736 ok=0
+[4028] b082 3bcc -> 36ab z=3aac ok=0
+[4029] c963 d8ed -> d543 z=d943 ok=0
+[4030] c222 9fc4 -> be25 z=c226 ok=0
+[4031] 3236 399c -> 3729 z=3b2a ok=0
+[4032] b029 ba19 -> b723 z=bb23 ok=0
+[4033] 2a95 4759 -> 4366 z=4766 ok=0
+[4034] a264 ada4 -> aa70 z=ae70 ok=0
+[4035] 4364 cda8 -> c8bb z=ccbc ok=0
+[4036] 3c3e b5b7 -> 35a0 z=39a0 ok=0
+[4037] ac11 a39f -> a904 z=ad05 ok=0
+[4038] 2106 43bb -> 3fc0 z=43c0 ok=0
+[4039] 9ee0 9f70 -> 9f28 z=a328 ok=0
+[4040] 49f9 48c3 -> 495e z=4d5e ok=0
+[4041] a902 9e6d -> a5cf z=a9d0 ok=0
+[4042] ada8 4177 -> 3d49 z=414a ok=0
+[4043] 1e8c d1e8 -> cde8 z=d1e8 ok=0
+[4044] a6c4 47dc -> 43d5 z=47d5 ok=0
+[4045] 5223 4349 -> 4e97 z=5298 ok=0
+[4046] 2c60 37df -> 347b z=387c ok=0
+[4047] d702 31d4 -> d2ff z=d6ff ok=0
+[4048] 27cf 3427 -> 30a3 z=34a4 ok=0
+[4049] 2cec 345d -> 3198 z=3598 ok=0
+[4050] 51b8 bd75 -> 4d8c z=518c ok=0
+[4051] b776 2645 -> b311 z=b712 ok=0
+[4052] 2dba 529e -> 4ea0 z=52a1 ok=0
+[4053] 476d c367 -> 3f73 z=4373 ok=0
+[4054] 20d2 b456 -> b02f z=b42f ok=0
+[4055] d342 58b5 -> 51c9 z=55c9 ok=0
+[4056] d05d d205 -> d131 z=d531 ok=0
+[4057] 22e5 c213 -> be0c z=c20c ok=0
+[4058] cd95 3437 -> c984 z=cd84 ok=0
+[4059] d78f b41b -> d393 z=d793 ok=0
+[4060] bb5e a1a8 -> b774 z=bb75 ok=0
+[4061] 4010 323a -> 3c73 z=4074 ok=0
+[4062] c67c ac8b -> c28e z=c68e ok=0
+[4063] 2da8 4230 -> 3e5d z=425d ok=0
+[4064] c4bd c8ef -> c74d z=cb4e ok=0
+[4065] ba29 2f65 -> b53c z=b93c ok=0
+[4066] b5fe 3e77 -> 38f7 z=3cf8 ok=0
+[4067] d41f ccf1 -> d15b z=d55b ok=0
+[4068] 4d89 445e -> 4aa0 z=4ea0 ok=0
+[4069] d5bc 4a4c -> d0f2 z=d4f2 ok=0
+[4070] d025 aad2 -> cc26 z=d027 ok=0
+[4071] 205d c412 -> c010 z=c410 ok=0
+[4072] c20e ae18 -> be3e z=c23f ok=0
+[4073] 47cf abc9 -> 43bf z=47bf ok=0
+[4074] 458f 2dea -> 41a6 z=45a7 ok=0
+[4075] adfb 33fd -> 2cff z=3100 ok=0
+[4076] b763 39ea -> 3071 z=3471 ok=0
+[4077] 203f aba9 -> a699 z=aa99 ok=0
+[4078] a384 32ba -> 2e41 z=3242 ok=0
+[4079] 3f81 d3b4 -> cf78 z=d378 ok=0
+[4080] 40b6 a5bc -> 3caa z=40ab ok=0
+[4081] a9b8 aaac -> aa32 z=ae32 ok=0
+[4082] b8ab 2151 -> b495 z=b896 ok=0
+[4083] b9fc 4863 -> 4403 z=4803 ok=0
+[4084] 9e5b bd6e -> b974 z=bd74 ok=0
+[4085] 263c 3a20 -> 3651 z=3a52 ok=0
+[4086] c349 200b -> bf45 z=c345 ok=0
+[4087] 5942 d794 -> 4de0 z=51e0 ok=0
+[4088] c4c7 5078 -> 4bbe z=4fbe ok=0
+[4089] a4ed 4efd -> 4afc z=4efc ok=0
+[4090] 4f15 5230 -> 50dd z=54dd ok=0
+[4091] 37da 4c75 -> 4894 z=4c94 ok=0
+[4092] a2c4 2605 -> 1d46 z=2146 ok=0
+[4093] 41a6 5833 -> 5449 z=584a ok=0
+[4094] ab94 d5b0 -> d1b0 z=d5b1 ok=0
+[4095] 36bc c7ae -> c342 z=c742 ok=0
