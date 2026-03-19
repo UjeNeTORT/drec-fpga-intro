@@ -17,7 +17,6 @@ always @(posedge clk or negedge rst_n) begin
     shft_reg <= {WIDTH{1'b0}};
   end else if (i_we) begin
     shft_reg <= i_wr;
-    $display("reg %b <- %b", shft_reg, i_wr);
   end else begin
     shft_reg <= {shft_reg[WIDTH-2:0], 1'b0};
   end
