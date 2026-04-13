@@ -14,7 +14,7 @@ always @(posedge clk or negedge rst_n) begin
     o_anodes <= 4'b1111;
     cnt <= 14'b0;
   end else begin
-    cnt <= cnt + 1;
+    cnt <= cnt + 1'b1;
     o_anodes <= ~(4'b1 << pos);
   end
 end
