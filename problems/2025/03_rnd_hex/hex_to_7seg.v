@@ -1,0 +1,52 @@
+module hex_to_7seg (
+  input  wire clk,
+  input  wire rst_n,
+  input  wire [15:0] i_data,
+  output reg [3:0] o_anodes,
+  output reg [7:0] o_seg
+);
+
+reg [13:0] cnt;
+wire [1:0] pos = cnt[13:12];
+
+always @(posedge clk or negedge rst_n) begin
+  if (!rst_n) begin
+    o_anodes <= 4'b1111;
+    cnt <= 14'b0;
+  end else begin
+    cnt <= cnt + 1'b1;
+    o_anodes <= ~(4'b1 << pos);
+  end
+end
+
+reg [3:0] digit;
+
+always @(*) begin
+  case (pos)
+    2'b00: digit = i_data[3:0];
+    2'b01: digit = i_data[7:4];
+    2'b10: digit = i_data[11:8];
+    2'b11: digit = i_data[15:12];
+  endcase
+
+  case (digit)
+    4'h0: o_seg = 8'b1111_1100;
+    4'h1: o_seg = 8'b0110_0000;
+    4'h2: o_seg = 8'b1101_1010;
+    4'h3: o_seg = 8'b1111_0010;
+    4'h4: o_seg = 8'b0110_0110;
+    4'h5: o_seg = 8'b1011_0110;
+    4'h6: o_seg = 8'b1011_1110;
+    4'h7: o_seg = 8'b1110_0000;
+    4'h8: o_seg = 8'b1111_1110;
+    4'h9: o_seg = 8'b1111_0110;
+    4'hA: o_seg = 8'b1110_1110;
+    4'hB: o_seg = 8'b0011_1110;
+    4'hC: o_seg = 8'b1001_1100;
+    4'hD: o_seg = 8'b0111_1010;
+    4'hE: o_seg = 8'b1001_1110;
+    4'hF: o_seg = 8'b1000_1110;
+  endcase
+end
+
+endmodule
