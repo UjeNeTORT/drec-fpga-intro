@@ -2,7 +2,7 @@ module hex_to_7seg (
   input  wire clk,
   input  wire rst_n,
   input  wire [15:0] i_data,
-  output reg [3:0] o_anodes,
+  output wire [3:0] o_anodes,
   output reg [7:0] o_seg
 );
 
@@ -11,15 +11,15 @@ wire [1:0] pos = cnt[13:12];
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
-    o_anodes <= 4'b1111;
     cnt <= 14'b0;
   end else begin
     cnt <= cnt + 1'b1;
-    o_anodes <= ~(4'b1 << pos);
   end
 end
 
 reg [3:0] digit;
+
+assign o_anodes = ~(4'b1 << pos);
 
 always @(*) begin
   case (pos)
@@ -46,6 +46,7 @@ always @(*) begin
     4'hD: o_seg = 8'b0111_1010;
     4'hE: o_seg = 8'b1001_1110;
     4'hF: o_seg = 8'b1000_1110;
+    default: o_seg = 8'b0000_0000;
   endcase
 end
 

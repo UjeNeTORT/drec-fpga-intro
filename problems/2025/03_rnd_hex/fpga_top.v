@@ -4,7 +4,7 @@ module fpga_top (
   output wire STCP, SHCP, DS, OE
 );
 
-reg rst_n, RSTN_D;
+reg rst_n, RSTN_D, clk_lfsr;
 
 always @(posedge CLK) begin
   rst_n <= RSTN_D;
@@ -15,8 +15,14 @@ wire [3:0] anodes;
 wire [7:0] segments;
 wire [15:0] rnd_num;
 
-lfsr #(.WIDTH(16)) lfsr_inst (
+clkdiv #(.F1(1)) clkdiv_lfsr_inst (
   .clk(CLK),
+  .rst_n(rst_n),
+  .out(clk_lfsr)
+);
+
+lfsr #(.WIDTH(16)) lfsr_inst (
+  .clk(clk_lfsr),
   .rst_n(rst_n),
   .i_we(1'b0),
   .i_wr(16'b0),
@@ -40,5 +46,5 @@ ctrl_74hc595 ctrl(
     .o_ds   (DS                 ),
     .o_oe   (OE                 )
 );
-  
+
 endmodule

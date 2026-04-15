@@ -20,7 +20,7 @@ always @(posedge clk or negedge rst_n) begin
   end else begin
     // fibonacci configuration
     lf_shft_reg <= {lf_shft_reg[WIDTH-2:0],
-      lf_shft_reg[WIDTH-1] ^ lf_shft_reg[WIDTH-2] ^ lf_shft_reg[0] ^ 1'b1}; // x**7 + x**6 + x + 1
+      lf_shft_reg[WIDTH-1] ^ lf_shft_reg[WIDTH-5] ^ lf_shft_reg[0] ^ 1'b1}; // x**7 + x**6 + x + 1
   end
 end
 endmodule
