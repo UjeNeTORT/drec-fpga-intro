@@ -4,27 +4,27 @@ module cpu_top(
     input  wire clk,
     input  wire rst_n,
 
-    output wire [29:0] o_mmio_addr,
+    output wire [`DMEM_ADDR_WIDTH-1:0] o_mmio_addr,
     output wire [31:0] o_mmio_data,
     output wire  [3:0] o_mmio_mask,
     output wire        o_mmio_wren,
     input  wire [31:0] i_mmio_data
 );
 
-wire [29:0] core2imem_addr;
-wire [31:0] imem2core_data;
+wire [`IMEM_ADDR_WIDTH-1:0] core2imem_addr;
+wire [31:0]                 imem2core_data;
 
-wire [29:0] core2xbar_addr;
-wire [31:0] core2xbar_data;
-wire        core2xbar_wren;
-wire  [3:0] core2xbar_mask;
-wire [31:0] xbar2core_data;
+wire [`DMEM_ADDR_WIDTH-1:0] core2xbar_addr;
+wire [31:0]                 core2xbar_data;
+wire                        core2xbar_wren;
+wire  [3:0]                 core2xbar_mask;
+wire [31:0]                 xbar2core_data;
 
-wire [29:0] xbar2dmem_addr;
-wire [31:0] xbar2dmem_data;
-wire        xbar2dmem_wren;
-wire  [3:0] xbar2dmem_mask;
-wire [31:0] dmem2xbar_data;
+wire [`DMEM_ADDR_WIDTH-1:0] xbar2dmem_addr;
+wire [31:0]                 xbar2dmem_data;
+wire                        xbar2dmem_wren;
+wire  [3:0]                 xbar2dmem_mask;
+wire [31:0]                 dmem2xbar_data;
 
 imem #(
     .ADDR_WIDTH     (`IMEM_ADDR_WIDTH),
