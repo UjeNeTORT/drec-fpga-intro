@@ -8,7 +8,7 @@ module core (
 
   input wire [31:0] i_mem_data,   // xbar 2 core
 
-  output reg  [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
+  output wire [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
   output wire [`DMEM_ADDR_WIDTH-1:0] o_mem_addr,   // core 2 xbar
   output wire [31:0]                 o_mem_data,
   output wire                        o_mem_we,
@@ -16,14 +16,15 @@ module core (
 );
 
 wire [11:0] Iimm = i_instr_data[31:20];
-wire [11:0] Uimm = i_instr_data[31:12];
+wire [19:0] Uimm = i_instr_data[31:12];
 wire [11:0] Simm = {i_instr_data[31:25], i_instr_data[11:7]};
 
-reg [29:0] pc;
+reg [`IMEM_ADDR_WIDTH-1:0] pc = 0;
 
 wire [3:0] ALUOp;
 wire [1:0] ALU_sel2;
 wire       rf_wren;
+wire       lsu_we;
 
 wire [31:0] rs1;
 wire [31:0] rs2;
@@ -67,7 +68,8 @@ control control (
   .i_instr_data(i_instr_data),
   .o_aluop(ALUOp),
   .o_alusel2(ALU_sel2),
-  .o_rf_wren(rf_wren)
+  .o_rf_wren(rf_wren),
+  .o_lsu_wren(lsu_we)
 );
 
 lsu #(
@@ -76,21 +78,22 @@ lsu #(
 ) lsu (
   .i_addr(ALU_res),
   .i_data(rs2),
+  .i_we (lsu_we),
   .o_addr(o_mem_addr),
   .o_data(o_mem_data),
   .o_we  (o_mem_we),
   .o_mask(o_mem_mask)
 );
 
-wire [`IMEM_ADDR_WIDTH-1:0] pc_next = pc + 1;
+wire [`IMEM_ADDR_WIDTH-1:0] pc_next = pc + 7'b1;
+
+assign o_instr_addr = pc;
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
-    pc <= 1'b0;
-    o_instr_addr <= 1'b0;
+    pc <= 7'b0;
   end else begin
     pc <= pc_next;
-    o_instr_addr <= pc;
   end
 end
 

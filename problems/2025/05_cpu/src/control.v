@@ -5,7 +5,8 @@ module control (
 
   output reg [3:0] o_aluop,
   output reg [1:0] o_alusel2,
-  output reg       o_rf_wren
+  output reg       o_rf_wren,
+  output reg       o_lsu_wren
 );
 
 wire [6:0]  opcode   = i_instr_data[6:0];
@@ -22,8 +23,14 @@ assign ALUOp_b4 = use_b30 ? i_instr_data[30] : 1'b0;
 
 always @(*) begin
   case (opcode)
-    `OPCODE_STORE: o_aluop = 3'b0; // add
-    default:       o_aluop = {ALUOp_b4, funct3};
+    `OPCODE_STORE: begin
+      o_aluop = 3'b0; // add
+      o_lsu_wren = 1'b1;
+    end
+    default: begin
+      o_aluop = {ALUOp_b4, funct3};
+      o_lsu_wren = 1'b0;
+    end
   endcase
   o_rf_wren = 1'b1;
   case (opcode)

@@ -24,6 +24,8 @@ reg [3:0] digit;
 assign o_anodes = ~(4'b1 << pos);
 
 always @(*) begin
+  digit = 4'b0;
+  o_segments = 8'b0;
   if (i_we) begin
     case (pos)
       2'b00: digit = i_data[3:0];

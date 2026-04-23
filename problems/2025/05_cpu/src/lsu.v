@@ -4,6 +4,7 @@ module lsu # (
 )(
   input wire [ALU_RES_WIDTH-1:0] i_addr,
   input wire [31:0]              i_data,
+  input wire                     i_we,
 
   output reg [ADDR_WIDTH-1:0] o_addr, // to dmem
   output reg [31:0]           o_data,
@@ -14,6 +15,7 @@ module lsu # (
 always @(*) begin
   o_addr = i_addr[ADDR_WIDTH-1:0];
   o_data = i_data;
+  o_we   = i_we;
 end
 
 endmodule

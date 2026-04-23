@@ -12,7 +12,7 @@ module rf_2r1w # (
   output wire [DATA_WIDTH-1:0] o_rd_data_2
 );
 
-reg [DATA_WIDTH-1:0] registers [0:DATA_WIDTH-1];
+reg [DATA_WIDTH-1:0] registers [0:31];
 
 assign o_rd_data_1 = i_rd_addr_1 == 0 ? 32'b0 : registers[i_rd_addr_1];
 assign o_rd_data_2 = i_rd_addr_2 == 0 ? 32'b0 : registers[i_rd_addr_2];

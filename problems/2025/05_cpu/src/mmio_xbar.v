@@ -14,13 +14,16 @@ module mmio_xbar #(
   output reg                   o_hexd_wren
 );
 
-reg [15:0] data_to_7seg;
+assign o_mmio_data = 32'b0;
 
 always @(*) begin
+
+  o_hexd_data = 16'b0;
+  o_hexd_wren = 1'b0;
+
   if (i_mmio_addr == `MMIO_7SEG_START) begin
-    if (i_mmio_wren) begin
-      o_hexd_data <= i_mmio_data[15:0];
-    end
+    o_hexd_data <= i_mmio_data[15:0];
+    o_hexd_wren <= i_mmio_wren;
   end
 end
 endmodule

@@ -11,4 +11,4 @@
 
 `define XBAR_HEXD_ADDR0 30'h0008
 
-`define MMIO_7SEG_START 30'h20 // TODO edit to
+`define MMIO_7SEG_START 30'h20 // TODO edit

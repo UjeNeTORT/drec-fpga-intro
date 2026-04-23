@@ -18,6 +18,7 @@ always @(*) begin
     4'b1101 : o_res = i_rs1 >>> i_rs2[4:0];            // sra
     4'b0110 : o_res = i_rs1 | i_rs2;                   // or
     4'b0111 : o_res = i_rs1 & i_rs2;                   // and
+    default : o_res = i_rs1 + i_rs2;                   // default - add
   endcase
 end
 
