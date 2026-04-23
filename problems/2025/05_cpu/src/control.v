@@ -21,7 +21,10 @@ assign use_b30 = (opcode == `OPCODE_OP) ||
 assign ALUOp_b4 = use_b30 ? i_instr_data[30] : 1'b0;
 
 always @(*) begin
-  o_aluop = {ALUOp_b4, funct3};
+  case (opcode)
+    `OPCODE_STORE: o_aluop = 3'b0; // add
+    default:       o_aluop = {ALUOp_b4, funct3};
+  endcase
   o_rf_wren = 1'b1;
   case (opcode)
     `OPCODE_OP_IMM: o_alusel2 = 2'd0; // choose Iimm

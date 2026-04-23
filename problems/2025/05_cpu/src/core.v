@@ -8,11 +8,11 @@ module core (
 
   input wire [31:0] i_mem_data,   // xbar 2 core
 
-  output reg [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
-  output reg [`DMEM_ADDR_WIDTH-1:0] o_mem_addr,   // core 2 xbar
-  output reg [31:0]                 o_mem_data,
-  output reg                        o_mem_we,
-  output reg [3:0]                  o_mem_mask
+  output reg  [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
+  output wire [`DMEM_ADDR_WIDTH-1:0] o_mem_addr,   // core 2 xbar
+  output wire [31:0]                 o_mem_data,
+  output wire                        o_mem_we,
+  output wire [3:0]                  o_mem_mask
 );
 
 wire [11:0] Iimm = i_instr_data[31:20];
@@ -70,13 +70,12 @@ control control (
   .o_rf_wren(rf_wren)
 );
 
-// todo handle o_mem_we, o_mem_mask
 lsu #(
   .ALU_RES_WIDTH(32),
   .ADDR_WIDTH(`DMEM_ADDR_WIDTH)
 ) lsu (
   .i_addr(ALU_res),
-  .i_data(src2),
+  .i_data(rs2),
   .o_addr(o_mem_addr),
   .o_data(o_mem_data),
   .o_we  (o_mem_we),
