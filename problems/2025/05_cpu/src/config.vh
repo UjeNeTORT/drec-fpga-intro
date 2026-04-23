@@ -1,4 +1,4 @@
-`define IMEM_FILE_TXT   "samples/sw.txt"
+`define IMEM_FILE_TXT   "samples/num.txt"
 
 `define IMEM_ADDR_WIDTH 7
 

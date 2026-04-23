@@ -18,18 +18,27 @@ module core (
 wire [11:0] Iimm = i_instr_data[31:20];
 wire [19:0] Uimm = i_instr_data[31:12];
 wire [11:0] Simm = {i_instr_data[31:25], i_instr_data[11:7]};
+wire [11:0] Bimm = {i_instr_data[31],    i_instr_data[7],
+                    i_instr_data[30:25], i_instr_data[11:8], 1'b0};
 
 reg [`IMEM_ADDR_WIDTH-1:0] pc = 0;
 
 wire [3:0] ALUOp;
+wire [2:0] CmpOp;
+wire [1:0] ALU_sel1;
 wire [1:0] ALU_sel2;
 wire       rf_wren;
 wire       lsu_we;
 
+wire br_taken;
+wire branch;
+wire cmp_res;
+
 wire [31:0] rs1;
 wire [31:0] rs2;
 
-wire [31:0] src1 = rs1;
+// alu inputs and outputs
+wire [31:0] src1;
 wire [31:0] src2;
 wire [31:0] ALU_res;
 
@@ -37,11 +46,20 @@ wire [4:0] rs1_addr = i_instr_data[19:15];
 wire [4:0] rs2_addr = i_instr_data[24:20];
 wire [4:0] rd_addr  = i_instr_data[11:7];
 
+mux4 #(.WIDTH(32)) rs1_mux (
+  .i_1(rs1),
+  .i_2({{20{Bimm[11]}}, Bimm}),
+  .i_3(32'b0),
+  .i_4(32'b0),
+  .i_sel(ALU_sel1),
+  .o_res(src1)
+);
+
 mux4 #(.WIDTH(32)) rs2_mux (
   .i_1({{20{Iimm[11]}}, Iimm}),
   .i_2(rs2),
   .i_3({{20{Simm[11]}}, Simm}),
-  .i_4(32'b0),
+  .i_4({{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc}),
   .i_sel(ALU_sel2),
   .o_res(src2)
 );
@@ -67,6 +85,9 @@ alu alu (
 control control (
   .i_instr_data(i_instr_data),
   .o_aluop(ALUOp),
+  .o_cmpop(CmpOp),
+  .o_branch(branch),
+  .o_alusel1(ALU_sel1),
   .o_alusel2(ALU_sel2),
   .o_rf_wren(rf_wren),
   .o_lsu_wren(lsu_we)
@@ -85,9 +106,17 @@ lsu #(
   .o_mask(o_mem_mask)
 );
 
+cmp cmp (
+  .i_rs1(rs1),
+  .i_rs2(rs2),
+  .i_cnd(CmpOp),
+  .o_res(cmp_res)
+);
+
 wire [`IMEM_ADDR_WIDTH-1:0] pc_next = pc + 7'b1;
 
-assign o_instr_addr = pc;
+assign br_taken = branch && cmp_res; // TODO: here xx's arise
+assign o_instr_addr = br_taken ? ALU_res : pc;
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
