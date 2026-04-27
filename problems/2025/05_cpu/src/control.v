@@ -23,10 +23,14 @@ assign use_b30 = (opcode == `OPCODE_OP) ||
 assign ALUOp_b4 = use_b30 ? i_instr_data[30] : 1'b0;
 
 always @(*) begin
+  o_lsu_wren = 1'b0;
   case (opcode)
     `OPCODE_STORE: begin
       o_aluop = 3'b0; // add
       o_lsu_wren = 1'b1;
+    end
+    `OPCODE_BRANCH: begin
+      o_aluop = 3'b0; // add
     end
     default: begin
       o_aluop = {ALUOp_b4, funct3};
