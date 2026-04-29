@@ -5,32 +5,35 @@ RTL_LIST := 		\
 	src/core.v		\
 	src/alu.v		\
 	src/cmp.v		\
-	src/reg_file.v	\
+	src/rf_2r1w.v	\
 	src/control.v	\
 	src/imem.v		\
 	src/dmem.v		\
+	src/maskgen.v	\
 	src/mem_xbar.v	\
-	src/lsu.v		\
+	src/mmio_xbar.v	\
+	src/hex_display.v	\
 	src/mux4.v		\
+	src/lsu.v		\
 
 sim: $(TB_LIST) $(RTL_LIST)
 	iverilog -I./src/ $^ -o sim
 	./sim
 
 waves: dump.vcd
-	gtkwave dump.vcd &
+	gtkwave dump.vcd -A &
 
 samples:
 	$(MAKE) -C samples/
 
 syn:
-	quartus_sh --flow compile fpga
+	~/altera_lite/25.1std/quartus/bin/quartus_sh --flow compile fpga
 
 gui:
-	quartus fpga &
+	~/altera_lite/25.1std/quartus/bin/quartus fpga &
 
-fpga:
-	quartus_pgm -c "USB-Blaster" -m JTAG -o "p;output/fpga.sof"
+pgm:
+	~/altera_lite/25.1std/quartus/bin/quartus_pgm -c "USB-Blaster" -m JTAG -o "p;output/fpga.sof"
 
 clean:
 	rm -rf sim dump.vcd

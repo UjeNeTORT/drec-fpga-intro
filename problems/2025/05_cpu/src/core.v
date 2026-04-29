@@ -5,7 +5,6 @@ module core (
   input wire rst_n,
 
   input wire [31:0] i_instr_data, // imem 2 core
-
   input wire [31:0] i_mem_data,   // xbar 2 core
 
   output wire [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
@@ -15,11 +14,17 @@ module core (
   output wire [3:0]                  o_mem_mask
 );
 
+wire [6:0] opcode = i_instr_data[6:0];
+wire [2:0] funct3 = i_instr_data[14:12];
+
 wire [11:0] Iimm = i_instr_data[31:20];
 wire [19:0] Uimm = i_instr_data[31:12];
 wire [11:0] Simm = {i_instr_data[31:25], i_instr_data[11:7]};
 wire [12:0] Bimm = {i_instr_data[31],    i_instr_data[7],
                     i_instr_data[30:25], i_instr_data[11:8], 1'b0};
+
+wire [31:0] Iimm_sgxt = {{20{Iimm[11]}}, Iimm};
+wire [31:0] Simm_sgxt = {{20{Simm[11]}}, Simm};
 
 // >>> 2 to obtain instr number, not addr
 wire [31:0] Bimm_shft = $signed({{19{Bimm[12]}}, Bimm}) >>> 2;
@@ -31,6 +36,7 @@ wire [3:0] ALUOp;
 wire [2:0] CmpOp;
 wire [1:0] ALU_sel1;
 wire [1:0] ALU_sel2;
+wire       wb_sel;
 wire       rf_wren;
 wire       lsu_we;
 
@@ -46,6 +52,7 @@ wire [31:0] src1;
 wire [31:0] src2;
 wire [31:0] ALU_res;
 
+wire [31:0] rf_dst_data;
 wire [4:0] rs1_addr = i_instr_data[19:15];
 wire [4:0] rs2_addr = i_instr_data[24:20];
 wire [4:0] rd_addr  = i_instr_data[11:7];
@@ -60,9 +67,9 @@ mux4 #(.WIDTH(32)) rs1_mux (
 );
 
 mux4 #(.WIDTH(32)) rs2_mux (
-  .i_1({{20{Iimm[11]}}, Iimm}),
+  .i_1(Iimm_sgxt),
   .i_2(rs2),
-  .i_3({{20{Simm[11]}}, Simm}),
+  .i_3(Simm_sgxt),
   .i_4({{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc}),
   .i_sel(ALU_sel2),
   .o_res(src2)
@@ -72,7 +79,7 @@ rf_2r1w rf_2r1w (
   .clk        (clk),
   .i_wr_en    (rf_wren),
   .i_wr_addr  (rd_addr),
-  .i_wr_data  (ALU_res),
+  .i_wr_data  (rf_dst_data),
   .i_rd_addr_1(rs1_addr),
   .i_rd_addr_2(rs2_addr),
   .o_rd_data_1(rs1),
@@ -94,20 +101,35 @@ control control (
   .o_alusel1(ALU_sel1),
   .o_alusel2(ALU_sel2),
   .o_rf_wren(rf_wren),
-  .o_lsu_wren(lsu_we)
+  .o_lsu_wren(lsu_we),
+  .o_wb_sel(wb_sel)
 );
+
+wire [3:0] mem_mask;
+
+maskgen maskgen (
+  .i_opcode (opcode),
+  .i_funct3 (funct3),
+  .o_mask   (mem_mask)
+);
+
+wire [31:0] lsu_data;
 
 lsu #(
   .ALU_RES_WIDTH(32),
   .ADDR_WIDTH(`DMEM_ADDR_WIDTH)
 ) lsu (
-  .i_addr(ALU_res),
-  .i_data(rs2),
-  .i_we (lsu_we),
-  .o_addr(o_mem_addr),
-  .o_data(o_mem_data),
-  .o_we  (o_mem_we),
-  .o_mask(o_mem_mask)
+  .i_addr      (ALU_res),
+  .i_data      (rs2),
+  .i_we        (lsu_we),
+  .i_sgxt      (~funct3[2]),
+  .i_mask      (mem_mask),
+  .i_dmem_data (i_mem_data),
+  .o_dmem_addr (o_mem_addr),
+  .o_dmem_data (o_mem_data),
+  .o_dmem_we   (o_mem_we),
+  .o_dmem_mask (o_mem_mask),
+  .o_data      (lsu_data)
 );
 
 cmp cmp (
@@ -116,6 +138,8 @@ cmp cmp (
   .i_cnd(CmpOp),
   .o_res(cmp_res)
 );
+
+assign rf_dst_data = wb_sel ? lsu_data : ALU_res;
 
 assign br_taken = branch && cmp_res;
 assign o_instr_addr = pc;
