@@ -10,7 +10,7 @@ module control (
   output reg [1:0] o_alusel2,
   output reg       o_rf_wren,
   output reg       o_lsu_wren,
-  output reg       o_wb_sel
+  output reg [1:0] o_wb_sel
 );
 
 wire [6:0]  opcode   = i_instr_data[6:0];
@@ -38,6 +38,9 @@ always @(*) begin
     `OPCODE_LOAD: begin
       o_aluop = 3'b0; // add
     end
+    `OPCODE_JALR: begin
+      o_aluop = 3'b0; // add
+    end
     default: begin
       o_aluop = {ALUOp_b4, funct3};
     end
@@ -47,7 +50,8 @@ always @(*) begin
     `OPCODE_OP_IMM,
     `OPCODE_OP,
     `OPCODE_STORE,
-    `OPCODE_LOAD:   o_alusel1 = 2'd0; // choose rs1
+    `OPCODE_LOAD,
+    `OPCODE_JALR:   o_alusel1 = 2'd0; // choose rs1
     `OPCODE_BRANCH: o_alusel1 = 2'd1; // choose Bimm (shft)
     default:        o_alusel1 = 0; // todo remove
   endcase
@@ -56,7 +60,8 @@ always @(*) begin
     `OPCODE_OP_IMM,
     `OPCODE_LOAD:   o_alusel2 = 2'd0; // choose Iimm (sgxt)
     `OPCODE_OP:     o_alusel2 = 2'd1; // choose rs2
-    `OPCODE_STORE:  o_alusel2 = 2'd2; // choose Simm (sgxt)
+    `OPCODE_STORE,
+    `OPCODE_JALR:   o_alusel2 = 2'd2; // choose Simm (sgxt)
     `OPCODE_BRANCH: o_alusel2 = 2'd3; // choose pc
     default:        o_alusel2 = 0; // todo remove
   endcase
@@ -64,11 +69,22 @@ always @(*) begin
   case (opcode)
     `OPCODE_STORE:  o_rf_wren = 1'd0;
     `OPCODE_BRANCH: o_rf_wren = 1'd0;
+    default:        o_rf_wren = 1'd1;
+  endcase
+
+  case (opcode)
+    `OPCODE_LOAD: o_wb_sel = 2'd1;
+    `OPCODE_JALR: o_wb_sel = 2'd2;
+    default:      o_wb_sel = 2'd0;
+  endcase
+
+  case (opcode)
+    `OPCODE_BRANCH: o_branch = 1'b1;
+    `OPCODE_JALR:   o_branch = 1'b1;
+    default:        o_branch = 1'b0;
   endcase
 
   o_cmpop = funct3;
-  o_branch = opcode == `OPCODE_BRANCH ? 1'b1 : 1'b0;
-  o_wb_sel = opcode == `OPCODE_LOAD   ? 1'b1 : 1'b0;
 end
 
 endmodule
