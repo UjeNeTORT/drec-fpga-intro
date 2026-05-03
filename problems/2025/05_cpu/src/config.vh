@@ -1,4 +1,4 @@
-`define IMEM_FILE_TXT   "samples/jalr.txt"
+`define IMEM_FILE_TXT   "samples/fib.txt"
 
 `define IMEM_ADDR_WIDTH 7
 
