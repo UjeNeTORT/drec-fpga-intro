@@ -8,7 +8,7 @@ _start:
     li      t2, 0   # fib(-1)
 
     li      t3, 1   # n counter
-    li      t4, 24  # max n counter
+    li      t4, 13  # max n counter
 
 _next:
     add     t2, t1,     t0  # fib(n) = fib(n - 1) + fib(n - 2)
