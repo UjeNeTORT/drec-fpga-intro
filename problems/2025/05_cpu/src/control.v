@@ -15,9 +15,9 @@ module control (
 
 wire [6:0]  opcode   = i_instr_data[6:0];
 wire [2:0]  funct3   = i_instr_data[14:12];
-wire [6:0]  funct7   = i_instr_data[14:12];
-wire [20:0] JALImm   = {i_instr_data[31],    i_instr_data[19:12],
-                        i_instr_data[20],    i_instr_data[30:21], 1'b0};
+
+wire use_b30;
+wire ALUOp_b4;
 
 assign use_b30 = (opcode == `OPCODE_OP) ||
                  (opcode == `OPCODE_OP_IMM && funct3 == 3'b101);

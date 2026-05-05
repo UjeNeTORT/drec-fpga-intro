@@ -45,6 +45,7 @@ always @(*) begin
       4'b01xx: o_data[31:24] = {8 {dmem_data[23]}};
       4'b001x: o_data[31:16] = {16{dmem_data[15]}};
       4'b0001: o_data[31:8]  = {24{dmem_data[7]}};
+      default: o_data[31:0]  = 32'b0;
     endcase
   end
 end

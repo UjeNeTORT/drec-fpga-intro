@@ -22,12 +22,12 @@ wire [19:0] Uimm = i_instr_data[31:12];
 wire [11:0] Simm = {i_instr_data[31:25], i_instr_data[11:7]};
 wire [12:0] Bimm = {i_instr_data[31],    i_instr_data[7],
                     i_instr_data[30:25], i_instr_data[11:8], 1'b0};
-wire [19:0] Jimm = {i_instr_data[31], i_instr_data[19:12],
+wire [20:0] Jimm = {i_instr_data[31], i_instr_data[19:12],
                     i_instr_data[20], i_instr_data[30:21], 1'b0};
 
 wire [31:0] Iimm_sgxt = {{20{Iimm[11]}}, Iimm};
 wire [31:0] Simm_sgxt = {{20{Simm[11]}}, Simm};
-wire [31:0] Jimm_sgxt = {{12{Jimm[19]}}, Jimm};
+wire [31:0] Jimm_sgxt = {{11{Jimm[20]}}, Jimm};
 
 // >>> 2 to obtain instr number, not addr
 wire [31:0] Bimm_shft = $signed({{19{Bimm[12]}}, Bimm}) >>> 2;
@@ -153,10 +153,12 @@ mux4 #(.WIDTH(32)) rd_mux (
   .o_res(rf_dst_data)
 );
 
+wire jmp;
+
 assign br_taken = branch && cmp_res;
 assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc;
-assign pc_inc = pc + 1;
+assign pc_inc = pc + 7'b1;
 assign pc_next = br_taken ? ALU_res         :
                  jmp      ? ALU_res >> 2'd2 : pc_inc;
 
