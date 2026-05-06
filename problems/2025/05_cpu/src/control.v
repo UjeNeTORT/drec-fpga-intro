@@ -46,7 +46,7 @@ always @(*) begin
     `OPCODE_STORE,
     `OPCODE_LOAD,
     `OPCODE_JALR:   o_alusel1 = 2'd0; // choose rs1
-    `OPCODE_BRANCH: o_alusel1 = 2'd1; // choose Bimm (shft)
+    `OPCODE_BRANCH: o_alusel1 = 2'd1; // choose Bimm (sgxt)
     `OPCODE_JAL:    o_alusel1 = 2'd2; // choose Jimm (sgxt)
     `OPCODE_AUIPC:  o_alusel1 = 2'd3; // choose Uimm
     default:        o_alusel1 = 0; // todo remove
@@ -71,11 +71,11 @@ always @(*) begin
   endcase
 
   case (opcode)
-    `OPCODE_LOAD: o_wb_sel = 2'd1;
+    `OPCODE_LOAD: o_wb_sel = 2'd1; // choose lsu_data
     `OPCODE_JALR,
     `OPCODE_JAL:  o_wb_sel = 2'd2; // choose pc_inc
     `OPCODE_LUI:  o_wb_sel = 2'd3; // choose Uimm (for lui)
-    default:      o_wb_sel = 2'd0;
+    default:      o_wb_sel = 2'd0; // choose Alu_res
   endcase
 
   case (opcode)

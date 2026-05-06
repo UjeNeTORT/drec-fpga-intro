@@ -27,14 +27,14 @@ wire [20:0] Jimm = {i_instr_data[31], i_instr_data[19:12],
 
 wire [31:0] Iimm_sgxt = {{20{Iimm[11]}}, Iimm};
 wire [31:0] Simm_sgxt = {{20{Simm[11]}}, Simm};
+wire [31:0] Bimm_sgxt = {{19{Bimm[12]}}, Bimm};
 wire [31:0] Jimm_sgxt = {{11{Jimm[20]}}, Jimm};
-
-// >>> 2 to obtain instr number, not addr
-wire [31:0] Bimm_shft = $signed({{19{Bimm[12]}}, Bimm}) >>> 2;
 
 reg  [`IMEM_ADDR_WIDTH-1:0] pc = 0;
 wire [`IMEM_ADDR_WIDTH-1:0] pc_inc;
 wire [`IMEM_ADDR_WIDTH-1:0] pc_next;
+
+wire [31:0] pc_real_32 = {{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc} << 2;
 
 wire [3:0] ALUOp;
 wire [2:0] CmpOp;
@@ -63,7 +63,7 @@ wire [4:0] rd_addr  = i_instr_data[11:7];
 
 mux4 #(.WIDTH(32)) rs1_mux (
   .i_1(rs1),
-  .i_2(Bimm_shft),
+  .i_2(Bimm_sgxt),
   .i_3(Jimm_sgxt),
   .i_4(Uimm),
   .i_sel(ALU_sel1),
@@ -75,7 +75,7 @@ mux4 #(.WIDTH(32)) rs2_mux (
   .i_2(rs2),
   .i_3(opcode == `OPCODE_JALR || opcode == `OPCODE_JAL
        ? Iimm_sgxt : Simm_sgxt),
-  .i_4({{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc}),
+  .i_4(pc_real_32),
   .i_sel(ALU_sel2),
   .o_res(src2)
 );
@@ -159,8 +159,8 @@ assign br_taken = branch && cmp_res;
 assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc;
 assign pc_inc = pc + 7'b1;
-assign pc_next = br_taken ? ALU_res         :
-                 jmp      ? ALU_res         : pc_inc;
+assign pc_next = br_taken ? ALU_res >> 2    :
+                 jmp      ? ALU_res >> 2    : pc_inc;
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
