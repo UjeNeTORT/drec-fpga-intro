@@ -29,14 +29,15 @@ always @(*) begin
 
   case (opcode)
     `OPCODE_STORE: begin
-      o_aluop = 3'b0; // add
+      o_aluop    = 3'b0; // add
       o_lsu_wren = 1'b1;
     end
-    `OPCODE_BRANCH: o_aluop = 3'b0; // add
-    `OPCODE_LOAD:   o_aluop = 3'b0; // add
+    `OPCODE_BRANCH,
+    `OPCODE_LOAD,
     `OPCODE_JALR,
-    `OPCODE_JAL:    o_aluop = 3'b0; // add
-    default:        o_aluop = {ALUOp_b4, funct3};
+    `OPCODE_JAL,
+    `OPCODE_AUIPC: o_aluop = 3'b0; // add
+    default:       o_aluop = {ALUOp_b4, funct3};
   endcase
 
   case (opcode)
@@ -47,6 +48,7 @@ always @(*) begin
     `OPCODE_JALR:   o_alusel1 = 2'd0; // choose rs1
     `OPCODE_BRANCH: o_alusel1 = 2'd1; // choose Bimm (shft)
     `OPCODE_JAL:    o_alusel1 = 2'd2; // choose Jimm (sgxt)
+    `OPCODE_AUIPC:  o_alusel1 = 2'd3; // choose Uimm
     default:        o_alusel1 = 0; // todo remove
   endcase
 
@@ -57,7 +59,8 @@ always @(*) begin
     `OPCODE_STORE,
     `OPCODE_JALR:   o_alusel2 = 2'd2; // choose Simm (sgxt)
     `OPCODE_BRANCH,
-    `OPCODE_JAL:    o_alusel2 = 2'd3; // choose pc
+    `OPCODE_JAL,
+    `OPCODE_AUIPC:  o_alusel2 = 2'd3; // choose pc
     default:        o_alusel2 = 0; // todo remove
   endcase
 
@@ -71,6 +74,7 @@ always @(*) begin
     `OPCODE_LOAD: o_wb_sel = 2'd1;
     `OPCODE_JALR,
     `OPCODE_JAL:  o_wb_sel = 2'd2; // choose pc_inc
+    `OPCODE_LUI:  o_wb_sel = 2'd3; // choose Uimm (for lui)
     default:      o_wb_sel = 2'd0;
   endcase
 

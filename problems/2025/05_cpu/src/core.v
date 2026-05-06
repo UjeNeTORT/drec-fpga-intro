@@ -18,7 +18,7 @@ wire [6:0] opcode = i_instr_data[6:0];
 wire [2:0] funct3 = i_instr_data[14:12];
 
 wire [11:0] Iimm = i_instr_data[31:20];
-wire [19:0] Uimm = i_instr_data[31:12];
+wire [31:0] Uimm = {i_instr_data[31:12], 12'b0};
 wire [11:0] Simm = {i_instr_data[31:25], i_instr_data[11:7]};
 wire [12:0] Bimm = {i_instr_data[31],    i_instr_data[7],
                     i_instr_data[30:25], i_instr_data[11:8], 1'b0};
@@ -65,7 +65,7 @@ mux4 #(.WIDTH(32)) rs1_mux (
   .i_1(rs1),
   .i_2(Bimm_shft),
   .i_3(Jimm_sgxt),
-  .i_4(32'b0),
+  .i_4(Uimm),
   .i_sel(ALU_sel1),
   .o_res(src1)
 );
@@ -148,7 +148,7 @@ mux4 #(.WIDTH(32)) rd_mux (
   .i_1(ALU_res),
   .i_2(lsu_data),
   .i_3({{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc_inc}),
-  .i_4(32'b0),
+  .i_4(Uimm),
   .i_sel(wb_sel),
   .o_res(rf_dst_data)
 );
@@ -160,7 +160,7 @@ assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc;
 assign pc_inc = pc + 7'b1;
 assign pc_next = br_taken ? ALU_res         :
-                 jmp      ? ALU_res >> 2'd2 : pc_inc;
+                 jmp      ? ALU_res         : pc_inc;
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin

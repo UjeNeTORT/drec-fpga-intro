@@ -5,3 +5,5 @@
 `define OPCODE_LOAD   7'h03
 `define OPCODE_JALR   7'h67
 `define OPCODE_JAL    7'h6f
+`define OPCODE_LUI    7'h37
+`define OPCODE_AUIPC  7'h17
