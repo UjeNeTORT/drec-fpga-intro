@@ -6,7 +6,7 @@ reg clk   = 1'b0;
 reg rst_n = 1'b0;
 
 always begin
-    #10 clk <= ~clk;
+    #1 clk <= ~clk;
 end
 
 initial begin
@@ -15,7 +15,7 @@ initial begin
     rst_n <= 1'b1;
 end
 
-wire [29:0] o_mmio_addr;
+wire [7:0] o_mmio_addr;
 wire [31:0] o_mmio_data;
 wire  [3:0] o_mmio_mask;
 wire        o_mmio_wren;
