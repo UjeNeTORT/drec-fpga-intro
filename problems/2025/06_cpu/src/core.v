@@ -41,6 +41,7 @@ wire [2:0] CmpOp;
 wire [1:0] ALU_sel1;
 wire [1:0] ALU_sel2;
 wire [1:0] wb_sel;
+wire       mem_load;
 wire       rf_wren;
 wire       lsu_we;
 
@@ -107,7 +108,8 @@ control control (
   .o_alusel2(ALU_sel2),
   .o_rf_wren(rf_wren),
   .o_lsu_wren(lsu_we),
-  .o_wb_sel(wb_sel)
+  .o_wb_sel(wb_sel),
+  .o_mem_load(mem_load)
 );
 
 wire [3:0] mem_mask;
@@ -124,16 +126,18 @@ lsu #(
   .ALU_RES_WIDTH(32),
   .ADDR_WIDTH(`DMEM_ADDR_WIDTH)
 ) lsu (
-  .i_addr      (ALU_res),
-  .i_data      (rs2),
-  .i_we        (lsu_we),
-  .i_sgxt      (~funct3[2]),
-  .i_mask      (mem_mask),
-  .i_dmem_data (i_mem_data),
-  .o_dmem_addr (o_mem_addr),
-  .o_dmem_data (o_mem_data),
-  .o_dmem_we   (o_mem_we),
-  .o_dmem_mask (o_mem_mask),
+  .clk        (clk),
+  .rst_n      (rst_n),
+  .i_addr     (ALU_res),
+  .i_data     (rs2),
+  .i_we       (lsu_we),
+  .i_sgxt     (~funct3[2]),
+  .i_mask     (mem_mask),
+  .i_mem_data (i_mem_data),
+  .o_mem_addr (o_mem_addr),
+  .o_mem_data (o_mem_data),
+  .o_mem_we   (o_mem_we),
+  .o_mem_mask (o_mem_mask),
   .o_data      (lsu_data)
 );
 
@@ -153,14 +157,36 @@ mux4 #(.WIDTH(32)) rd_mux (
   .o_res(rf_dst_data)
 );
 
+reg mem_out;
+
+// allow pc to increment for loads only
+// after the extra clock cycle
+always @(posedge clk or negedge rst_n) begin
+  if (!rst_n) begin
+    mem_out <= 0;
+  end else begin
+    mem_out <= mem_load & ~mem_out;
+  end
+end
+
 wire jmp;
 
 assign br_taken = branch && cmp_res;
 assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc_next;
 assign pc_inc = pc + 7'b1;
-assign pc_next = br_taken ? ALU_res >> 2    :
-                 jmp      ? ALU_res >> 2    : pc_inc;
+
+wire [1:0] pc_next_sel = br_taken || jmp     ? 2'd0 :
+                         ~mem_out & mem_load ? 2'd2 : 2'd1;
+
+mux4 #(.WIDTH(`IMEM_ADDR_WIDTH)) pc_sel (
+  .i_1(ALU_res[31:2]),
+  .i_2(pc_inc),
+  .i_3(pc),
+  .i_4({`IMEM_ADDR_WIDTH{1'b0}}),
+  .i_sel(pc_next_sel),
+  .o_res(pc_next)
+);
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
