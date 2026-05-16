@@ -15,6 +15,7 @@ always @(posedge CLK) begin
 end
 
 fp16add fp16add (
+  .clk(CLK),
   .i_a(a),
   .i_b(b),
   .o_res(res)
