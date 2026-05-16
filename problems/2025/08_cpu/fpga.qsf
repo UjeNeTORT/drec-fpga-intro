@@ -47,7 +47,7 @@ set_global_assignment -name VERILOG_FILE src/fpga_top.v
 set_global_assignment -name VERILOG_FILE src/system_top.v
 set_global_assignment -name VERILOG_FILE src/mux4.v
 set_global_assignment -name VERILOG_FILE src/dmem.v
-set_global_assignment -name VERILOG_FILE src/reg_file.v
+set_global_assignment -name VERILOG_FILE src/rf_2r1w.v
 set_global_assignment -name VERILOG_FILE src/mem_xbar.v
 set_global_assignment -name VERILOG_FILE src/imem.v
 set_global_assignment -name VERILOG_FILE src/cpu_top.v
@@ -56,10 +56,10 @@ set_global_assignment -name VERILOG_FILE src/control.v
 set_global_assignment -name VERILOG_FILE src/cmp.v
 set_global_assignment -name VERILOG_FILE src/alu.v
 set_global_assignment -name VERILOG_FILE src/lsu.v
+set_global_assignment -name VERILOG_FILE src/maskgen.v
 set_global_assignment -name VERILOG_FILE src/hex_display.v
 set_global_assignment -name VERILOG_FILE src/mmio_xbar.v
 set_global_assignment -name VERILOG_FILE src/ctrl_74hc595.v
-set_global_assignment -name VERILOG_FILE src/signext.v
 set_global_assignment -name QIP_FILE src/altera/ram1rw32x256.qip
 set_global_assignment -name QIP_FILE src/altera/imem1r32x256.qip
 set_global_assignment -name NUM_PARALLEL_PROCESSORS ALL
