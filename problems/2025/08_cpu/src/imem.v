@@ -5,7 +5,7 @@ module imem(
     input  wire         rst_n,
        
     input  wire         i_stall,
-    input  wire   [7:0] i_addr,
+    input  wire   [`IMEM_ADDR_WIDTH-1:0] i_addr,
     output wire  [31:0] o_data
 );
 
@@ -13,8 +13,8 @@ wire rst = ~rst_n;
 
 `ifdef __ICARUS__
 
-reg  [31:0] mem [0:255];
-reg   [7:0] addr;
+reg  [31:0] mem [0:2**`IMEM_ADDR_WIDTH-1];
+reg   [`IMEM_ADDR_WIDTH-1:0] addr;
 
 initial begin
    $readmemh(`IMEM_FILE_TXT, mem);
