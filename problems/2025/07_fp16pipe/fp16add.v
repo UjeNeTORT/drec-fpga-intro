@@ -102,20 +102,22 @@ end
 
 // Stage 2
 always @(*) begin
-  // sign magnitude adder
-  mw_sum = ppl_reg_sgn_1 == 0 ?  $signed(ppl_reg_mw_1)
-                              : -$signed(ppl_reg_mw_1);
-  mw_sum = ppl_reg_sgn_2 == 0 ? $signed(mw_sum) + $signed(ppl_reg_mw_2)
-                              : $signed(mw_sum) - $signed(ppl_reg_mw_2);
-  sgn_res = mw_sum[14];
-  mw_sum_abs = sgn_res == 1 ? -$signed(mw_sum) : mw_sum;
+  if (ppl_reg_sgn_1 == ppl_reg_sgn_2) begin
+    mw_sum_abs = ppl_reg_mw_1 + ppl_reg_mw_2;
+  end else begin
+    mw_sum_abs = ppl_reg_mw_1 - ppl_reg_mw_2;
+  end
+
+  if (mw_sum_abs == 15'b0) begin
+    sgn_res = 1'b0;
+  end else begin
+    sgn_res = ppl_reg_sgn_1;
+  end
 
   if (ppl_reg_exp_1 == 5'b11111) begin
     exp_res = 0;
     next_res = {ppl_reg_sgn_1, ppl_reg_exp_1, ppl_reg_mw_1[11:2]};
   end else begin
-    // find leading one
-
     if (flo_found != 0) begin
       // 01x.xxxxxxxxxxxx
       //   +---------+
