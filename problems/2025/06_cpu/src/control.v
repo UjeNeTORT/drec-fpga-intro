@@ -10,7 +10,8 @@ module control (
   output reg [1:0] o_alusel2,
   output reg       o_rf_wren,
   output reg       o_lsu_wren,
-  output reg [1:0] o_wb_sel
+  output reg [1:0] o_wb_sel,
+  output reg       o_mem_load
 );
 
 wire [6:0]  opcode   = i_instr_data[6:0];
@@ -38,6 +39,11 @@ always @(*) begin
     `OPCODE_JAL,
     `OPCODE_AUIPC: o_aluop = 3'b0; // add
     default:       o_aluop = {ALUOp_b4, funct3};
+  endcase
+
+  case (opcode)
+    `OPCODE_LOAD: o_mem_load = 1'd1;
+    default:      o_mem_load = 1'd0;
   endcase
 
   case (opcode)

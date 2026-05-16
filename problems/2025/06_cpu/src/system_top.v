@@ -16,7 +16,7 @@ wire [7:0] segments;
 wire [15:0] hexd_data;
 wire        hexd_wren;
 
-wire [29:0] cpu2mmio_addr;
+wire [`DMEM_ADDR_WIDTH-1:0] cpu2mmio_addr;
 wire [31:0] cpu2mmio_data;
 wire  [3:0] cpu2mmio_mask;
 wire        cpu2mmio_wren;

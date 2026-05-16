@@ -1,4 +1,4 @@
-`define IMEM_FILE_TXT   "samples/fib_riscv.txt"
+`define IMEM_FILE_TXT   "samples/auipc.txt"
 
 `define IMEM_ADDR_WIDTH 7
 
