@@ -1,5 +1,5 @@
-`define IMEM_FILE_TXT   "samples/fib.txt"
-`define IMEM_FILE_MIF   "samples/fib.mif"
+`define IMEM_FILE_TXT   "samples/auipc.txt"
+`define IMEM_FILE_MIF   "samples/auipc.mif"
 
 `define IMEM_ADDR_WIDTH 8
 `define DMEM_ADDR_WIDTH 8

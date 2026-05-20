@@ -8,6 +8,7 @@ module core (
   input wire [31:0] i_mem_data,   // xbar 2 core
 
   output wire [`IMEM_ADDR_WIDTH-1:0] o_instr_addr, // core 2 imem
+  output wire                        o_instr_stall,
   output wire [`DMEM_ADDR_WIDTH-1:0] o_mem_addr,   // core 2 xbar
   output wire [31:0]                 o_mem_data,
   output wire                        o_mem_we,
@@ -171,6 +172,9 @@ end
 
 wire jmp;
 
+reg stall = 1'b0;
+assign o_instr_stall = stall;
+
 assign br_taken = branch && cmp_res;
 assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc_next;
@@ -180,7 +184,7 @@ wire [1:0] pc_next_sel = br_taken || jmp     ? 2'd0 :
                          ~mem_out & mem_load ? 2'd2 : 2'd1;
 
 mux4 #(.WIDTH(`IMEM_ADDR_WIDTH)) pc_sel (
-  .i_1(ALU_res[31:2]),
+  .i_1(ALU_res[`IMEM_ADDR_WIDTH+2-1:2]),
   .i_2(pc_inc),
   .i_3(pc),
   .i_4({`IMEM_ADDR_WIDTH{1'b0}}),
