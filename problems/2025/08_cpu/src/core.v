@@ -66,10 +66,28 @@ wire [4:0] rd_addr  = i_instr_data[11:7];
 reg [1:0]                  ppl_wb_sel;
 reg [`IMEM_ADDR_WIDTH-1:0] ppl_pc_inc;
 reg [31:0]                 ppl_alu_res;
-reg [5:0]                  ppl_rd;
+reg [4:0]                  ppl_rd;
 reg [31:0]                 ppl_uimm;
 reg                        ppl_rf_wren;
 
+wire [31:0] rs1_tmp, rs2_tmp;
+
+rf_2r1w rf_2r1w (
+  .clk        (clk),
+  .i_wr_en    (ppl_rf_wren),
+  .i_wr_addr  (ppl_rd),
+  .i_wr_data  (rf_dst_data),
+  .i_rd_addr_1(rs1_addr),
+  .i_rd_addr_2(rs2_addr),
+  .o_rd_data_1(rs1_tmp),
+  .o_rd_data_2(rs2_tmp)
+);
+
+// rf RAW conflict bypass
+always @(*) begin
+  rs1 = rs1_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs1_tmp;
+  rs2 = rs2_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs2_tmp;
+end
 
 mux4 #(.WIDTH(32)) rs1_mux (
   .i_1(rs1),
@@ -90,30 +108,18 @@ mux4 #(.WIDTH(32)) rs2_mux (
   .o_res(src2)
 );
 
-wire [31:0] rs1_tmp, rs2_tmp;
-
-rf_2r1w rf_2r1w (
-  .clk        (clk),
-  .i_wr_en    (ppl_rf_wren),
-  .i_wr_addr  (ppl_rd),
-  .i_wr_data  (rf_dst_data),
-  .i_rd_addr_1(rs1_addr),
-  .i_rd_addr_2(rs2_addr),
-  .o_rd_data_1(rs1_tmp),
-  .o_rd_data_2(rs2_tmp)
-);
-
-// rf RAW conflict resolver
-always @(*) begin
-  rs1 = rs1_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs1_tmp;
-  rs2 = rs2_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs2_tmp;
-end
-
 alu alu (
   .i_rs1(src1),
   .i_rs2(src2),
   .i_op (ALUOp),
   .o_res(ALU_res)
+);
+
+cmp cmp (
+  .i_rs1(rs1),
+  .i_rs2(rs2),
+  .i_cnd(CmpOp),
+  .o_res(cmp_res)
 );
 
 control control (
@@ -156,13 +162,6 @@ lsu #(
   .o_mem_we   (o_mem_we),
   .o_mem_mask (o_mem_mask),
   .o_data      (lsu_data)
-);
-
-cmp cmp (
-  .i_rs1(rs1),
-  .i_rs2(rs2),
-  .i_cnd(CmpOp),
-  .o_res(cmp_res)
 );
 
 mux4 #(.WIDTH(32)) rd_mux (
