@@ -50,8 +50,7 @@ wire br_taken;
 wire branch;
 wire cmp_res;
 
-wire [31:0] rs1;
-wire [31:0] rs2;
+reg [31:0] rs1, rs2;
 
 // alu inputs and outputs
 wire [31:0] src1;
@@ -62,6 +61,15 @@ wire [31:0] rf_dst_data;
 wire [4:0] rs1_addr = i_instr_data[19:15];
 wire [4:0] rs2_addr = i_instr_data[24:20];
 wire [4:0] rd_addr  = i_instr_data[11:7];
+
+// pipeline registers
+reg [1:0]                  ppl_wb_sel;
+reg [`IMEM_ADDR_WIDTH-1:0] ppl_pc_inc;
+reg [31:0]                 ppl_alu_res;
+reg [5:0]                  ppl_rd;
+reg [31:0]                 ppl_uimm;
+reg                        ppl_rf_wren;
+
 
 mux4 #(.WIDTH(32)) rs1_mux (
   .i_1(rs1),
@@ -82,16 +90,24 @@ mux4 #(.WIDTH(32)) rs2_mux (
   .o_res(src2)
 );
 
+wire [31:0] rs1_tmp, rs2_tmp;
+
 rf_2r1w rf_2r1w (
   .clk        (clk),
-  .i_wr_en    (rf_wren),
-  .i_wr_addr  (rd_addr),
+  .i_wr_en    (ppl_rf_wren),
+  .i_wr_addr  (ppl_rd),
   .i_wr_data  (rf_dst_data),
   .i_rd_addr_1(rs1_addr),
   .i_rd_addr_2(rs2_addr),
-  .o_rd_data_1(rs1),
-  .o_rd_data_2(rs2)
+  .o_rd_data_1(rs1_tmp),
+  .o_rd_data_2(rs2_tmp)
 );
+
+// rf RAW conflict resolver
+always @(*) begin
+  rs1 = rs1_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs1_tmp;
+  rs2 = rs2_addr == ppl_rd && ppl_rf_wren ? rf_dst_data : rs2_tmp;
+end
 
 alu alu (
   .i_rs1(src1),
@@ -150,25 +166,13 @@ cmp cmp (
 );
 
 mux4 #(.WIDTH(32)) rd_mux (
-  .i_1(ALU_res),
+  .i_1(ppl_alu_res),
   .i_2(lsu_data),
-  .i_3({{(32-`IMEM_ADDR_WIDTH){1'b0}}, pc_inc}),
-  .i_4(Uimm),
-  .i_sel(wb_sel),
+  .i_3({{(32-`IMEM_ADDR_WIDTH){1'b0}}, ppl_pc_inc}),
+  .i_4(ppl_uimm),
+  .i_sel(ppl_wb_sel),
   .o_res(rf_dst_data)
 );
-
-reg mem_out;
-
-// allow pc to increment for loads only
-// after the extra clock cycle
-always @(posedge clk or negedge rst_n) begin
-  if (!rst_n) begin
-    mem_out <= 0;
-  end else begin
-    mem_out <= mem_load & ~mem_out;
-  end
-end
 
 wire jmp;
 
@@ -180,17 +184,16 @@ assign jmp = opcode == `OPCODE_JALR || opcode == `OPCODE_JAL;
 assign o_instr_addr = pc_next;
 assign pc_inc = pc + 7'b1;
 
-wire [1:0] pc_next_sel = br_taken || jmp     ? 2'd0 :
-                         ~mem_out & mem_load ? 2'd2 : 2'd1;
+assign pc_next = br_taken || jmp ? ALU_res[`IMEM_ADDR_WIDTH+2-1:2] : pc_inc;
 
-mux4 #(.WIDTH(`IMEM_ADDR_WIDTH)) pc_sel (
-  .i_1(ALU_res[`IMEM_ADDR_WIDTH+2-1:2]),
-  .i_2(pc_inc),
-  .i_3(pc),
-  .i_4({`IMEM_ADDR_WIDTH{1'b0}}),
-  .i_sel(pc_next_sel),
-  .o_res(pc_next)
-);
+always @(posedge clk) begin
+  ppl_wb_sel  <= wb_sel;
+  ppl_pc_inc  <= pc_inc;
+  ppl_alu_res <= ALU_res;
+  ppl_rd      <= rd_addr;
+  ppl_uimm    <= Uimm;
+  ppl_rf_wren <= rf_wren;
+end
 
 always @(posedge clk or negedge rst_n) begin
   if (!rst_n) begin
